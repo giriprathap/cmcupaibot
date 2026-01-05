@@ -19,7 +19,17 @@ if PROJECT_ROOT not in sys.path:
 # 2. Imports
 # --------------------------------------------------
 from rag.chain import get_rag_chain
-from rag.sql_queries import get_fixture_details, get_geo_details, get_sport_schedule, get_player_venues_by_phone, get_player_venue_by_ack
+from rag.sql_queries import (
+    get_participation_stats, 
+    get_fixture_details, 
+    get_geo_details,
+    get_sport_schedule,
+    get_disciplines_by_level,
+    get_player_venues_by_phone,
+    get_player_venue_by_ack,
+    get_sport_rules
+)
+from rag.location_search import search_district_officer, search_cluster_incharge
 # Also importing get_player_by_phone from lookup (which uses SQL now)
 # rag.lookup imports removed as per privacy policy
 from rag.sql_agent import run_sql_agent
@@ -69,16 +79,25 @@ SESSION_DATA = {} # {session_id: {key: val}}
 
 # MENU CONSTANTS
 MENU_MAIN = "MAIN_MENU"
-MENU_REG_ELIGIBILITY = "MENU_REG_ELIGIBILITY"
-MENU_SPORTS_MATCHES = "MENU_SPORTS_MATCHES"
-MENU_VENUES_OFFICIALS = "MENU_VENUES_OFFICIALS"
-MENU_PLAYER_STATUS = "MENU_PLAYER_STATUS"
-MENU_HELP_LANGUAGE = "MENU_HELP_LANGUAGE"
-MENU_SCHEDULE_OPTIONS = "MENU_SCHEDULE_OPTIONS"
+MENU_REG_FAQ = "MENU_REG_FAQ"           # 1. Registration FAQ
+MENU_DISCIPLINES = "MENU_DISCIPLINES"
+MENU_RULES = "MENU_RULES"   # 2. Disciplines
+MENU_SCHEDULE = "MENU_SCHEDULE"         # 3. Schedules
+MENU_VENUES = "MENU_VENUES"             # 4. Venues
+MENU_OFFICERS = "MENU_OFFICERS"         # 5. Officers
+MENU_PLAYER_STATUS = "MENU_PLAYER_STATUS" # 6. Player Details
+MENU_MEDALS = "MENU_MEDALS"             # 7. Medal Tally
+MENU_HELPDESK = "MENU_HELPDESK"         # 8. Helpdesk
+MENU_LANGUAGE = "MENU_LANGUAGE"         # 9. Language
 
-# SUB-MENUS / STATES
-MENU_DISCIPLINES = "MENU_DISCIPLINES" # Reused for Level Selection
-MENU_LANGUAGE = "MENU_LANGUAGE"       # Reused for Language Selection
+# INTERMEDIATE GROUP MENUS
+MENU_GROUP_SPORTS = "MENU_GROUP_SPORTS"   # Sports & Matches
+MENU_GROUP_VENUES = "MENU_GROUP_VENUES"   # Venues & Officials
+MENU_GROUP_HELP = "MENU_GROUP_HELP"       # Help & Language
+
+# SUB-MENUS FOR OFFICERS
+MENU_OFFICERS_DISTRICT = "MENU_OFFICERS_DISTRICT"
+MENU_OFFICERS_CLUSTER = "MENU_OFFICERS_CLUSTER"
 
 # SUB-INTERACTION STATES (Waiting for input)
 STATE_WAIT_PHONE = "STATE_WAIT_PHONE"
@@ -87,37 +106,48 @@ STATE_WAIT_LOCATION = "STATE_WAIT_LOCATION"
 STATE_WAIT_SPORT_SCHEDULE = "STATE_WAIT_SPORT_SCHEDULE"
 STATE_WAIT_SPORT_RULES = "STATE_WAIT_SPORT_RULES"
 STATE_WAIT_SPORT_AGE = "STATE_WAIT_SPORT_AGE"
-STATE_WAIT_OFFICER_LOC = "STATE_WAIT_OFFICER_LOC" 
+STATE_WAIT_DIST_OFFICER = "STATE_WAIT_DIST_OFFICER"
+STATE_WAIT_CLUSTER_INCHARGE = "STATE_WAIT_CLUSTER_INCHARGE"
 
-# Additional Develop Constants (Preserved for compatibility)
+MENU_DISCIPLINES_LEVEL = "MENU_DISCIPLINES_LEVEL"
+MENU_DISCIPLINES_CATEGORY = "MENU_DISCIPLINES_CATEGORY"
 MENU_SELECT_SPORT = "MENU_SELECT_SPORT"
 MENU_GAME_OPTIONS = "MENU_GAME_OPTIONS"
 MENU_SCHEDULE_GAME_SEARCH = "MENU_SCHEDULE_GAME_SEARCH"
 
 PARENT_MAP = {
-    MENU_REG_ELIGIBILITY: MENU_MAIN,
-    MENU_SPORTS_MATCHES: MENU_MAIN,
-    MENU_VENUES_OFFICIALS: MENU_MAIN,
+    MENU_REG_FAQ: MENU_MAIN,
+    MENU_DISCIPLINES: MENU_MAIN,
+    MENU_SCHEDULE: MENU_MAIN,
+    MENU_VENUES: MENU_MAIN,
+    MENU_OFFICERS: MENU_MAIN,
     MENU_PLAYER_STATUS: MENU_MAIN,
-    MENU_HELP_LANGUAGE: MENU_MAIN,
-    
-    MENU_DISCIPLINES: MENU_SPORTS_MATCHES,
-    MENU_SCHEDULE_OPTIONS: MENU_SPORTS_MATCHES,
-    MENU_LANGUAGE: MENU_HELP_LANGUAGE,
+    MENU_MEDALS: MENU_MAIN,
+    MENU_HELPDESK: MENU_MAIN,
+    MENU_LANGUAGE: MENU_MAIN,
     
     # Sub-states
-    STATE_WAIT_PHONE: MENU_PLAYER_STATUS,
+    STATE_WAIT_PHONE: MENU_PLAYER_STATUS, # Back to Player Status menu
     STATE_WAIT_ACK: MENU_PLAYER_STATUS,
-    STATE_WAIT_LOCATION: MENU_VENUES_OFFICIALS,
-    STATE_WAIT_OFFICER_LOC: MENU_VENUES_OFFICIALS,
-    STATE_WAIT_SPORT_SCHEDULE: MENU_SCHEDULE_OPTIONS,
-    STATE_WAIT_SPORT_RULES: MENU_REG_ELIGIBILITY,
-    STATE_WAIT_SPORT_AGE: MENU_REG_ELIGIBILITY,
+    STATE_WAIT_LOCATION: MENU_VENUES,     # Back to Venues menu
+    STATE_WAIT_SPORT_SCHEDULE: MENU_SCHEDULE,
+    STATE_WAIT_SPORT_RULES: MENU_MAIN, # Or relevant parent
+    STATE_WAIT_DIST_OFFICER: MENU_OFFICERS,
+    STATE_WAIT_CLUSTER_INCHARGE: MENU_OFFICERS,
     
-    # Enable Develop Logic
-    MENU_SELECT_SPORT: MENU_DISCIPLINES,
-    MENU_GAME_OPTIONS: MENU_SELECT_SPORT,
-    MENU_SCHEDULE_GAME_SEARCH: MENU_SPORTS_MATCHES, 
+    MENU_DISCIPLINES_LEVEL: MENU_MAIN,
+    MENU_SELECT_SPORT: MENU_DISCIPLINES,  # Back to Level Selection
+    MENU_GAME_OPTIONS: MENU_SELECT_SPORT, # Back to Sport List
+    MENU_SCHEDULE_GAME_SEARCH: MENU_SCHEDULE, # Back to Schedules Menu
+
+    # Officers Sub-menus
+    MENU_OFFICERS_DISTRICT: MENU_OFFICERS,
+    MENU_OFFICERS_CLUSTER: MENU_OFFICERS,
+
+    # Intermediate Groups Back Pointers
+    MENU_GROUP_SPORTS: MENU_MAIN,
+    MENU_GROUP_VENUES: MENU_MAIN,
+    MENU_GROUP_HELP: MENU_MAIN,
 }
 
 
@@ -128,7 +158,7 @@ def get_or_init_rag_chain():
     """
     global rag_chain
     if rag_chain is None:
-        print("[INFO] Initializing RAG chain (lazy)...")
+        print("🧠 Initializing RAG chain (lazy)...")
         rag_chain = get_rag_chain()
         print("✅ RAG chain initialized")
     return rag_chain
@@ -137,10 +167,9 @@ def get_or_init_rag_chain():
 # 6. Helpers & Menu Content
 # --------------------------------------------------
 # --- HELPER: Cluster Search ---
-# --- HELPER: Cluster Search ---
 import difflib
 
-def search_cluster_incharge(user_query):
+def search_cluster_incharge_helper(user_query):
     """
     Searches for the cluster name using fuzzy matching.
     """
@@ -207,86 +236,170 @@ def search_cluster_incharge(user_query):
     except Exception as e:
         return f"Error searching data: {str(e)}"
 
-# --- MENU TEXT HELPERS ---
-def get_menu_text(menu_name):
-    if menu_name == MENU_MAIN:
-        return (
-            "🏆 **Welcome to Telangana Sports Authority – CM Cup 2025**\n\n"
-            "1️⃣ Registration & Eligibility 📝\n"
-            "2️⃣ Sports & Matches 🏅\n"
-            "3️⃣ Venues & Officials 🏟️\n"
-            "4️⃣ Player Status 🔍\n"
-            "5️⃣ Help & Language 📞\n\n"
-            "💡 *Type a number (1–5) to proceed*"
-        )
-    elif menu_name == MENU_REG_ELIGIBILITY:
-        return (
-            "📝 **Registration & Eligibility**\n\n"
-            "1️⃣ How to Register\n"
-            "2️⃣ Eligibility Rules (Age/Criteria)\n"
-            "3️⃣ Documents Required\n"
-            "4️⃣ Registration Status (Check Info)\n"
-            "5️⃣ FAQs\n\n"
-            "🔙 *Type 'Back' for Main Menu*"
-        )
-    elif menu_name == MENU_SPORTS_MATCHES:
-        return (
-            "🏅 **Sports & Matches**\n\n"
-            "1️⃣ Sports Disciplines (By Level)\n"
-            "2️⃣ Schedules & Fixtures\n"
-            "3️⃣ Medal Tally\n\n"
-            "🔙 *Type 'Back' for Main Menu*"
-        )
-    elif menu_name == MENU_VENUES_OFFICIALS:
-        return (
-            "🏟️ **Venues & Officials**\n\n"
-            "1️⃣ District Officers / Venue In-Charge\n"
-            "2️⃣ Venue In-Charge (Cluster/Mandal)\n"
-            "\n(Venues details ignored as per instruction)\n"
-            "🔙 *Type 'Back' for Main Menu*"
-        )
-    elif menu_name == MENU_PLAYER_STATUS:
-        return (
-            "🔍 **Player Status**\n\n"
-            "1️⃣ Search by Phone No\n"
-            "2️⃣ Search by Acknowledgment No\n\n"
-            "🔙 *Type 'Back' for Main Menu*"
-        )
-    elif menu_name == MENU_HELP_LANGUAGE:
-        return (
-            "📞 **Help & Language**\n\n"
-            "1️⃣ Helpline Numbers\n"
-            "2️⃣ Email Support\n"
-            "3️⃣ Change Language\n\n"
-            "🔙 *Type 'Back' for Main Menu*"
-        )
-    elif menu_name == MENU_LANGUAGE:
-        return (
-            "🌐 **Select Language**\n\n"
-            "1️⃣ English\n"
-            "2️⃣ తెలుగు (Telugu)\n"
-            "3️⃣ हिन्दी (Hindi)\n\n"
-            "🔙 *Type 'Back' for Previous Menu*"
-        )
-    elif menu_name == MENU_DISCIPLINES:
-        return (
-            "📅 **Disciplines - Select Level**\n\n"
-            "1️⃣ Gram Panchayat / Cluster Level\n"
-            "2️⃣ Mandal Level\n"
-            "3️⃣ Assembly Constituency Level\n"
-            "4️⃣ District Level\n"
-            "5️⃣ State Level\n\n"
-            "🔙 *Type 'Back' for Previous Menu*"
-        )
-    elif menu_name == MENU_SCHEDULE_OPTIONS:
-        return (
-            "📅 **Schedules & Fixtures**\n\n"
-            "1️⃣ Tournament Schedules 🗓️\n"
-            "2️⃣ Games Schedules 🏅\n\n"
-            "🔙 *Type 'Back' for Previous Menu*"
-        )
+def create_response(content, source, model=None):
+    """
+    Standardizes the API response format.
+    content: Can be a string (text) or a dict (from get_menu_data).
+    """
+    if isinstance(content, dict) and "menus" in content:
+        # Structured Menu Data
+        return {
+            "text": content["text"],
+            "menus": content["menus"],
+            "response": content["text"], # Legacy
+            "source": source
+        }
+    
+    # Plain Text / formatting
+    resp_text = str(content)
+    base = {
+        "text": resp_text,
+        "menus": [],
+        "response": resp_text,
+        "source": source
+    }
+    if model:
+        base["model_used"] = model
+    return base
 
-    return "Menu not found."
+# --- MENU TEXT HELPERS ---
+def get_menu_data(menu_name):
+    print(f"DEBUG: get_menu_data called with {menu_name}")
+    
+    if menu_name == MENU_MAIN:
+        return {
+            "text": "🏆 **Welcome to Telangana Sports Authority – CM Cup 2025 Chatbot** 👋\n\nI can help players, parents, coaches, and officials.",
+            "menus": [
+                {"name": "Registration & Eligibility", "value": "1"},
+                {"name": "Sports & Matches", "value": "2"},
+                {"name": "Venues & Officials", "value": "3"},
+                {"name": "Player Status", "value": "4"},
+                {"name": "Help & Language", "value": "5"}
+            ]
+        }
+    elif menu_name == MENU_GROUP_SPORTS:
+        return {
+            "text": "🏅 **Sports & Matches**",
+            "menus": [
+                {"name": "Sports Disciplines", "value": "1"},
+                {"name": "Schedules & Fixtures", "value": "2"},
+                {"name": "Medal Tally", "value": "3"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_GROUP_VENUES:
+        return {
+            "text": "🏟️ **Venues & Officials**",
+            "menus": [
+                {"name": "Venues", "value": "1"},
+                {"name": "District Officers", "value": "2"},
+                {"name": "Venue In-Charge", "value": "3"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_GROUP_HELP:
+        return {
+            "text": "📞 **Help & Language**",
+            "menus": [
+                {"name": "Helpline Numbers", "value": "1"},
+                {"name": "Email Support", "value": "2"},
+                {"name": "Change Language", "value": "3"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_REG_FAQ:
+        return {
+            "text": "📝 **Registration & Eligibility**",
+            "menus": [
+                {"name": "How to Register", "value": "1"},
+                {"name": "Eligibility Rules", "value": "2"},
+                {"name": "Documents Required", "value": "3"},
+                {"name": "Registration Status", "value": "4"},
+                {"name": "FAQs", "value": "5"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_DISCIPLINES:
+        return {
+            "text": "📅 **Disciplines - Select Level**",
+            "menus": [
+                {"name": "Gram Panchayat / Cluster Level", "value": "1"},
+                {"name": "Mandal Level", "value": "2"},
+                {"name": "Assembly Constituency Level", "value": "3"},
+                {"name": "District Level", "value": "4"},
+                {"name": "State Level", "value": "5"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+
+    elif menu_name == MENU_SCHEDULE:
+        return {
+            "text": "🏆 **Schedules**",
+            "menus": [
+                {"name": "Tournament Schedule", "value": "1"},
+                {"name": "Games Schedule", "value": "2"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_VENUES:
+        return {
+            "text": "📜 **Venues Information**\n\n⚠️ *Data coming soon for Venues.*",
+            "menus": [{"name": "Main Menu", "value": "Back"}]
+        }
+    elif menu_name == MENU_OFFICERS:
+        return {
+            "text": "📊 **Special Officers / In-Charge Details**",
+            "menus": [
+                {"name": "District Officers", "value": "1"},
+                {"name": "Venue In-Charge", "value": "2"},
+                {"name": "Main Menu", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_PLAYER_STATUS:
+        return {
+            "text": "📥 **Player Details / Status**",
+            "menus": [
+                {"name": "Search by Phone No", "value": "1"},
+                {"name": "Search by Acknowledgment No", "value": "2"},
+                {"name": "Return", "value": "Back"}
+            ]
+        }
+    elif menu_name == MENU_MEDALS:
+        return {
+            "text": "📍 **Medal Tally**\n\n🏆 District-wise Medal Tally will be available after the State Meet commences.\nStay tuned!",
+            "menus": [{"name": "Main Menu", "value": "Back"}]
+        }
+    elif menu_name == MENU_HELPDESK:
+         return {
+             "text": "📞 **Helpdesk & Support**",
+             "menus": [
+                 {"name": "State Helpline Numbers", "value": "1"},
+                 {"name": "District Sports Officers", "value": "2"},
+                 {"name": "Email Support", "value": "3"},
+                 {"name": "Main Menu", "value": "Back"}
+             ]
+         }
+    elif menu_name == MENU_LANGUAGE:
+         return {
+             "text": "🌐 **Select Language**",
+             "menus": [
+                 {"name": "English", "value": "1"},
+                 {"name": "తెలుగు (Telugu)", "value": "2"},
+                 {"name": "हिन्दी (Hindi)", "value": "3"},
+                 {"name": "Main Menu", "value": "Back"}
+             ]
+         }
+    elif menu_name == MENU_OFFICERS_DISTRICT:
+        return {
+            "text": "👮‍♂️ **District Sports Officers**\n\nPlease enter the **District Name** to find the District Sports Officer details.\nExample: *'Warangal', 'Khammam', 'Nalgonda'*",
+            "menus": [{"name": "Go Back", "value": "Back"}]
+        }
+    elif menu_name == MENU_OFFICERS_CLUSTER:
+        return {
+            "text": "🏟️ **Venue In-Charge (Cluster/Village)**\n\nPlease enter the **Cluster Name** to find the In-Charge details.\nExample: *'Akinepalli', 'Dammapeta', 'Allipalli'*",
+            "menus": [{"name": "Go Back", "value": "Back"}]
+        }
+    return {"text": "Menu not found.", "menus": []}
 
 def extract_plain_text(resp) -> str:
     """Try to extract a single answer string from various response shapes."""
@@ -382,11 +495,16 @@ async def process_user_query(raw_query: str, session_id: str = None):
     # 0. MENU STATE MACHINE
     # ------------------------------------------------
     
-    # Global Reset Commands
+    # Global Exit Commands
+    if user_query in ["0", "exit", "quit"]:
+         SESSION_STATE.pop(session_id, None)
+         return create_response("👋 Chat Session Ended. Type 'Hi' to start again.", "menu_system")
+
+    # Global Reset (Home) Commands
     if user_query in ["hi", "hello", "menu", "start", "restart", "home"]:
         if session_id:
             SESSION_STATE[session_id] = MENU_MAIN
-        return {"response": get_menu_text(MENU_MAIN), "source": "menu_system"}
+        return create_response(get_menu_data(MENU_MAIN), "menu_system")
         
     # Get Current State
     current_state = SESSION_STATE.get(session_id, MENU_MAIN) if session_id else MENU_MAIN
@@ -395,13 +513,13 @@ async def process_user_query(raw_query: str, session_id: str = None):
     if user_query in ["back", "previous", "return", "exit"]:
         # Logic to return to parent
         if current_state == MENU_MAIN:
-            return {"response": "You are already at the Main Menu.", "source": "menu_system"}
+            return create_response("You are already at the Main Menu.", "menu_system")
         else:
             # Look up parent
             parent = PARENT_MAP.get(current_state, MENU_MAIN)
             if session_id:
                 SESSION_STATE[session_id] = parent
-            return {"response": get_menu_text(parent), "source": "menu_system"}
+            return create_response(get_menu_data(parent), "menu_system")
 
     # State: WAITING FOR INPUT (Phone, Ack, Location)
     # If we are in a 'waiting' state, we treat the query as the input value
@@ -413,13 +531,13 @@ async def process_user_query(raw_query: str, session_id: str = None):
             print(f"⚡ Intent: Menu Phone Lookup ({phone})")
             
             # Reset state
-            if session_id: SESSION_STATE[session_id] = MENU_REGISTRATION
+            if session_id: SESSION_STATE[session_id] = MENU_PLAYER_STATUS
             
             # SQL Lookup
             registrations = get_player_venues_by_phone(phone)
             
             if not registrations:
-                 return {"response": f"ℹ️ No registrations found for **{phone}**. Please check the number or register at the official site.", "source": "sql_database"}
+                return create_response(f"ℹ️ No registrations found for **{phone}**. Please check the number or register at the official site.", "sql_database")
             
             # Logic: 1 Record vs Multi
             if len(registrations) == 1:
@@ -432,12 +550,14 @@ async def process_user_query(raw_query: str, session_id: str = None):
                     txt += f"**Venue:** {venue}\n"
                     txt += f"**Date:** {rec.get('match_date') or 'Check Schedule'}\n"
                 else:
-                    txt += "**Status:** There are no Venue Details available yet.\n"
-                    txt += f"You can contact your cluster Incharge:\n"
-                    txt += f"👤 **{rec.get('cluster_incharge', 'N/A')}**\n"
-                    txt += f"📞 **{rec.get('incharge_mobile', 'N/A')}**\n"
+                    txt += "**Status:** Venue details pending/TBD.\n"
                 
-                return {"response": txt, "source": "sql_database"}
+                # Always show In-Charge if available
+                if rec.get('cluster_incharge'):
+                     txt += f"\n👤 **Venue In-Charge:** {rec.get('cluster_incharge')}\n"
+                     txt += f"📞 **Contact:** {rec.get('incharge_mobile', 'N/A')}\n"
+                
+                return create_response(txt, "sql_database")
                 
             else:
                 # Multiple Records
@@ -447,106 +567,229 @@ async def process_user_query(raw_query: str, session_id: str = None):
                     txt += f"- {s}\n"
                 
                 txt += "\nSince you have multiple events, please provide your **Acknowledgment Number** (e.g., SATGCMC-...) to get specific venue details."
-                return {"response": txt, "source": "sql_database"} 
+                return create_response(txt, "sql_database") 
         else:
-             return {"response": "❌ Invalid Phone Number. Please enter a 10-digit mobile number starting with 6-9.\n\nType 'Back' to cancel.", "source": "validation_error"}
+             return create_response("❌ Invalid Phone Number. Please enter a 10-digit mobile number starting with 6-9.\n\nType 'Back' to cancel.", "validation_error")
+    
+    # State: WAITING FOR LOCATION
+    if current_state == STATE_WAIT_LOCATION:
+        loc_name = user_query
+        print(f"⚡ Intent: Menu Location Lookup ({loc_name})")
+        # Keep state to allow checking another location
+        
+        try:
+            res = get_geo_details(loc_name)
+            if res:
+                t = res['type']
+                d = res['data']
+                txt = f"### 📍 Location Found: {d.get('vill_nm') or d.get('mandal_nm') or d.get('dist_nm')}\n"
+                txt += f"**Type:** {t}\n"
+                if t == 'Village':
+                    txt += f"**Mandal:** {d.get('parent_mandal')}\n"
+                    txt += f"**District:** {d.get('parent_district')}"
+                elif t == 'Mandal':
+                    txt += f"**District:** {d.get('parent_district')}"
+                
+                txt += "\n\nType another location to check, or 'Back'."
+                return create_response(txt, "sql_database")
+            else:
+                return create_response(f"🚫 **{loc_name}** could not be found in our database.\n\nType another name or 'Back'.", "sql_database")
+        except Exception as e:
+            return create_response(f"Error looking up location: {str(e)}", "error")
 
-    # --- MENU NAVIGATION (DIGIT INPUTS) --------------------------------
+    # State: WAITING FOR SPORT (SCHEDULE)
+    if current_state == STATE_WAIT_SPORT_SCHEDULE:
+        sport_name = user_query
+        print(f"⚡ Intent: Menu Sport Schedule ({sport_name})")
+        # REMOVED RESET: Allow continuous querying (e.g. Cricket then Kabaddi)
+        # if session_id: SESSION_STATE[session_id] = MENU_SCHEDULE
+        
+        try:
+             schedules = get_sport_schedule(sport_name)
+             if schedules:
+                 txt = f"### 📅 {sport_name.title()} Schedule (Next 5)\n"
+                 for m in schedules[:5]:
+                     txt += f"- **{m.get('event_name')}**: {m.get('team1_name')} vs {m.get('team2_name')} @ {m.get('venue')}\n"
+                 return create_response(txt, "sql_database")
+             else:
+                 return create_response(f"ℹ️ No specific schedule found for **{sport_name}**. It might not be scheduled yet or check spelling.\n\nType another sport or 'Back'.", "sql_database")
+        except Exception as e:
+             return create_response(f"Error retrieving schedule: {str(e)}", "error")
+
+    # State: WAITING FOR SPORT (AGE CRITERIA)
+    if current_state == STATE_WAIT_SPORT_AGE:
+        sport_input = user_query
+        print(f"⚡ Intent: Age Criteria Lookup ({sport_input})")
+        
+        try:
+            rules = get_sport_rules(sport_input)
+            if rules:
+                txt = f"### 🎂 Age Criteria for {rules.get('sport_name')}\n\n"
+                txt += f"**Min Age:** {rules.get('min_age')} years\n"
+                txt += f"**Max Age:** {rules.get('max_age')} years\n"
+                txt += f"**Team Size:** {rules.get('team_size') or 'Individual'}\n"
+                txt += f"**Para Event:** {'Yes' if rules.get('is_para')=='1' else 'No'}\n\n"
+                txt += "Type another sport to check, or 'Back'."
+                return create_response(txt, "sql_database")
+            else:
+                return create_response(f"ℹ️ Could not find rules for **{sport_input}**. Please check the spelling or try another sport.", "sql_database")
+        except Exception as e:
+            return create_response(f"Error looking up age rules: {e}", "error")
+
+
+    # State: WAITING FOR SPORT (RULES)
+    if current_state == STATE_WAIT_SPORT_RULES:
+        sport_name = user_query
+        print(f"⚡ Intent: Menu Sport Rules ({sport_name})")
+        
+        try:
+            rag_resp = rag_bot.invoke({"question": rag_query})
+            rag_text = extract_plain_text(rag_resp.get('result', rag_resp))
+            return create_response(f"📜 **Rules for {sport_name}:**\n\n{rag_text}", "rag_chain")
+        except Exception as e:
+             return create_response(f"Error retrieving rules: {str(e)}", "error")
+
+    # State: WAITING FOR DISTRICT OFFICER
+    if current_state == STATE_WAIT_DIST_OFFICER:
+        district_name = user_query
+        print(f"⚡ Intent: District Officer Lookup ({district_name})")
+        
+        try:
+             # Lazy import for safety
+            from rag.location_search import search_district_officer
+            officer = search_district_officer(district_name)
+            
+            if officer:
+                if session_id: SESSION_STATE[session_id] = MENU_OFFICERS_DISTRICT
+                
+                # Format output properly
+                txt = f"### 👮‍♂️ District Sports Officer - {officer.get('district_name')}\n\n"
+                txt += f"**Name:** {officer.get('special_officer_name')}\n"
+                txt += f"**Designation:** {officer.get('designation')}\n"
+                txt += f"**Contact:** {officer.get('contact_no')}\n\n"
+                txt += "Type another District Name or 'Back'."
+                return create_response(txt, "file_search")
+            else:
+                return create_response(f"ℹ️ No District Sports Officer found for **{district_name}**. Please check the spelling or try another district.\n\nType another district or 'Back'.", "file_search")
+        except Exception as e:
+            return create_response(f"Error searching for district officer: {str(e)}", "error")
+
+    # State: WAITING FOR CLUSTER INCHARGE
+    if current_state == STATE_WAIT_CLUSTER_INCHARGE:
+        cluster_name = user_query
+        print(f"⚡ Intent: Cluster In-Charge Lookup ({cluster_name})")
+        
+        try:
+            # Lazy import for safety
+            from rag.location_search import search_cluster_incharge
+            
+            # Correct function name
+            res = search_cluster_incharge(cluster_name)
+            
+            if res:
+                if session_id: SESSION_STATE[session_id] = MENU_OFFICERS_CLUSTER
+                
+                t = res.get('type', 'Cluster')
+                d = res.get('data', {})
+                
+                if t == 'Village':
+                     txt = f"### 🏟️ Venue In-Charge (Village: {d.get('villagename')})\n"
+                     txt += f"mapped to **Cluster: {res.get('mapped_cluster')}**\n\n"
+                else:
+                     txt = f"### 🏟️ Venue In-Charge (Cluster: {d.get('clustername')})\n\n"
+                
+                txt += f"**In-Charge:** {d.get('incharge_name')}\n"
+                txt += f"**Contact:** {d.get('mobile_no')}\n\n"
+                txt += "Type another Cluster/Village Name or 'Back'."
+                return create_response(txt, "file_search")
+            else:
+                return create_response(f"ℹ️ No Venue In-Charge found for **{cluster_name}**. Please check the spelling or try another cluster.\n\nType another cluster or 'Back'.", "file_search")
+        except Exception as e:
+            return create_response(f"Error searching for cluster in-charge: {str(e)}", "error")
+
+    # State Handling Logic
     if user_query.isdigit():
         choice = int(user_query)
         
-        # --- MAIN MENU ---
         if current_state == MENU_MAIN:
             if choice == 1:
-                if session_id: SESSION_STATE[session_id] = MENU_REG_ELIGIBILITY
-                return {"response": get_menu_text(MENU_REG_ELIGIBILITY), "source": "menu_system"}
+                # Registration & Eligibility
+                if session_id: SESSION_STATE[session_id] = MENU_REG_FAQ
+                return create_response(get_menu_data(MENU_REG_FAQ), "menu_system")
             elif choice == 2:
-                if session_id: SESSION_STATE[session_id] = MENU_SPORTS_MATCHES
-                return {"response": get_menu_text(MENU_SPORTS_MATCHES), "source": "menu_system"}
+                # Sports & Matches -> Submenu
+                if session_id: SESSION_STATE[session_id] = MENU_GROUP_SPORTS
+                return create_response(get_menu_data(MENU_GROUP_SPORTS), "menu_system")
             elif choice == 3:
-                if session_id: SESSION_STATE[session_id] = MENU_VENUES_OFFICIALS
-                return {"response": get_menu_text(MENU_VENUES_OFFICIALS), "source": "menu_system"}
+                # Venues & Officials -> Submenu
+                if session_id: SESSION_STATE[session_id] = MENU_GROUP_VENUES
+                return create_response(get_menu_data(MENU_GROUP_VENUES), "menu_system")
             elif choice == 4:
+                # Player Status
                 if session_id: SESSION_STATE[session_id] = MENU_PLAYER_STATUS
-                return {"response": get_menu_text(MENU_PLAYER_STATUS), "source": "menu_system"}
+                return create_response(get_menu_data(MENU_PLAYER_STATUS), "menu_system")
             elif choice == 5:
-                if session_id: SESSION_STATE[session_id] = MENU_HELP_LANGUAGE
-                return {"response": get_menu_text(MENU_HELP_LANGUAGE), "source": "menu_system"}
-            else:
-                 return {"response": "❌ Invalid Option. Please select 1-5.", "source": "menu_system"}
-
-        # --- 1. REGISTRATION & ELIGIBILITY ---
-        elif current_state == MENU_REG_ELIGIBILITY:
-            if choice == 1: # How to Register
-                return {"response": "📝 **How to Register:**\n\n1. Visit [satg.telangana.gov.in/cmcup](https://satg.telangana.gov.in/cmcup)\n2. Click 'Player Registration'\n3. Fill details & Upload Aadhaar/Photo\n4. Submit & Download Ack Slip.\n\n🔙 *Type 'Back' for Menu*", "source": "static_answer"}
-            elif choice == 2: # Eligibility Rules
-                if session_id: SESSION_STATE[session_id] = STATE_WAIT_SPORT_AGE
-                return {"response": "🎂 **Eligibility Check:**\n\nWhich **Sport** would you like to check? (e.g. Kabaddi, Athletics)", "source": "menu_system"}
-            elif choice == 3: # Documents
-                return {"response": "📄 **Documents Required:**\n\n• Aadhaar Card\n• Date of Birth Proof (SSC/Birth Cert)\n• Bonafide Certificate\n• Passport Photo\n• Bank Passbook (if applicable)\n\n🔙 *Type 'Back' for Menu*", "source": "static_answer"}
-            elif choice == 4: # Registration Status
-                return {"response": "ℹ️ **Registration Status:**\n\nYou can check your status in the **Player Status** menu (Option 4 on Main Menu) using your Phone Number or Acknowledgment ID.\n\nWould you like to go there now? (Type 'Back' then '4')", "source": "static_answer"}
-            elif choice == 5: # FAQs
-                return {"response": "❓ **FAQs:**\n\n• **Is it free?** Yes.\n• **Can I play multiple sports?** Yes, if schedules don't clash.\n• **Who can apply?** Residents of Telangana within age limits.\n\n🔙 *Type 'Back' for Menu*", "source": "static_answer"}
+                # Help & Language -> Submenu
+                if session_id: SESSION_STATE[session_id] = MENU_GROUP_HELP
+                return create_response(get_menu_data(MENU_GROUP_HELP), "menu_system")
         
-        # --- 2. SPORTS & MATCHES ---
-        elif current_state == MENU_SPORTS_MATCHES:
-            if choice == 1: # Disciplines
+        # --- INTERMEDIATE GROUPS ---
+        elif current_state == MENU_GROUP_SPORTS:
+            if choice == 1:
                 if session_id: SESSION_STATE[session_id] = MENU_DISCIPLINES
-                return {"response": get_menu_text(MENU_DISCIPLINES), "source": "menu_system"}
-            elif choice == 2: # Schedules
-                if session_id: SESSION_STATE[session_id] = MENU_SCHEDULE_OPTIONS
-                return {"response": get_menu_text(MENU_SCHEDULE_OPTIONS), "source": "menu_system"}
-            elif choice == 3: # Medal Tally
-                return {"response": "🥇 **Medal Tally:**\n\nThe CM Cup 2025 has not started yet. Tally will be updated live during the State Level games in Feb 2025.", "source": "static_answer"}
+                return create_response(get_menu_data(MENU_DISCIPLINES), "menu_system")
+            elif choice == 2:
+                if session_id: SESSION_STATE[session_id] = MENU_SCHEDULE
+                return create_response(get_menu_data(MENU_SCHEDULE), "menu_system")
+            elif choice == 3:
+                if session_id: SESSION_STATE[session_id] = MENU_MEDALS
+                return create_response(get_menu_data(MENU_MEDALS), "menu_system")
 
-        # --- 3. VENUES & OFFICIALS ---
-        elif current_state == MENU_VENUES_OFFICIALS:
-            if choice == 1 or choice == 2: # Officers / In-Charge
-                if session_id: SESSION_STATE[session_id] = STATE_WAIT_OFFICER_LOC
-                return {"response": "👮 **Find Officers / In-Charge:**\n\nPlease enter your **Mandal** or **District** name.", "source": "menu_system"}
-
-        # --- 4. PLAYER STATUS ---
-        elif current_state == MENU_PLAYER_STATUS:
-            if choice == 1: # Phone
-                if session_id: SESSION_STATE[session_id] = STATE_WAIT_PHONE
-                return {"response": "📞 Please enter your registered **Phone Number** (10 digits):", "source": "menu_system"}
-            elif choice == 2: # Ack No
-                if session_id: SESSION_STATE[session_id] = STATE_WAIT_ACK
-                return {"response": "🆔 Please enter your **Acknowledgment Number** (e.g. SATGCMC-12345):", "source": "menu_system"}
-
-        # --- 5. HELP & LANGUAGE ---
-        elif current_state == MENU_HELP_LANGUAGE:
-            if choice == 1: # Helpline
-                return {"response": "📞 **Helpline Numbers:**\n\n• State Control Room: 040-12345678\n• Technical Support: 1800-999-9999\n\n(Available 10 AM - 6 PM)", "source": "static_answer"}
-            elif choice == 2: # Email
-                return {"response": "📧 **Email Support:**\n\n• General Queries: help@telanganasports.gov.in\n• Technical Issues: techsupport@satg.in", "source": "static_answer"}
-            elif choice == 3: # Language
-                if session_id: SESSION_STATE[session_id] = MENU_LANGUAGE
-                return {"response": get_menu_text(MENU_LANGUAGE), "source": "menu_system"}
+        elif current_state == MENU_GROUP_VENUES:
+            # 1. Venues, 2. Dist Officers, 3. Cluster In-Charge
+            if choice == 1:
+                 if session_id: SESSION_STATE[session_id] = MENU_VENUES
+                 return create_response(get_menu_data(MENU_VENUES), "menu_system")
+            elif choice == 2:
+                 try:
+                     if session_id: SESSION_STATE[session_id] = STATE_WAIT_DIST_OFFICER
+                     # Using literal string to prevent potential NameError if constant is missing in runtime env
+                     return create_response(get_menu_data("MENU_OFFICERS_DISTRICT"), "menu_system")
+                 except Exception as e:
+                     print(f"CRASH in Option 2: {e}")
+                     return create_response(f"❌ Error loading District Officers menu: {str(e)}", "error_handler")
+            elif choice == 3:
+                 try:
+                     if session_id: SESSION_STATE[session_id] = STATE_WAIT_CLUSTER_INCHARGE
+                     return create_response(get_menu_data("MENU_OFFICERS_CLUSTER"), "menu_system")
+                 except Exception as e:
+                     print(f"CRASH in Option 3: {e}")
+                     return create_response(f"❌ Error loading Venue In-Charge menu: {str(e)}", "error_handler")
         
-        # --- SUB MENU: SCHEDULES ---
-        elif current_state == MENU_SCHEDULE_OPTIONS:
-            if choice == 1: # Tournament Schedules
-                 return {
-                     "response": (
-                         "🗓️ **Tournament Schedules (CM Cup 2025)**\n\n"
-                         "• **Mandal Level**: Jan 15 - Jan 17\n"
-                         "• **Assembly Level**: Jan 20 - Jan 22\n"
-                         "• **District Level**: Jan 28 - Jan 30\n"
-                         "• **State Level**: Feb 10 - Feb 15\n\n"
-                         "🔗 [Click here for detailed PDF](https://satg.telangana.gov.in/cmcup/schedule)\n\n"
-                         "🔙 *Type 'Back' for Menu*"
-                     ),
-                     "source": "static_answer"
-                 }
-            elif choice == 2: # Games Schedules
-                 if session_id: SESSION_STATE[session_id] = STATE_WAIT_SPORT_SCHEDULE
-                 return {"response": "🏅 **Games Schedules:**\n\nWhich sport are you looking for? (e.g. Volleyball, Kho-Kho)", "source": "menu_system"}
+        elif current_state == MENU_GROUP_HELP:
+            if choice == 1:
+                # Helpline Numbers
+                return create_response("📞 **Helpline Numbers:**\n\nState Control Room: **040-12345678**\nWhatsApp Support: **+91-9876543210**", "static_info")
+            elif choice == 2:
+                # Email Support
+                return create_response("📧 **Email Support:**\n\nPlease reach us at: **support@cmcup.telangana.gov.in**", "static_info")
+            elif choice == 3:
+                if session_id: SESSION_STATE[session_id] = MENU_LANGUAGE
+                return create_response(get_menu_data(MENU_LANGUAGE), "menu_system")
 
+        elif current_state == MENU_OFFICERS:
+            # Deprecated direct access but keeping compliant just in case
+            pass
+        
         # --- SUB MENU: DISCIPLINES (LEVEL Selection) ---
         elif current_state == MENU_DISCIPLINES:
-            level_map = {1: "cluster", 2: "mandal", 3: "assembly", 4: "district", 5: "state"}
+            level_map = {
+                1: "cluster",
+                2: "mandal",
+                3: "assembly",
+                4: "district",
+                5: "state"
+            }
             if choice in level_map:
                 level_name = level_map[choice]
                 try:
@@ -573,33 +816,22 @@ async def process_user_query(raw_query: str, session_id: str = None):
                         for i, g in enumerate(games, 1):
                             txt += f"{i}. {g}\n"
                         txt += "\nℹ️ *Select a number to view details (Age, Events, Rules)*"
-                        return {"response": txt, "source": "sql_database"}
+                        return create_response(txt, "sql_database")
                     else:
-                         return {"response": f"ℹ️ No sports found specifically for **{display_title}** in the database.", "source": "sql_database"}
+                         return create_response(f"ℹ️ No sports found specifically for **{display_title}** in the database.", "sql_database")
                 except Exception as e:
                     print(f"Error fetching disciplines: {e}")
-                    return {"response": "❌ An error occurred while fetching disciplines. Please try again.", "source": "error_handler"}
+                    return create_response("❌ An error occurred while fetching disciplines. Please try again.", "error_handler")
 
         # --- SUB MENU: SELECT SPORT (Drill Down) ---
         elif current_state == MENU_SELECT_SPORT:
             data = SESSION_DATA.get(session_id, {})
             sports = data.get("sports", [])
             
-            # 1. Try Numeric Selection
-            selected_sport = None
-            if choice and 1 <= choice <= len(sports):
+            # Check if valid index
+            if 1 <= choice <= len(sports):
                 selected_sport = sports[choice - 1]
-            
-            # 2. Try Text Selection (Fuzzy-ish)
-            if not selected_sport:
-                # normalize query
-                q_norm = user_query.strip().lower()
-                for s in sports:
-                    if s.lower() == q_norm or s.lower() in q_norm:
-                        selected_sport = s
-                        break
-            
-            if selected_sport:
+                
                 # Store selected sport
                 if session_id:
                      SESSION_STATE[session_id] = MENU_GAME_OPTIONS
@@ -613,18 +845,26 @@ async def process_user_query(raw_query: str, session_id: str = None):
                         "3️⃣ Rules of Game\n\n"
                         "🔙 *Type 'Back' to list sports again*"
                     ),
+                    "text": (
+                        f"🏅 **{selected_sport}** - Options\n\n"
+                        "1️⃣ Age Criteria\n"
+                        "2️⃣ Events of the Game\n"
+                        "3️⃣ Rules of Game\n\n"
+                        "🔙 *Type 'Back' to list sports again*"
+                    ),
+                    "menus": [
+                        {"name": "Age Criteria", "value": "1"},
+                        {"name": "Events of the Game", "value": "2"},
+                        {"name": "Rules of Game", "value": "3"},
+                        {"name": "Back", "value": "Back"}
+                    ],
                     "source": "menu_system"
                 }
             else:
-                 # If input was not a valid selection, fall through or ask again?
-                 # Better to ask again within this state or fall through to RAG?
-                 # If we return, we block RAG. If we fall through, we lose state context maybe.
-                 # Let's return error to keep flow.
-                 return {"response": "❌ Invalid Selection. Please select a number or type the exact sport name from the list.", "source": "validation_error"}
+                 return create_response("❌ Invalid Option. Please select a number from the list above.", "validation_error")
 
         # --- SUB MENU: GAME OPTIONS (Age, Events, Rules) ---
         elif current_state == MENU_GAME_OPTIONS:
-            print(f"[DEBUG] Inside MENU_GAME_OPTIONS. Choice: {choice}")
             data = SESSION_DATA.get(session_id, {})
             selected_sport = data.get("selected_sport", "Unknown Sport")
             
@@ -634,24 +874,23 @@ async def process_user_query(raw_query: str, session_id: str = None):
             game_id = info['game_id'] if info else None
 
             if choice == 1: # Age Criteria
-                 print("[DEBUG] Choice 1 Selected")
-                 if not game_id:
-                      return {"response": f"ℹ️ No detailed age info found for **{selected_sport}**.", "source": "sql_database"}
-                 
-                 cats = get_categories_by_sport(game_id)
-                 if cats:
+                if not game_id:
+                     return create_response(f"ℹ️ No detailed age info found for **{selected_sport}**.", "sql_database")
+                
+                cats = get_categories_by_sport(game_id)
+                if cats:
                      txt = f"### 🎂 Age Criteria for {selected_sport}\n\n"
                      for c in cats:
                          gender_map = {1: "Male", 2: "Female"}
                          g_str = gender_map.get(c['gender'], "Open")
                          txt += f"- **{c['cat_name']}** ({g_str}): {c['from_age']} - {c['to_age']} Years\n"
-                     return {"response": txt, "source": "sql_database"}
-                 else:
-                     return {"response": f"ℹ️ No specific age categories found for **{selected_sport}**.", "source": "sql_database"}
+                     return create_response(txt, "sql_database")
+                else:
+                     return create_response(f"ℹ️ No specific age categories found for **{selected_sport}**.", "sql_database")
 
             elif choice == 2: # Events
                 if not game_id:
-                     return {"response": "ℹ️ Link not available.", "source": "error"}
+                     return create_response("ℹ️ Link not available.", "error")
                 
                 url = f"https://satg.telangana.gov.in/cmcup/showDisciplineEvents/{game_id}"
                 return {
@@ -660,89 +899,157 @@ async def process_user_query(raw_query: str, session_id: str = None):
                         f"Please visit the official link below to view all events:\n"
                         f"👉 [View Events for {selected_sport}]({url})"
                     ),
+                   "text": (
+                        f"🏆 **Events for {selected_sport}**\n\n"
+                        f"Please visit the official link below to view all events:\n"
+                        f"👉 [View Events for {selected_sport}]({url})"
+                    ),
+                    "menus": [],
                     "source": "static_link"
                 }
 
             elif choice == 3: # Rules
-                 print("[DEBUG] Choice 3 Selected - Invoking RAG")
-                 try:
-                     query = f"What are the official rules and regulations for {selected_sport}?"
-                     print(f"[DEBUG] RAG Rules Query: {query}")
-                     
-                     # Invoke RAG
-                     from rag.chain import get_rag_chain # Ensure import available
-                     chain = get_rag_chain()
-                     res = chain.invoke({"question": query, "chat_history": []})
-                     answer_text = res.get("response", "Content not found.")
-                     
-                     return {
-                        "response": f"📜 **Rules for {selected_sport}**\n\n{answer_text}", 
-                        "source": "rag_knowledge_base"
-                     }
-                 except Exception as e:
-                     print(f"RAG Rules Error: {e}")
-                     return {"response": f"ℹ️ Could not retrieve detailed rules for **{selected_sport}** at this time.", "source": "error"}
+                 return create_response("📜 **Rules of Game**\n\nThe rulebook is currently being updated. Please check back later!", "static_placeholder")
 
-        # --- SUB MENU: LANGUAGE ---
-        elif current_state == MENU_LANGUAGE:
-             langs = {1: "English", 2: "Telugu", 3: "Hindi"}
-             if choice in langs:
-                 return {"response": f"✅ Language set to **{langs[choice]}** (Feature in progress).", "source": "menu_system"}
+        # --- SUB MENU: REGISTRATION ---
+        # --- SUB MENU: REGISTRATION (PLAYER DETAILS) ---
+        # --- SUB MENU: PLAYER STATUS ---
+        elif current_state == MENU_PLAYER_STATUS:
+            if choice == 1:
+                # Search by Phone No
+                if session_id: SESSION_STATE[session_id] = STATE_WAIT_PHONE
+                return create_response("📱 **Search by Phone No**\n\nPlease enter your registered **Mobile Number** (10 digits).", "menu_system")
+            elif choice == 2:
+                # Search by Acknowledgment No
+                if session_id: SESSION_STATE[session_id] = STATE_WAIT_ACK
+                return create_response("🔢 **Search by Acknowledgment No**\n\nPlease enter your **Acknowledgment Number** (e.g., SATGCMC-...).", "menu_system")
+
+        # --- SUB MENU: DISCIPLINES ---
+        elif current_state == MENU_DISCIPLINES:
+            level_map = {1: "cluster", 2: "mandal", 3: "assembly", 4: "district", 5: "state"}
+            if choice in level_map:
+                from rag.sql_queries import get_disciplines_by_level
+                lvl_name = level_map[choice]
+                discs = get_disciplines_by_level(lvl_name)
+                
+                txt = f"🏆 **Disciplines at {lvl_name.title()} Level:**\n\n"
+                if discs:
+                    for d in discs:
+                        txt += f"• {d.get('dist_game_nm')}\n"
+                    txt += "\nType a **Sport Name** for rules or schedule."
+                else:
+                    txt += "ℹ️ No specific disciplines listed for this level yet."
+                return create_response(txt, "sql_database")
         
-        # Catch-all
-        return {"response": "❌ Invalid Option. Please select a valid number or type 'Back'.", "source": "menu_system"}
+        # --- SUB MENU: REG FAQ ---
+        elif current_state == MENU_REG_FAQ:
+            if choice == 1: # How to Register
+                return create_response("**To Register:**\nVisit [https://satg.telangana.gov.in/cmcup](https://satg.telangana.gov.in/cmcup) and select 'New Registration'.", "static")
+            elif choice == 2: # Eligibility Rules
+                # Reuse Age/Rules logic? Or static text? Using static summary + prompt for specifics.
+                return create_response("📋 **Eligibility Rules:**\n\n- Age: 15-35 Years.\n- Must be a resident of Telangana.\n- Cannot represent multiple units.\n\nType 'Back' to return.", "static")
+            elif choice == 3: # Documents
+                return create_response("**Documents Required:**\nAadhar Card, Photo, and Address Proof.", "static")
+            elif choice == 4: # Registration Status
+                 return create_response("🔍 **Check Registration Status:**\n\nPlease use **Option 4 (Player Status)** from the Main Menu to search by Phone or Acknowledgment Number.\n\nType 'Back' for Main Menu.", "redirect")
+            elif choice == 5: # FAQs
+                 return create_response("❓ **General FAQs:**\n\n- *Is it free?* Yes.\n- *Can I play multiple sports?* Yes, if schedules allow.\n- *Where to report?* Check Venue details.\n\nType 'Back' to return.", "static")
+
+        
+        # --- SUB MENU: RULES ---
+        if current_state == MENU_RULES:
+            if choice == 1:
+                if session_id: SESSION_STATE[session_id] = STATE_WAIT_SPORT_RULES
+                return create_response("🧒 **Age Limit & Eligibility** depends on the sport.\n\nWhich **Sport** are you asking about? (e.g. Judo, Boxing, Athletics)", "menu_system")
+            elif choice == 2:
+                return create_response("👥 **Team Size & Format** varies by discipline.\n\nPlease type the name of the **Sport** you are interested in.", "menu_system")
+            elif choice == 3:
+                return create_response("📄 **Required Documents:**\n\n1. Aadhaar Card (Mandatory)\n2. Date of Birth Certificate\n3. Bonafide Certificate / Study Certificate\n4. Bank Passbook (for specific schemes)\n\nType a **Sport Name** for specific rules.", "static_data")
+            elif choice == 4:
+                return create_response("🏠 **Facilities Provided:**\n\n- **Food & Accommodation:** Provided for all State-level participants.\n- **Transport:** Allowances provided for travel to State venue.\n- **Jersey/Kit:** Provided for finalists.\n\nDo you have a specific question?", "static_data")
+            elif choice == 5:
+                return create_response("❓ **General FAQs:**\n\n- *Can I participate in multiple sports?* Yes, if schedules don't clash.\n- *Is registration free?* Yes, completely free.\n\nType your specific question below.", "static_data")
+
+        # --- SUB MENU: SCHEDULE ---
+        # --- SUB MENU: SCHEDULE ---
+        elif current_state == MENU_SCHEDULE:
+            if choice == 1:
+                # Tournament Schedule (Static)
+                return {
+                    "response": (
+                        "🗓️ **Tournament Schedule**\n\n"
+                        "🔸 **Gram Panchayat / Cluster:** 17 Jan - 22 Jan 2026\n"
+                        "🔸 **Mandal Level:** 28 Jan - 31 Jan 2026\n"
+                        "🔸 **Assembly Constituency:** 03 Feb - 07 Feb 2026\n"
+                        "🔸 **District Level:** 10 Feb - 14 Feb 2026\n"
+                        "🔸 **State Level:** 19 Feb - 26 Feb 2026\n\n"
+                        "🔙 *Type 'Back' to return to Main Menu*"
+                    ),
+                    "text": (
+                        "🗓️ **Tournament Schedule**\n\n"
+                        "🔸 **Gram Panchayat / Cluster:** 17 Jan - 22 Jan 2026\n"
+                        "🔸 **Mandal Level:** 28 Jan - 31 Jan 2026\n"
+                        "🔸 **Assembly Constituency:** 03 Feb - 07 Feb 2026\n"
+                        "🔸 **District Level:** 10 Feb - 14 Feb 2026\n"
+                        "🔸 **State Level:** 19 Feb - 26 Feb 2026\n\n"
+                        "🔙 *Type 'Back' to return to Main Menu*"
+                    ),
+                    "menus": [],
+                    "source": "static_data"
+                }
+            elif choice == 2:
+                # Games Schedule (Game Search)
+                if session_id: SESSION_STATE[session_id] = MENU_SCHEDULE_GAME_SEARCH
+                return create_response((
+                        "🏅 **Games Schedule**\n\n"
+                        "Please enter the Name of the Game you are looking for.\n"
+                        "Example: *Kabaddi, Athletics, Cricket*"
+                    ), "menu_system")
+
+        # --- SUB MENU: SCHEDULE GAME SEARCH (TEXT INPUT) ---
+        elif current_state == MENU_SCHEDULE_GAME_SEARCH:
+             pass 
+             
+        # --- SUB MENU: OFFICERS ---
+        elif current_state == MENU_OFFICERS:
+            pass
 
     # ------------------------------------------------
-    # TEXT INPUT HANDLING FOR MENUS (Sub-Interactions)
+    # END MENU MACHINE (DIGIT HANDLING)
     # ------------------------------------------------
-    
-    # 1. OFFICER LOCATION SEARCH
-    if current_state == STATE_WAIT_OFFICER_LOC and not user_query.isdigit():
+
+    # --- TEXT INPUT HANDLING FOR MENUS ---
+    if current_state == MENU_SCHEDULE_GAME_SEARCH and not user_query.isdigit():
+        from rag.sql_queries import get_discipline_info
+        info = get_discipline_info(user_query)
+        
+        if info:
+             game_id = info['game_id']
+             game_name = info['dist_game_nm']
+             url = f"https://satg.telangana.gov.in/cmcup/viewschedulegames/{game_id}"
+             return create_response((
+                     f"🗓️ **Schedule for {game_name}**\n\n"
+                     f"You can view the specific schedule and fixtures here:\n"
+                     f"👉 [View {game_name} Schedule]({url})"
+                 ), "sql_database")
+        else:
+             return create_response(f"❌ Could not find a game named '**{user_query}**'.\nPlease check the spelling (e.g., 'Athletics', 'Kabaddi') and try again.", "sql_database")
+
+    if current_state == MENU_OFFICERS and not user_query.isdigit():
         # User entered cluster name?
         result = search_cluster_incharge(user_query)
         if result:
-            return {"response": result, "source": "local_data_file"}
+            return create_response(result, "local_data_file")
         else:
-            return {"response": f"❌ I couldn't find a cluster named '**{user_query}**'.\nPlease check the spelling or try another cluster name.", "source": "local_data_file"}
+            return create_response(f"❌ I couldn't find a cluster named '**{user_query}**'.\nPlease check the spelling or try another cluster name.", "local_data_file")
 
-    # 2. SPORT SCHEDULE SEARCH
-    if current_state == STATE_WAIT_SPORT_SCHEDULE and not user_query.isdigit():
-         from rag.sql_queries import get_discipline_info
-         info = get_discipline_info(user_query)
-         
-         if info and info.get('game_id'):
-             sport_name = info.get('sport_name', user_query).title()
-             game_id = info['game_id']
-             url = f"https://satg.telangana.gov.in/cmcup/viewschedulegames/{game_id}"
-             
-             return {
-                 "response": (
-                     f"🗓️ **Schedule for {sport_name}**\n\n"
-                     f"You can view the specific schedule and fixtures here:\n"
-                     f"👉 [View {sport_name} Schedule]({url})"
-                 ),
-                 "source": "sql_database"
-             }
-         else:
-             return {"response": f"ℹ️ Could not find a sport named **{user_query}**. Please check the spelling or try another sport.", "source": "sql_database"}
+    # --- SUB MENU: VENUES (Text Input) ---
+    if current_state == MENU_VENUES and not user_query.isdigit():
+        pass
 
-    # 3. SPORT AGE/RULES SEARCH
-    if current_state == STATE_WAIT_SPORT_AGE and not user_query.isdigit():
-        from rag.sql_queries import get_sport_rules
-        rules = get_sport_rules(user_query)
-        if rules:
-            txt = f"### 🎂 Age Criteria for {rules.get('sport_name')}\n\n"
-            txt += f"**Min Age:** {rules.get('min_age')} years\n"
-            txt += f"**Max Age:** {rules.get('max_age')} years\n"
-            txt += f"**Team Size:** {rules.get('team_size') or 'Individual'}\n"
-            txt += f"**Para Event:** {'Yes' if rules.get('is_para')=='1' else 'No'}\n\n"
-            txt += "Type another sport to check, or 'Back'."
-            return {"response": txt, "source": "sql_database"}
-        else:
-            return {"response": f"ℹ️ Could not find rules for **{user_query}**. Please check the spelling or try another sport.", "source": "sql_database"}
-
-    # Fallthrough to Logic Interceptors...
-
+            
+        # Catch-all for invalid numbers in a menu context
+        return create_response("❌ Invalid Option. Please select a valid number from the menu or type 'Back'.", "menu_system")
             
         # ... Add other handlers as needed ...
     
@@ -757,14 +1064,39 @@ async def process_user_query(raw_query: str, session_id: str = None):
     if year_match:
         year = int(year_match.group(1))
         if year != 2025 and ("cm" in user_query or "cup" in user_query):
-             return {
-                 "response": f"ℹ️ **Note:** I currently only have information for the **Key Minister's Cup (CM Cup) 2025**. I don't have data for {year}.",
-                 "source": "logic_interceptor"
-             }
+             return create_response(f"ℹ️ **Note:** I currently only have information for the **Key Minister's Cup (CM Cup) 2025**. I don't have data for {year}.", "logic_interceptor")
 
     # 0.2 Static Data Interceptor - DISABLED BY USER REQUEST
     # All queries now proceed to logic interceptors, SQL, or RAG LLM.
     pass
+
+    # 0.4 Age / Rules Lookup Interceptor
+    # Pattern 1: "Age limit for Fencing", "Age criteria of Kabaddi"
+    age_pattern = re.search(r'(?:age|limit|criteria).*(?:for|of|in|limits?)\s+([a-zA-Z]+)', user_query)
+    # Pattern 2: "Fencing age", "Kabaddi limits"
+    age_pattern_2 = re.search(r'^([a-zA-Z]+)\s+(?:age|limits?|criteria)', user_query)
+
+    detected_sport = None
+    if age_pattern: detected_sport = age_pattern.group(1)
+    elif age_pattern_2: detected_sport = age_pattern_2.group(1)
+
+    # Filter out common false positives
+    ignored_sports = ["player", "participation", "total", "registration", "the", "my", "our", "your", "any"]
+    
+    if detected_sport and detected_sport not in ignored_sports and len(detected_sport) > 2:
+        try:
+            rules = get_sport_rules(detected_sport)
+            if rules:
+                txt = f"### 🎂 Age Criteria for {rules.get('sport_name')}\n\n"
+                txt += f"**Min Age:** {rules.get('min_age')} years\n"
+                txt += f"**Max Age:** {rules.get('max_age')} years\n"
+                txt += f"**Team Size:** {rules.get('team_size') or 'Individual'}\n"
+                txt += f"**Level:** {rules.get('level', 'N/A')}\n"
+                txt += f"**Para Event:** {'Yes' if rules.get('is_para')=='1' else 'No'}\n\n"
+                txt += "Type 'Rules' for more details or another sport name."
+                return create_response(txt, "sql_interceptor")
+        except Exception as e:
+            print(f"Error in Age Interceptor: {e}")
 
     # 0.5 Participation Stats (New)
     # Check for general count queries, but exclude "rules" or "limit" type queries (e.g., "how many players can register")
@@ -774,29 +1106,29 @@ async def process_user_query(raw_query: str, session_id: str = None):
     if any(k in user_query for k in stats_keywords) and not any(e in user_query for e in rule_exclusions):
         from rag.sql_queries import get_participation_stats
         count = get_participation_stats()
-        return {
-            "response": f"📊 **Participation Status:**\n\nA total of **{count} players** have registered for the Chief Minister's Cup (CM Cup) 2025 so far!",
-            "model_used": "sql_database"
-        }
+        return create_response(f"📊 **Participation Status:**\n\nA total of **{count} players** have registered for the Chief Minister's Cup (CM Cup) 2025 so far!", "sql_database")
 
     # 1. Phone Number match - PRIVACY WARNING
 
     # 0.6 Registration/Ack Number Link
     if "acknowledgment number" in user_query or "acknowledgement number" in user_query or "ack number" in user_query or "ack no" in user_query:
         if "what is" in user_query or "download" in user_query or "get" in user_query:
-            return {
-                "response": "📥 **Download Acknowledgment:**\n\nYou can find and download your Acknowledgment Number from the official website:\n\n👉 [Download Enrollment Acknowledgment](https://satg.telangana.gov.in/cmcup/downloadack)",
-                "source": "static_rule"
-            }
+            return create_response("📥 **Download Acknowledgment:**\n\nYou can find and download your Acknowledgment Number from the official website:\n\n👉 [Download Enrollment Acknowledgment](https://satg.telangana.gov.in/cmcup/downloadack)", "static_rule")
 
     # 1. Phone Number match - PRIVACY GUARD & VENUE FLOW
     original_query = raw_query.strip() # Keep casing for Reg IDs if needed
+    
+    # Define venue intent keywords (Fix for NameError)
+    venue_keywords = ["venue", "status", "application", "check", "where", "game status", "match status"]
+    venue_intent = any(k in user_query for k in venue_keywords)
+
     phone_match = re.search(r'\b[6-9]\d{9}\b', original_query)
     
     # 1A. Venue/Status Flow (Exception to Filter)
-    venue_intent = re.search(r'(venue|status|game|match|fixture)', user_query)
+    # 1A. Venue/Status Flow (Implicit if phone number provided)
+    # venue_intent is now optional if phone number is present
     
-    if phone_match and venue_intent:
+    if phone_match:
         phone = phone_match.group(0)
         print(f"⚡ Intent: Venue Lookup via Phone ({phone})")
         
@@ -804,7 +1136,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
         registrations = get_player_venues_by_phone(phone)
         
         if not registrations:
-             return {"response": f"ℹ️ No registrations found for **{phone}**. Please check the number or register at the official site.", "source": "sql_database"}
+             return create_response(f"ℹ️ No registrations found for **{phone}**. Please check the number or register at the official site.", "sql_database")
         
         # Logic: 1 Record vs Multi
         if len(registrations) == 1:
@@ -822,7 +1154,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
                 txt += f"👤 **{rec.get('cluster_incharge', 'N/A')}**\n"
                 txt += f"📞 **{rec.get('incharge_mobile', 'N/A')}**\n"
             
-            return {"response": txt, "source": "sql_database"}
+            return create_response(txt, "sql_database")
             
         else:
             # Multiple Records
@@ -832,15 +1164,9 @@ async def process_user_query(raw_query: str, session_id: str = None):
                 txt += f"- {s}\n"
             
             txt += "\nSince you have multiple events, please provide your **Acknowledgment Number** (e.g., SATGCMC-...) to get specific venue details."
-            return {"response": txt, "source": "sql_database"}
+            return create_response(txt, "sql_database")
 
-    # 1B. General Privacy Block
-    if phone_match:
-        print(f"⚡ Intent: Phone Number detected. Triggering Privacy Warning.")
-        return {
-             "response": "⚠️ **Privacy Notice:**\n\nFor your security, please **do not share personal phone numbers** or sensitive information in this chat. I cannot look up individual player records using phone numbers.\n\nHowever, if you are looking for your **venue details**, please ask 'Venue details for 9876543210'.",
-             "source": "privacy_guardrail"
-        }
+
     
     # 1C. Venue Intent BUT NO Phone -> Prompt
     # If user mentions venue/status/game but didn't provide phone, prompt them.
@@ -852,10 +1178,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
         is_general_query = any(k in user_query for k in ["level", "date", "when", "schedule", "time", "mandal", "district", "cluster", "state", "village", "gram", "panchayat"])
         
         if (len(words) < 8 or "my" in user_query or "check" in user_query or "know" in user_query) and not is_general_query:
-             return {
-                 "response": "To check your **Venue** or **Game Status**, please provide your registered **Phone Number**.\n\nExample: *Venue details for 9848012345*",
-                 "source": "logic_interceptor"
-             }
+             return create_response("To check your **Venue** or **Game Status**, please provide your registered **Phone Number**.\n\nExample: *Venue details for 9848012345*", "logic_interceptor")
 
     # 2. Registration ID / Ack No -> Venue Lookup
     ack_match = re.search(r'\b(SATGCMC(?:\d+)?-\d+)\b', original_query, re.IGNORECASE)
@@ -935,7 +1258,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
                     txt += f"**Contact:** {incharge_contact or 'N/A'}\n"
                 
                 
-                final_response = {"response": txt, "source": "sql_database"}
+                final_response = create_response(txt, "sql_database")
                 print(f"DEBUG RESPONSE ({ack_no}):\n{txt}")
                 return final_response
              else:
@@ -962,15 +1285,24 @@ async def process_user_query(raw_query: str, session_id: str = None):
                 txt += f"**Teams:** {res.get('team1_name', 'TBD')} vs {res.get('team2_name', 'TBD')}\n"
                 txt += f"**Date:** {res['match_date']} ({res['match_day']}) @ {res['match_time']}\n"
                 txt += f"**Round:** {res['round_name']}"
-                return {"response": txt, "source": "sql_database"}
+                return create_response(txt, "sql_database")
             else:
-                 return {"response": f"❌ No match found with ID **{fid}**.", "source": "sql_database"}
+                 return create_response(f"❌ No match found with ID **{fid}**.", "sql_database")
         except Exception as e:
             print(f"SQL Error: {e}")
 
     # 4. Sport Schedule (New)
-    sport_pattern = r'(?:schedule|events|matches)\s*(?:for|of|in)?\s*([a-zA-Z\s]+)'
-    sport_match = re.search(sport_pattern, original_query, re.IGNORECASE)
+    # Supports "Schedule for Cricket" AND "Cricket Schedule"
+    sport_pattern_1 = r'(?:schedule|events|matches)\s*(?:for|of|in)?\s*([a-zA-Z\s]+)'
+    sport_pattern_2 = r'([a-zA-Z\s]+?)\s*(?:schedule|events|matches)'
+    
+    sport_match_objs = []
+    m1 = re.search(sport_pattern_1, original_query, re.IGNORECASE)
+    m2 = re.search(sport_pattern_2, original_query, re.IGNORECASE)
+    
+    # Prioritize "Schedule for Sport" if both somehow match, otherwise "Sport Schedule"
+    sport_match = m1 if m1 else m2
+    
     if sport_match:
         raw_sport = sport_match.group(1).strip()
         clean_sport = re.sub(r'\s+(matches|events|schedule|today|tomorrow)\b', '', raw_sport, flags=re.IGNORECASE).strip()
@@ -982,7 +1314,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
                      txt = f"### 📅 {clean_sport.title()} Schedule (Next 5)\n"
                      for m in schedules[:5]:
                          txt += f"- **{m.get('event_name')}**: {m.get('team1_name')} vs {m.get('team2_name')} @ {m.get('venue')}\n"
-                     return {"response": txt, "source": "sql_database"}
+                     return create_response(txt, "sql_database")
              except Exception as e:
                  print(f"SQL Error (Schedule): {e}")
 
@@ -1015,9 +1347,9 @@ async def process_user_query(raw_query: str, session_id: str = None):
                         txt += f"**District:** {d.get('parent_district')}"
                     elif t == 'Mandal':
                         txt += f"**District:** {d.get('parent_district')}"
-                    return {"response": txt, "source": "sql_database"}
+                    return create_response(txt, "sql_database")
                 else:
-                    return {"response": f"🚫 **{clean_name}** could not be found in our Village/Mandal/District database.", "source": "sql_database"}
+                    return create_response(f"🚫 **{clean_name}** could not be found in our Village/Mandal/District database.", "sql_database")
             except Exception as e:
                 print(f"SQL Error: {e}")
 
@@ -1058,7 +1390,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
             if "state" in level_keyword: response_txt = schedule_data["state"]
 
         if response_txt:
-             return {"response": f"{response_txt}\n\n*Note: Dates are subject to official guidelines.*", "source": "static_rule_engine"}
+             return create_response(f"{response_txt}\n\n*Note: Dates are subject to official guidelines.*", "static_rule_engine")
 
     # 5.5 Discipline/Level Lookup
     level_pattern = r"(disciplines?|sports?|games?|events?).*?\b(cluster|mandal|district|state)\b\s*(?:level)?"
@@ -1073,7 +1405,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
                 txt = f"### 🏅 Sports at {level_name.title()} Level\n"
                 for g in games:
                     txt += f"- {g}\n"
-                return {"response": txt, "source": "sql_database"}
+                return create_response(txt, "sql_database")
             else:
                  # If SQL doesn't have data (e.g. new disciplines not in DB), Fallback to RAG
                  print(f"ℹ️ SQL found no disciplines for {level_name}. Falling back to RAG.")
@@ -1085,12 +1417,16 @@ async def process_user_query(raw_query: str, session_id: str = None):
     # 6. Complex SQL Queries (Agentic)
     # Detects questions about counts, lists, specific aggregations (Agentic)
     # 1. Strong Rule Keywords (Age, Born, Criteria) - Trigger SQL immediately (handles typos like 'hokey')
-    if re.search(r"\b(age|born|birth|criteria|rules|limit|eligible|eligibility)\b", original_query, re.IGNORECASE):
+    # 6. Complex SQL Queries (Agentic)
+    # Detects questions about counts, lists, specific aggregations (Agentic)
+    # 1. Strong Rule Keywords (Born, Birth) - Trigger SQL immediately
+    # NOTE: Removed 'rules', 'age', 'limit' to let RAG handle them.
+    if re.search(r"\b(born|birth)\b", original_query, re.IGNORECASE):
         print(f"🤖 Intent: Rule/Age Query (Triggering SQL Agent)")
         try:
              sql_response = run_sql_agent(original_query)
              if "I try to query" not in sql_response and "error" not in sql_response.lower():
-                 return {"response": sql_response, "source": "sql_agent"}
+                 return create_response(sql_response, "sql_agent")
         except Exception as e:
              print(f"SQL Agent Failed: {e}")
 
@@ -1103,20 +1439,20 @@ async def process_user_query(raw_query: str, session_id: str = None):
             # if agent fails to understand, it might return a generic error.
             # We can check specific error strings if we want to fallback to RAG.
             if "I try to query" not in sql_response and "error" not in sql_response.lower():
-                return {"response": sql_response, "source": "sql_agent"}
+                return create_response(sql_response, "sql_agent")
         except Exception as e:
             print(f"SQL Agent Failed: {e}")
             # Fallthrough to RAG if SQL agent fails
             pass
 
     # 7. RAG Fallback
-    print(f"[INFO] Intent: General Query")
+    print(f"🧠 Intent: General Query")
     
     try:
         # Use Lazy Loaded Chain
         rag = get_or_init_rag_chain()
         if not rag:
-             return {"response": "The AI Brain is initializing. Please try again in 10 seconds.", "source": "system"}
+             return create_response("The AI Brain is initializing. Please try again in 10 seconds.", "system")
         
         # Memory Management
         # session_id passed in args
@@ -1146,10 +1482,10 @@ async def process_user_query(raw_query: str, session_id: str = None):
             # Keep last 10 turns (20 items)
             CHAT_SESSIONS[session_id] = chat_history[-20:]
 
-        return {"response": final_answer, "source": "rag_knowledge_base", "model_used": model}
+        return create_response(final_answer, "rag_knowledge_base", model)
     except Exception as e:
         print(f"RAG Crash: {e}")
-        return {"response": f"I encountered an error accessing the knowledge base. Error: {str(e)}", "source": "error_handler"}
+        return create_response(f"I encountered an error accessing the knowledge base. Error: {str(e)}", "error_handler")
 
 @app.post("/chat")
 async def chat_endpoint(request: ChatRequest):

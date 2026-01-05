@@ -1,27 +1,21 @@
-import os
-import sys
-from dotenv import load_dotenv
 
-# Ensure we can import from rag
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+import requests
+import json
 
-from rag.retriever import get_retriever
-
-def test_retrieval(query):
-    print(f"\n🔎 Testing Query: '{query}'")
-    retriever = get_retriever()
-    docs = retriever.invoke(query)
+def test_whatsapp_chat():
+    url = "http://localhost:8000/whatsappchat"
+    payload = {
+        "user_message": "menu",
+        "phone_number": "9999999999"
+    }
     
-    if not docs:
-        print("❌ No documents retrieved.")
-        return
-
-    print(f"✅ Retrieved {len(docs)} documents.")
-    for i, doc in enumerate(docs[:3]):  # Show top 3
-        print(f"--- Doc {i+1} ---")
-        print(doc.page_content[:300].replace('\n', ' '))
-        print("...")
+    try:
+        response = requests.post(url, json=payload)
+        print(f"Status Code: {response.status_code}")
+        print("Response JSON:")
+        print(json.dumps(response.json(), indent=4))
+    except Exception as e:
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
-    test_retrieval("games")
-    test_retrieval("What is cmcup 2015")
+    test_whatsapp_chat()
