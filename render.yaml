@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: rag-chatbot
+    env: python
+    region: singapore
+    buildCommand: pip install -r requirements.txt
+    startCommand: ls -la && chmod +x start.sh && ./start.sh
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_API_KEY
+        handle: optional
+        sync: false

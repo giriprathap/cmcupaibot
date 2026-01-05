@@ -1,0 +1,635 @@
+Schedule Alert: On Day-1 at 08:00 AM, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 08:00 AM, a Male category match is scheduled. The match is between Nizamabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 08:00 AM, a Male category match is scheduled. The match is between Karimnagar and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 08:00 AM, a Male category match is scheduled. The match is between Ranga reddy and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 09:00 AM, a Female category match is scheduled. The match is between Hyderabad and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 09:00 AM, a Female category match is scheduled. The match is between Siddipet and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 09:00 AM, a Female category match is scheduled. The match is between Hanumakonda and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 09:00 AM, a Female category match is scheduled. The match is between Adilabad and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 10:00 AM, a Male category match is scheduled. The match is between Mahabubnagar and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 10:00 AM, a Male category match is scheduled. The match is between Warangal and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 10:00 AM, a Male category match is scheduled. The match is between Adilabad and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 10:00 AM, a Male category match is scheduled. The match is between Hyderabad and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 11:00 AM, a Female category match is scheduled. The match is between Nizamabad and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 11:00 AM, a Female category match is scheduled. The match is between Khammam and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 11:00 AM, a Female category match is scheduled. The match is between Kamareddy and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 11:00 AM, a Female category match is scheduled. The match is between Rajanna sircilla and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 12:00 PM, a Male category match is scheduled. The match is between Suryapet and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 12:00 PM, a Male category match is scheduled. The match is between Nizamabad and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 12:00 PM, a Male category match is scheduled. The match is between Karimnagar and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 12:00 PM, a Male category match is scheduled. The match is between Ranga reddy and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 01:00 PM, a Female category match is scheduled. The match is between Hyderabad and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 01:00 PM, a Female category match is scheduled. The match is between Siddipet and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 01:00 PM, a Female category match is scheduled. The match is between Hanumakonda and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 01:00 PM, a Female category match is scheduled. The match is between Adilabad and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 03:00 PM, a Male category match is scheduled. The match is between Mahabubnagar and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 03:00 PM, a Male category match is scheduled. The match is between Warangal and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 03:00 PM, a Male category match is scheduled. The match is between Adilabad and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 03:00 PM, a Male category match is scheduled. The match is between Hyderabad and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 04:00 PM, a Female category match is scheduled. The match is between Nizamabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 04:00 PM, a Female category match is scheduled. The match is between Khammam and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 04:00 PM, a Female category match is scheduled. The match is between Kamareddy and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 04:00 PM, a Female category match is scheduled. The match is between Rajanna sircilla and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 05:00 PM, a Male category match is scheduled. The match is between Medchal-malkajgiri and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 05:00 PM, a Male category match is scheduled. The match is between Nizamabad and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 05:00 PM, a Male category match is scheduled. The match is between Karimnagar and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 05:00 PM, a Male category match is scheduled. The match is between Ranga reddy and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:00 AM, a Female category match is scheduled. The match is between Hyderabad and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:00 AM, a Female category match is scheduled. The match is between Siddipet and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:00 AM, a Female category match is scheduled. The match is between Hanumakonda and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:00 AM, a Female category match is scheduled. The match is between Adilabad and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 09:00 AM, a Male category match is scheduled. The match is between Mahabubnagar and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 09:00 AM, a Male category match is scheduled. The match is between Warangal and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 09:00 AM, a Male category match is scheduled. The match is between Adilabad and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 09:00 AM, a Male category match is scheduled. The match is between Hyderabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:00 AM, a Female category match is scheduled. The match is between Nizamabad and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:00 AM, a Female category match is scheduled. The match is between Khammam and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:00 AM, a Female category match is scheduled. The match is between Kamareddy and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:00 AM, a Female category match is scheduled. The match is between Rajanna sircilla and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:00 AM, a Male category match is scheduled. The match is between Medak and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:00 AM, a Male category match is scheduled. The match is between Wanaparthy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:00 AM, a Male category match is scheduled. The match is between Jangaon and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:00 AM, a Male category match is scheduled. The match is between Narayanpet and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 12:00 PM, a Female category match is scheduled. The match is between Warangal and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 12:00 PM, a Female category match is scheduled. The match is between Vikarabad and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 12:00 PM, a Female category match is scheduled. The match is between Nalgonda and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 12:00 PM, a Female category match is scheduled. The match is between Ranga reddy and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 01:00 PM, a Male category match is scheduled. The match is between Khammam and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 01:00 PM, a Male category match is scheduled. The match is between Nalgonda and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 01:00 PM, a Male category match is scheduled. The match is between Bhadradri kothagudem and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 01:00 PM, a Male category match is scheduled. The match is between Peddapalli and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 03:00 PM, a Female category match is scheduled. The match is between Nirmal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 03:00 PM, a Female category match is scheduled. The match is between Medchal-malkajgiri and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 03:00 PM, a Female category match is scheduled. The match is between Jangaon and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 03:00 PM, a Female category match is scheduled. The match is between Rajanna sircilla and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 04:00 PM, a Male category match is scheduled. The match is between Medak and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 04:00 PM, a Male category match is scheduled. The match is between Wanaparthy and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 04:00 PM, a Male category match is scheduled. The match is between Jangaon and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 04:00 PM, a Male category match is scheduled. The match is between Narayanpet and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 05:00 PM, a Female category match is scheduled. The match is between Warangal and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 05:00 PM, a Female category match is scheduled. The match is between Vikarabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 05:00 PM, a Female category match is scheduled. The match is between Nalgonda and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 05:00 PM, a Female category match is scheduled. The match is between Ranga reddy and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 08:00 AM, a Male category match is scheduled. The match is between Khammam and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 08:00 AM, a Male category match is scheduled. The match is between Nalgonda and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 08:00 AM, a Male category match is scheduled. The match is between Bhadradri kothagudem and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 08:00 AM, a Male category match is scheduled. The match is between Peddapalli and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 09:00 AM, a Female category match is scheduled. The match is between Nirmal and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 09:00 AM, a Female category match is scheduled. The match is between Medchal-malkajgiri and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 09:00 AM, a Female category match is scheduled. The match is between Jangaon and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 09:00 AM, a Female category match is scheduled. The match is between Mulugu and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:00 AM, a Male category match is scheduled. The match is between Medak and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:00 AM, a Male category match is scheduled. The match is between Nirmal and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:00 AM, a Male category match is scheduled. The match is between Vikarabad and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:00 AM, a Male category match is scheduled. The match is between Nagarkurnool and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 11:00 AM, a Female category match is scheduled. The match is between Peddapalli and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 11:00 AM, a Female category match is scheduled. The match is between Wanaparthy and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 11:00 AM, a Female category match is scheduled. The match is between Karimnagar and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 11:00 AM, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 12:00 PM, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 12:00 PM, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 12:00 PM, a Female category match is scheduled. The match is between Mulugu and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 12:00 PM, a Female category match is scheduled. The match is between Sangareddy and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 03:00 PM, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 03:00 PM, a Male category match is scheduled. The match is between Suryapet and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 03:00 PM, a Female category match is scheduled. The match is between Mulugu and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 03:00 PM, a Female category match is scheduled. The match is between Sangareddy and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:00, a Male category match is scheduled. The match is between Hyderabad and Hanumakonda at Venue: Venue 1.
+Schedule Alert: On Day 1 at 08:20, a Male category match is scheduled. The match is between Jagithyal and Bhadradri kothagudem at Venue: Venue 1.
+Schedule Alert: On Day- 1 at 07:00, a Female category match is scheduled. The match is between Khammam and Vikarabad at Venue: Venue- 1.
+Schedule Alert: On Day- 1 at 08:10, a Female category match is scheduled. The match is between Jogulamba gadwal and Peddapalli at Venue: Venue- 1.
+Schedule Alert: On Day-1 at 11:00, a Male category match is scheduled. The match is between Ranga reddy and Jayashankar bhupalpally at Venue: Venue 1.
+Schedule Alert: On Day 1 at 12:20, a Male category match is scheduled. The match is between Wanaparthy and Mahabubabad at Venue: Venue.
+Schedule Alert: On Day- 1 at 10:30, a Female category match is scheduled. The match is between Hanumakonda and Rajanna sircilla at Venue: Venue- 1.
+Schedule Alert: On Day 1 at 01:40, a Male category match is scheduled. The match is between Nalgonda and Mancherial at Venue: Venue 1.
+Schedule Alert: On Day- 1 at 11:40, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Mahabubnagar at Venue: Venue- 1.
+Schedule Alert: On Day 1 at 03:00, a Male category match is scheduled. The match is between Mulugu and Peddapalli at Venue: Venue 1.
+Schedule Alert: On Day 1 at 09:40, a Male category match is scheduled. The match is between Sangareddy and Jangaon at Venue: Venue 1.
+Schedule Alert: On Day- 1 at 12:50, a Female category match is scheduled. The match is between Nalgonda and Jagithyal at Venue: Venue- 1.
+Schedule Alert: On Day 1 at 05:30, a Male category match is scheduled. The match is between Nagarkurnool and Jogulamba gadwal at Venue: Venue 1.
+Schedule Alert: On Day- 1 at 14:00, a Female category match is scheduled. The match is between Mulugu and Nagarkurnool at Venue: Venue- 1.
+Schedule Alert: On Day- 1 at 09:20, a Female category match is scheduled. The match is between Siddipet and Jangaon at Venue: Venue- 1.
+Schedule Alert: On Day 1 at 07:00, a Male category match is scheduled. The match is between Kamareddy and Vikarabad at Venue: Venue 2.
+Schedule Alert: On Day 1 at 08:20, a Male category match is scheduled. The match is between Yadadri bhuvanagiri and Adilabad at Venue: Venue 2.
+Schedule Alert: On Day- 1 at 16:20, a Female category match is scheduled. The match is between Medak and Karimnagar at Venue: Venue- 1.
+Schedule Alert: On Day 1 at 09:40, a Male category match is scheduled. The match is between Karimnagar and Suryapet at Venue: Venue 2.
+Schedule Alert: On Day- 1 at 07:00, a Female category match is scheduled. The match is between Kamareddy and Bhadradri kothagudem at Venue: Venue- 2.
+Schedule Alert: On Day 1 at 11:00, a Male category match is scheduled. The match is between Siddipet and Nizamabad at Venue: Venue 2.
+Schedule Alert: On Day- 1 at 08:10, a Female category match is scheduled. The match is between Jayashankar bhupalpally and Medchal-malkajgiri at Venue: Venue- 2.
+Schedule Alert: On Day 1 at 12:20, a Male category match is scheduled. The match is between Mahabubnagar and Warangal at Venue: Venue 2.
+Schedule Alert: On Day 1 at 01:40, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Khammam at Venue: Venue 6.
+Schedule Alert: On Day- 1 at 09:20, a Female category match is scheduled. The match is between Sangareddy and Mancherial at Venue: Venue- 2.
+Schedule Alert: On Day 1 at 03:00, a Male category match is scheduled. The match is between Medak and Narayanpet at Venue: Venue 2.
+Schedule Alert: On Day- 1 at 10:30, a Female category match is scheduled. The match is between Adilabad and Suryapet at Venue: Venue- 2.
+Schedule Alert: On Day 1 at 04:20, a Male category match is scheduled. The match is between Nirmal and Medchal-malkajgiri at Venue: Venue 2.
+Schedule Alert: On Day- 1 at 11:40, a Female category match is scheduled. The match is between Nizamabad and Mahabubabad at Venue: Venue-2.
+Schedule Alert: On Day- 1 at 12:50, a Female category match is scheduled. The match is between Nirmal and Ranga reddy at Venue: Venue- 2.
+Schedule Alert: On Day- 1 at 14:00, a Female category match is scheduled. The match is between Wanaparthy and Warangal at Venue: Venue- 2.
+Schedule Alert: On Day- 1 at 15:10, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Hyderabad at Venue: Venue- 2.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Nalgonda and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Siddipet and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Nalgonda and Hyderabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Siddipet and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Karimnagar and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Karimnagar and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Siddipet and Warangal at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Mulugu and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Mahabubabad and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Jangaon and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nalgonda and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Peddapalli and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Peddapalli and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Kamareddy and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Wanaparthy and Hyderabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Medak and Khammam at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nalgonda and Hyderabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Hanumakonda and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Peddapalli and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Jayashankar bhupalpally and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Kamareddy and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Medak and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Mahabubabad and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Jangaon and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Mulugu and Warangal at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Wanaparthy and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Hanumakonda and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nagarkurnool and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Hyderabad and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Khammam and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Kamareddy and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Jangaon and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Nizamabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Mulugu and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nagarkurnool and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Khammam and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Wanaparthy and Hyderabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Warangal and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Hanumakonda and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Wanaparthy and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Warangal and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Hanumakonda and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Medak at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Hyderabad and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Ranga reddy and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nizamabad and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Hyderabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Ranga reddy and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Nizamabad and Khammam at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Karimnagar and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Siddipet and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On TBD at TBD, a Male category match is scheduled. The match is between Mahabubabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nalgonda and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Warangal and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Siddipet and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Mahabubnagar and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Nizamabad and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Khammam and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Khammam and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Adilabad and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Medak and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Rajanna sircilla and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Warangal and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Rajanna sircilla and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Karimnagar and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Nalgonda and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Jangaon and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Sangareddy and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Jogulamba gadwal and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Jagithyal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Peddapalli and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Karimnagar and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Sangareddy and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Siddipet and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Siddipet and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Mahabubnagar and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Mancherial and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Nizamabad and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Bhadradri kothagudem and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Khammam and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Jagithyal and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Karimnagar and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Hyderabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nagarkurnool and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Medak and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Warangal and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Rajanna sircilla and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Kamareddy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Jangaon and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Sangareddy and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nalgonda and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Jogulamba gadwal and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Nalgonda and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Jagithyal and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Warangal and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Peddapalli and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Khammam and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Rajanna sircilla and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Karimnagar and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Kamareddy and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Nirmal and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Adilabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Bhadradri kothagudem and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Karimnagar and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mulugu and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Suryapet and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mancherial and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Adilabad and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Sangareddy and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Warangal and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Siddipet and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mancherial and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Siddipet and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mahabubnagar and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Bhadradri kothagudem and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Nizamabad and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Khammam and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Hyderabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Jagithyal and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Medak and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Nagarkurnool and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Kamareddy and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Warangal and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Kamareddy and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Peddapalli and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Vikarabad and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Medak and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Wanaparthy and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Medchal-malkajgiri and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Jangaon and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Mulugu and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Nalgonda and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Nizamabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Warangal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Hyderabad and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Khammam and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Adilabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Karimnagar and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Nirmal and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 8:00, a Male category match is scheduled. The match is between Khammam and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 9:30, a Male category match is scheduled. The match is between Karimnagar and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 11:00, a Male category match is scheduled. The match is between Warangal and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 13:00, a Male category match is scheduled. The match is between Nizamabad and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 14:30, a Male category match is scheduled. The match is between Hyderabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 16:00, a Male category match is scheduled. The match is between Medak and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 7:00, a Male category match is scheduled. The match is between Khammam and Warangal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 8:30, a Male category match is scheduled. The match is between Karimnagar and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 10:00, a Male category match is scheduled. The match is between Hyderabad and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 11:30, a Male category match is scheduled. The match is between Medak and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 13:00, a Male category match is scheduled. The match is between Nalgonda and Warangal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 14:30, a Male category match is scheduled. The match is between Ranga reddy and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 16:00, a Male category match is scheduled. The match is between Mahabubnagar and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 7:00, a Male category match is scheduled. The match is between Karimnagar and Medak at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 8:30, a Male category match is scheduled. The match is between Hyderabad and Warangal at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 10:00, a Male category match is scheduled. The match is between Ranga reddy and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 11:30, a Male category match is scheduled. The match is between Nalgonda and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 13:00, a Male category match is scheduled. The match is between Medak and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 14:30, a Male category match is scheduled. The match is between Hyderabad and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 16:00, a Male category match is scheduled. The match is between Karimnagar and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Mahabubabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Peddapalli and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Warangal and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Nalgonda and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Warangal and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Medchal-malkajgiri and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Khammam and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 7:00, a Female category match is scheduled. The match is between Medak and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Mulugu and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Nalgonda and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 8:00, a Female category match is scheduled. The match is between Karimnagar and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 9:00, a Female category match is scheduled. The match is between Warangal and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 10:00, a Female category match is scheduled. The match is between Nizamabad and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 11:00, a Female category match is scheduled. The match is between Hyderabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Jagithyal and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 12:00, a Female category match is scheduled. The match is between Khammam and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Bhadradri kothagudem and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Sangareddy and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 1:00, a Female category match is scheduled. The match is between Medak and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Siddipet and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Medak at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 2:00, a Female category match is scheduled. The match is between Karimnagar and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Adilabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 3:00, a Female category match is scheduled. The match is between Hyderabad and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hanumakonda and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 4:00, a Female category match is scheduled. The match is between Khammam and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Rajanna sircilla and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Rajanna sircilla and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 7:00, a Female category match is scheduled. The match is between Nalgonda and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Siddipet and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 8:00, a Female category match is scheduled. The match is between Ranga reddy and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Medak and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 9:00, a Female category match is scheduled. The match is between Mahabubnagar and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Mahabubnagar and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Mulugu and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 10:00, a Female category match is scheduled. The match is between Karimnagar and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Jogulamba gadwal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 11:00, a Female category match is scheduled. The match is between Hyderabad and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 12:00, a Female category match is scheduled. The match is between Ranga reddy and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Vikarabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 1:00, a Female category match is scheduled. The match is between Nalgonda and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 2:00, a Female category match is scheduled. The match is between Khammam and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 3:00, a Female category match is scheduled. The match is between Hyderabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Nizamabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 4:00, a Female category match is scheduled. The match is between Karimnagar and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mahabubabad and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Peddapalli and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Warangal and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Nalgonda and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Warangal and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Medchal-malkajgiri and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mulugu and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Hyderabad and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Kamareddy and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Vikarabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Nagarkurnool and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Nirmal and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Suryapet and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Yadadri bhuvanagiri and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Jangaon and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Narayanpet and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Sangareddy and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Bhadradri kothagudem and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Kamareddy and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Karimnagar and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Peddapalli and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Jangaon and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Karimnagar and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Mulugu and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Kamareddy and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Hyderabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Wanaparthy and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Nagarkurnool and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Nizamabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Male category match is scheduled. The match is between Yadadri bhuvanagiri and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at TBD, a Female category match is scheduled. The match is between Mahabubabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Narayanpet and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Warangal and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Bhadradri kothagudem and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Warangal and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Medchal-malkajgiri and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Khammam and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mulugu and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Vikarabad and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Nagarkurnool and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Nirmal and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Suryapet and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Jangaon and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Peddapalli and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Sangareddy and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Nalgonda and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Kamareddy and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Karimnagar and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Peddapalli and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Male category match is scheduled. The match is between Jangaon and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at TBD, a Female category match is scheduled. The match is between Karimnagar and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:00, a Male category match is scheduled. The match is between Nalgonda and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:00, a Male category match is scheduled. The match is between Khammam and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:00, a Male category match is scheduled. The match is between Narayanpet and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:00, a Male category match is scheduled. The match is between Ranga reddy and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 07:50, a Male category match is scheduled. The match is between Kamareddy and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 15:30, a Male category match is scheduled. The match is between Nagarkurnool and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 15:30, a Male category match is scheduled. The match is between Nirmal and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 16:20, a Male category match is scheduled. The match is between Sangareddy and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 16:20, a Male category match is scheduled. The match is between Jagithyal and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 16:20, a Male category match is scheduled. The match is between Hyderabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 17:10, a Male category match is scheduled. The match is between Kamareddy and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 17:10, a Male category match is scheduled. The match is between Khammam and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 17:10, a Male category match is scheduled. The match is between Narayanpet and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 17:10, a Male category match is scheduled. The match is between Ranga reddy and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 18:50, a Male category match is scheduled. The match is between Nagarkurnool and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 18:50, a Male category match is scheduled. The match is between Nirmal and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 18:50, a Male category match is scheduled. The match is between Sangareddy and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 18:50, a Male category match is scheduled. The match is between Jagithyal and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 20:30, a Male category match is scheduled. The match is between Hyderabad and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 20:30, a Male category match is scheduled. The match is between Medchal-malkajgiri and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 20:30, a Male category match is scheduled. The match is between Bhadradri kothagudem and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 20:30, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 07:50, a Female category match is scheduled. The match is between Sangareddy and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:50, a Male category match is scheduled. The match is between Adilabad and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:50, a Male category match is scheduled. The match is between Vikarabad and Wanaparthy at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 08:40, a Female category match is scheduled. The match is between Jagithyal and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:50, a Male category match is scheduled. The match is between Warangal and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:50, a Male category match is scheduled. The match is between Mahabubabad and Nizamabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 07:50, a Female category match is scheduled. The match is between Rajanna sircilla and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:20, a Male category match is scheduled. The match is between Kamareddy and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 07:50, a Female category match is scheduled. The match is between Nalgonda and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:20, a Male category match is scheduled. The match is between Suryapet and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 08:40, a Female category match is scheduled. The match is between Kamareddy and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 08:40, a Female category match is scheduled. The match is between Jogulamba gadwal and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 08:40, a Female category match is scheduled. The match is between Nagarkurnool and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 10:20, a Male category match is scheduled. The match is between Peddapalli and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 15:30, a Female category match is scheduled. The match is between Medchal-malkajgiri and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:10, a Male category match is scheduled. The match is between Rajanna sircilla and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 15:30, a Female category match is scheduled. The match is between Nirmal and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 11:10, a Male category match is scheduled. The match is between Mulugu and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 16:20, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 15:30, a Male category match is scheduled. The match is between Jogulamba gadwal and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 18:00, a Female category match is scheduled. The match is between Kamareddy and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 15:30, a Male category match is scheduled. The match is between Wanaparthy and Medak at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 18:00, a Female category match is scheduled. The match is between Rajanna sircilla and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 16:20, a Male category match is scheduled. The match is between Karimnagar and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 18:00, a Female category match is scheduled. The match is between Nalgonda and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 16:20, a Male category match is scheduled. The match is between Nizamabad and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at 06:00, a Female category match is scheduled. The match is between Jagithyal and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 17:10, a Male category match is scheduled. The match is between Hyderabad and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 17:10, a Male category match is scheduled. The match is between Medchal-malkajgiri and Khammam at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 18:00, a Male category match is scheduled. The match is between Bhadradri kothagudem and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 18:00, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 19:40, a Male category match is scheduled. The match is between Adilabad and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 19:40, a Male category match is scheduled. The match is between Vikarabad and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:30, a Male category match is scheduled. The match is between Warangal and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:30, a Male category match is scheduled. The match is between Mahabubabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On Day-2 at 08:30, a Male category match is scheduled. The match is between Mulugu and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 07:30, a Male category match is scheduled. The match is between Adilabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 07:30, a Male category match is scheduled. The match is between Vikarabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 07:30, a Male category match is scheduled. The match is between Warangal and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 07:30, a Male category match is scheduled. The match is between Mahabubabad and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:20, a Male category match is scheduled. The match is between Hyderabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:20, a Male category match is scheduled. The match is between Medchal-malkajgiri and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:20, a Male category match is scheduled. The match is between Bhadradri kothagudem and Yadadri bhuvanagiri at Venue: Unknown Venue.
+Schedule Alert: On Day-3 at 10:20, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 19:40, a Female category match is scheduled. The match is between Jogulamba gadwal and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 19:40, a Female category match is scheduled. The match is between Nagarkurnool and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 19:40, a Female category match is scheduled. The match is between Medchal-malkajgiri and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day-1 at 19:40, a Female category match is scheduled. The match is between Nirmal and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 07:30, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 07:30, a Female category match is scheduled. The match is between Hyderabad and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 07:30, a Female category match is scheduled. The match is between Nizamabad and Khammam at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 07:30, a Female category match is scheduled. The match is between Adilabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 09:40, a Female category match is scheduled. The match is between Mancherial and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 09:40, a Female category match is scheduled. The match is between Wanaparthy and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 09:40, a Female category match is scheduled. The match is between Ranga reddy and Mulugu at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 09:40, a Female category match is scheduled. The match is between Narayanpet and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 10:20, a Female category match is scheduled. The match is between Kamareddy and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 11:10, a Female category match is scheduled. The match is between Karimnagar and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 11:10, a Female category match is scheduled. The match is between Khammam and Medak at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 15:30, a Female category match is scheduled. The match is between Siddipet and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 15:30, a Female category match is scheduled. The match is between Jangaon and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 16:20, a Female category match is scheduled. The match is between Mahabubabad and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 16:20, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Warangal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 17:10, a Female category match is scheduled. The match is between Mulugu and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 17:10, a Female category match is scheduled. The match is between Peddapalli and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 18:00, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 18:00, a Female category match is scheduled. The match is between Hyderabad and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 18:50, a Female category match is scheduled. The match is between Nizamabad and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 06:50, a Female category match is scheduled. The match is between Adilabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 18:50, a Female category match is scheduled. The match is between Mancherial and Jogulamba gadwal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 18:50, a Female category match is scheduled. The match is between Wanaparthy and Nagarkurnool at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 19:40, a Female category match is scheduled. The match is between Ranga reddy and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 19:40, a Female category match is scheduled. The match is between Narayanpet and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at 08:30, a Female category match is scheduled. The match is between Jangaon and Hanumakonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 08:50, a Female category match is scheduled. The match is between Mancherial and Vikarabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 08:50, a Female category match is scheduled. The match is between Wanaparthy and Warangal at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 08:50, a Female category match is scheduled. The match is between Ranga reddy and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 08:50, a Female category match is scheduled. The match is between Narayanpet and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 09:40, a Female category match is scheduled. The match is between Yadadri bhuvanagiri and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 09:40, a Female category match is scheduled. The match is between Hyderabad and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 09:40, a Female category match is scheduled. The match is between Nizamabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On DAY-3 at 09:40, a Female category match is scheduled. The match is between Adilabad and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Adilabad and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Medak and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Medak and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Warangal and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Nizamabad and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Hyderabad and BYE at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Adilabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Male category match is scheduled. The match is between Medak and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Medak and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Warangal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Nizamabad and BYE at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Siddipet and BYE at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Nirmal and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Jayashankar bhupalpally and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Peddapalli and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Nalgonda and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Rajanna sircilla and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Siddipet at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Male category match is scheduled. The match is between Karimnagar and BYE at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Karimnagar and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Nalgonda and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Adilabad and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Hanumakonda and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Karimnagar and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Nalgonda and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Ranga reddy and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Adilabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Hanumakonda and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Siddipet and Medak at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Sangareddy and Warangal at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Mahabubabad and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Kumuram bheem (asifabad) and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Suryapet and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Jayashankar bhupalpally and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Nirmal and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Female category match is scheduled. The match is between Peddapalli and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Nizamabad and Mahabubabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Medchal-malkajgiri at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Rajanna sircilla at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Medak and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Hanumakonda and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Jagithyal and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Warangal and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Siddipet and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Nizamabad and BYE at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Nirmal at Venue: Unknown Venue.
+Schedule Alert: On Day 2 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Karimnagar at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Hyderabad and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day 3 at TBD, a Male category match is scheduled. The match is between Nizamabad and Mahabubnagar at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Jagithyal at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Mahabubnagar and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-1 at TBD, a Female category match is scheduled. The match is between Medak and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Medak and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Siddipet and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Hanumakonda and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Suryapet at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Jagithyal and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Hyderabad and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Hanumakonda and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Nizamabad and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Jagithyal and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Mahabubabad and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Medchal-malkajgiri and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Warangal and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Medak and Adilabad at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Siddipet and BYE at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Mahabubabad and BYE at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Siddipet and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Medchal-malkajgiri and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Ranga reddy and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Nirmal and Mancherial at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Rajanna sircilla and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Karimnagar and Bhadradri kothagudem at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Mancherial and Nalgonda at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Mahabubnagar and Jangaon at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Karimnagar and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Jagithyal and Kamareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Adilabad and Peddapalli at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Kumuram bheem (asifabad) and Narayanpet at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Peddapalli and Kumuram bheem (asifabad) at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Nirmal and Ranga reddy at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Nalgonda and Jayashankar bhupalpally at Venue: Unknown Venue.
+Schedule Alert: On Day 1 at TBD, a Male category match is scheduled. The match is between Suryapet and Sangareddy at Venue: Unknown Venue.
+Schedule Alert: On DAY-2 at TBD, a Female category match is scheduled. The match is between Jangaon and BYE at Venue: Unknown Venue.

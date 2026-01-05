@@ -1,0 +1,362 @@
+id,discipline_id,event_name,cat_no,from_age,to_age,event_size,event_class,status,cat_gend,sub_cat_id,created_at,isactive
+1,1,"Indian Round - 30 mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,1,"2024-11-29 17:07:46",1
+2,1,"Indian Round - 50mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,1,"2024-11-29 17:07:46",1
+3,1,"Recurve Double - 50 mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,1,"2024-11-29 17:07:46",1
+4,1,"Compound Double- 70mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,1,"2024-11-29 17:07:46",1
+5,1,"Indian Round - 30 mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,2,"2024-11-29 17:07:46",1
+6,1,"Indian Round - 50mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,2,"2024-11-29 17:07:46",1
+7,1,"Recurve Double - 50 mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,2,"2024-11-29 17:07:46",1
+8,1,"Compound Double- 70mtr",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,2,"2024-11-29 17:07:46",1
+9,2,Triathlon,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,3,"2024-11-29 17:07:46",1
+10,2,"Kids Javelin",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,3,"2024-11-29 17:07:46",1
+11,2,Triathlon,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,4,"2024-11-29 17:07:46",1
+12,2,"Kids Javelin",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,4,"2024-11-29 17:07:46",1
+13,2,100M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+14,2,200M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+15,2,400M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+16,2,800M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+17,2,1500M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+18,2,3000M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+19,2,Shotput,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+20,2,"Long Jump",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+21,2,"Discuss Throw",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+22,2,"Javelin Throw",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+23,2,"100M hurdles (B)",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+24,2,"4 x 400M mix relay",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,5,"2024-11-29 17:07:46",1
+25,2,100M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+26,2,200M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+27,2,400M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+28,2,800M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+29,2,1500M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+30,2,3000M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+31,2,Shotput,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+32,2,"Long Jump",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+33,2,"Discuss Throw",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+34,2,"Javelin Throw",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+35,2,"100M hurdles (G)",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+36,2,"4 x 400M mix relay",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,6,"2024-11-29 17:07:46",1
+37,2,100M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,7,"2024-11-29 17:07:46",1
+38,2,400M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,7,"2024-11-29 17:07:46",1
+39,2,Shotput,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,7,"2024-11-29 17:07:46",1
+40,2,"Long Jump",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,7,"2024-11-29 17:07:46",1
+41,2,100M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,8,"2024-11-29 17:07:46",1
+42,2,400M,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,8,"2024-11-29 17:07:46",1
+43,2,Shotput,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,8,"2024-11-29 17:07:46",1
+44,2,"Long Jump",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,8,"2024-11-29 17:07:46",1
+45,4,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,11,"2024-11-29 17:07:46",1
+46,4,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,11,"2024-11-29 17:07:46",1
+47,4,"Mixed Doubles",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,11,"2024-11-29 17:07:46",1
+48,4,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,12,"2024-11-29 17:07:46",1
+49,4,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,12,"2024-11-29 17:07:46",1
+50,4,"Mixed Doubles",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,12,"2024-11-29 17:07:46",1
+51,4,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,13,"2024-11-29 17:07:46",1
+52,4,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,13,"2024-11-29 17:07:46",1
+53,4,"Mixed Doubles",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,13,"2024-11-29 17:07:46",1
+54,4,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,14,"2024-11-29 17:07:46",1
+55,4,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,14,"2024-11-29 17:07:46",1
+56,4,"Mixed Doubles",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,14,"2024-11-29 17:07:46",1
+57,7,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,19,"2024-11-29 17:07:46",1
+58,7,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,20,"2024-11-29 17:07:46",1
+59,7,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,21,"2024-11-29 17:07:46",1
+60,8,40-42kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,22,"2024-11-29 17:07:46",1
+61,8,42-44kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,22,"2024-11-29 17:07:46",1
+62,8,44-46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,22,"2024-11-29 17:07:46",1
+63,8,46-48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,22,"2024-11-29 17:07:46",1
+64,8,40-42kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,23,"2024-11-29 17:07:46",1
+65,8,42-44kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,23,"2024-11-29 17:07:46",1
+66,8,44-46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,23,"2024-11-29 17:07:46",1
+67,8,46-48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,23,"2024-11-29 17:07:46",1
+68,8,44-46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,24,"2024-11-29 17:07:46",1
+69,8,46-48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,24,"2024-11-29 17:07:46",1
+70,8,48-50kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,24,"2024-11-29 17:07:46",1
+71,8,50-52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,24,"2024-11-29 17:07:46",1
+72,8,44-46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,25,"2024-11-29 17:07:46",1
+73,8,46-48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,25,"2024-11-29 17:07:46",1
+74,8,48-50kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,25,"2024-11-29 17:07:46",1
+75,8,50-52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,25,"2024-11-29 17:07:46",1
+76,8,46-48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,26,"2024-11-29 17:07:46",1
+77,8,48-51kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,26,"2024-11-29 17:07:46",1
+78,8,51-54kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,26,"2024-11-29 17:07:46",1
+79,8,54-57kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,26,"2024-11-29 17:07:46",1
+80,9,K-1,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,27,"2024-11-29 17:07:46",1
+81,9,K-2,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,27,"2024-11-29 17:07:46",1
+82,9,C-1,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,27,"2024-11-29 17:07:46",1
+83,9,C-2,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,27,"2024-11-29 17:07:46",1
+84,9,K-1,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,28,"2024-11-29 17:07:46",1
+85,9,K-2,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,28,"2024-11-29 17:07:46",1
+86,9,C-1,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,28,"2024-11-29 17:07:46",1
+87,9,C-2,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,28,"2024-11-29 17:07:46",1
+88,11,"Road Mass Start - 20KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,31,"2024-11-29 17:07:46",1
+89,11,"Indivudal Time Trail - 10KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,31,"2024-11-29 17:07:46",1
+90,11,"Road Mass Start - 10KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,32,"2024-11-29 17:07:46",1
+91,11,"Indivudal Time Trail - 5KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,32,"2024-11-29 17:07:46",1
+92,11,"Road Mass Start - 40KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,33,"2024-11-29 17:07:46",1
+93,11,"Indivudal Time Trail - 20KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,33,"2024-11-29 17:07:46",1
+94,11,"Road Mass Start - 20KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,34,"2024-11-29 17:07:46",1
+95,11,"Indivudal Time Trail - 10KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,34,"2024-11-29 17:07:46",1
+96,11,"Road Mass Start - 60KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,35,"2024-11-29 17:07:46",1
+97,11,"Indivudal Time Trail - 30KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,35,"2024-11-29 17:07:46",1
+98,11,"Road Mass Start - 30KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,36,"2024-11-29 17:07:46",1
+99,11,"Indivudal Time Trail - 15KM",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,36,"2024-11-29 17:07:46",1
+100,13,"Floor Exercise",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+101,13,Pommal,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+102,13,Rings,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+103,13,"Paralal Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+104,13,"Horizental Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+105,13,"Table Valut",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+106,13,"All Round Indivudual Champion",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,39,"2024-11-29 17:07:46",1
+107,13,"Table Valut",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,40,"2024-11-29 17:07:46",1
+108,13,"Balancing Beam",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,40,"2024-11-29 17:07:46",1
+109,13,"Uneven Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,40,"2024-11-29 17:07:46",1
+110,13,"Floor Exercises",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,40,"2024-11-29 17:07:46",1
+111,13,"All Round Indivudual Champion",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,40,"2024-11-29 17:07:46",1
+112,16,"Below 30kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+113,16,35kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+114,16,40kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+115,16,50kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+116,16,55kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+117,16,60kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+118,16,66kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+119,16,"Above 66kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-11-29 17:07:46",1
+120,16,"Below 36kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+121,16,40kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+122,16,44kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+123,16,48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+124,16,52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+125,16,57kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+126,16,63kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+127,16,70kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+128,16,"Above 70kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,45,"2024-11-29 17:07:46",1
+129,17,85kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,46,"2024-11-29 17:07:46",1
+130,17,75kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,47,"2024-11-29 17:07:46",1
+131,18,"Under 52kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,48,"2024-11-29 17:07:46",1
+132,18,57kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,48,"2024-11-29 17:07:46",1
+133,18,63kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,48,"2024-11-29 17:07:46",1
+134,18,"Above 63kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,48,"2024-11-29 17:07:46",1
+135,18,"Under 47kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,49,"2024-11-29 17:07:46",1
+136,18,54kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,49,"2024-11-29 17:07:46",1
+137,18,"Above 54kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,49,"2024-11-29 17:07:46",1
+138,18,"Under 55kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,50,"2024-11-29 17:07:46",1
+139,18,61kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,50,"2024-11-29 17:07:46",1
+140,18,68kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,50,"2024-11-29 17:07:46",1
+141,18,"Above 68kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,50,"2024-11-29 17:07:46",1
+142,18,"Under 53kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,51,"2024-11-29 17:07:46",1
+143,18,59kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,51,"2024-11-29 17:07:46",1
+144,18,"Above 59kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,51,"2024-11-29 17:07:46",1
+145,18,55kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,52,"2024-11-29 17:07:46",1
+146,18,60kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,52,"2024-11-29 17:07:46",1
+147,18,75kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,52,"2024-11-29 17:07:46",1
+148,18,"Above 75kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,52,"2024-11-29 17:07:46",1
+149,18,55kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,53,"2024-11-29 17:07:46",1
+150,18,61kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,53,"2024-11-29 17:07:46",1
+151,18,"Above 61kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,53,"2024-11-29 17:07:46",1
+152,20,"Under 32kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+153,20,37kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+154,20,42kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+155,20,47kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+156,20,52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+157,20,57kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+158,20,63kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+159,20,69kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+160,20,"Above 69kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,56,"2024-11-29 17:07:46",1
+161,20,"Under 32kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+162,20,37kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+163,20,42kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+164,20,46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+165,20,50kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+166,20,55kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+167,20,60kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+168,20,65kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+169,20,"Above 65kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,57,"2024-11-29 17:07:46",1
+170,21,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,58,"2024-11-29 17:07:46",1
+171,21,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,58,"2024-11-29 17:07:46",1
+172,21,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,59,"2024-11-29 17:07:46",1
+173,21,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,59,"2024-11-29 17:07:46",1
+174,23,"Under 66kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,62,"2024-11-29 17:07:46",1
+175,23,74kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,62,"2024-11-29 17:07:46",1
+176,23,83kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,62,"2024-11-29 17:07:46",1
+177,23,93kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,62,"2024-11-29 17:07:46",1
+178,23,105kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,62,"2024-11-29 17:07:46",1
+179,23,"Under 52kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,63,"2024-11-29 17:07:46",1
+180,23,57kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,63,"2024-11-29 17:07:46",1
+181,23,63kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,63,"2024-11-29 17:07:46",1
+182,23,69kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,63,"2024-11-29 17:07:46",1
+183,23,76kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,63,"2024-11-29 17:07:46",1
+184,24,"Single Scull",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,64,"2024-11-29 17:07:46",1
+185,24,"Double Scull",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,64,"2024-11-29 17:07:46",1
+186,24,Pair,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,64,"2024-11-29 17:07:46",1
+187,24,"Single Scull",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,65,"2024-11-29 17:07:46",1
+188,24,"Double Scull",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,65,"2024-11-29 17:07:46",1
+189,24,Pair,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,65,"2024-11-29 17:07:46",1
+190,26,"Air Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,68,"2024-11-29 17:07:46",1
+191,26,"Open Sight Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,68,"2024-11-29 17:07:46",1
+192,26,"Air Pistol - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,68,"2024-11-29 17:07:46",1
+193,26,"Air Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,69,"2024-11-29 17:07:46",1
+194,26,"Open Sight Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,69,"2024-11-29 17:07:46",1
+195,26,"Air Pistol - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,69,"2024-11-29 17:07:46",1
+196,26,"Air Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,70,"2024-11-29 17:07:46",1
+197,26,"Open Sight Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,70,"2024-11-29 17:07:46",1
+198,26,"Air Pistol - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,70,"2024-11-29 17:07:46",1
+199,26,"Air Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,71,"2024-11-29 17:07:46",1
+200,26,"Open Sight Rifle - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,71,"2024-11-29 17:07:46",1
+201,26,"Air Pistol - 10M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,71,"2024-11-29 17:07:46",1
+202,28,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,74,"2024-11-29 17:07:46",1
+203,28,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,74,"2024-11-29 17:07:46",1
+204,28,Singles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,75,"2024-11-29 17:07:46",1
+205,28,Doubles,NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,75,"2024-11-29 17:07:46",1
+206,29,"Free Style - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+207,29,"Back Stroke - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+208,29,"Breast Stroke - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+209,29,"Butterfly - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+210,29,"Free Style - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+211,29,"Back Stroke - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+212,29,"Breast Stroke - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+213,29,"Butterfly - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+214,29,"Free Style - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+215,29,"Back Stroke - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+216,29,"Breast Stroke - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+217,29,"Butterfly - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+218,29,"Individual Midlay - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,76,"2024-11-29 17:07:46",1
+219,29,"Free Style - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+220,29,"Back Stroke - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+221,29,"Breast Stroke - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+222,29,"Butterfly - 50M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+223,29,"Free Style - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+224,29,"Back Stroke - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+225,29,"Breast Stroke - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+226,29,"Butterfly - 100M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+227,29,"Free Style - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+228,29,"Back Stroke - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+229,29,"Breast Stroke - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+230,29,"Butterfly - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+231,29,"Individual Midlay - 200M",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,77,"2024-11-29 17:07:46",1
+232,31,"Under 33kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,80,"2024-11-29 17:07:46",1
+233,31,35kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,80,"2024-11-29 17:07:46",1
+234,31,37kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,80,"2024-11-29 17:07:46",1
+235,31,39kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,80,"2024-11-29 17:07:46",1
+236,31,41kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,80,"2024-11-29 17:07:46",1
+237,31,"Under 32kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,81,"2024-11-29 17:07:46",1
+238,31,33kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,81,"2024-11-29 17:07:46",1
+239,31,35kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,81,"2024-11-29 17:07:46",1
+240,31,37kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,81,"2024-11-29 17:07:46",1
+241,31,39kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,81,"2024-11-29 17:07:46",1
+242,31,"Under 45kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,82,"2024-11-29 17:07:46",1
+243,31,48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,82,"2024-11-29 17:07:46",1
+244,31,51kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,82,"2024-11-29 17:07:46",1
+245,31,55kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,82,"2024-11-29 17:07:46",1
+246,31,59kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,82,"2024-11-29 17:07:46",1
+247,31,"Under 42kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,83,"2024-11-29 17:07:46",1
+248,31,44kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,83,"2024-11-29 17:07:46",1
+249,31,46kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,83,"2024-11-29 17:07:46",1
+250,31,49kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,83,"2024-11-29 17:07:46",1
+251,31,52kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,83,"2024-11-29 17:07:46",1
+252,33,"Under 55kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+253,33,61kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+254,33,67kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+255,33,77kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+256,33,81kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+257,33,89kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+258,33,96kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+259,33,102kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+260,33,109kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+261,33,"Above 109kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,86,"2024-11-29 17:07:46",1
+262,33,"Under 55kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+263,33,61kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+264,33,67kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+265,33,77kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+266,33,81kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+267,33,89kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+268,33,96kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+269,33,102kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+270,33,109kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+271,33,"Above 109kgs",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,87,"2024-11-29 17:07:46",1
+272,34,44-45kgs,NULL,15,17,NULL,single-select-checkbox,1,1,88,"2024-11-29 17:07:46",1
+273,34,48kg,NULL,15,17,NULL,single-select-checkbox,1,1,88,"2024-11-29 17:07:46",1
+274,34,51kg,NULL,15,17,NULL,single-select-checkbox,1,1,88,"2024-11-29 17:07:46",1
+275,34,55kg,NULL,15,17,NULL,single-select-checkbox,1,1,88,"2024-11-29 17:07:46",1
+276,34,60kgs,NULL,15,17,NULL,single-select-checkbox,1,1,88,"2024-11-29 17:07:46",1
+277,34,50-57kgs,NULL,18,20,NULL,single-select-checkbox,1,1,89,"2024-11-29 17:07:46",1
+278,34,61kg,NULL,18,20,NULL,single-select-checkbox,1,1,89,"2024-11-29 17:07:46",1
+279,34,65kg,NULL,18,20,NULL,single-select-checkbox,1,1,89,"2024-11-29 17:07:46",1
+280,34,70kg,NULL,18,20,NULL,single-select-checkbox,1,1,89,"2024-11-29 17:07:46",1
+281,34,74kgs,NULL,18,20,NULL,single-select-checkbox,1,1,89,"2024-11-29 17:07:46",1
+282,35,"Under 21kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+283,35,24kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+284,35,27kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+285,35,30kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+286,35,33kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+287,35,36kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,90,"2024-11-29 17:07:46",1
+288,35,"Under 21kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+289,35,24kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+290,35,27kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+291,35,30kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+292,35,33kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+293,35,36kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,91,"2024-11-29 17:07:46",1
+294,35,"Under 45kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+295,35,48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+296,35,52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+297,35,56kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+298,35,60kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+299,35,65kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,92,"2024-11-29 17:07:46",1
+300,35,"Under 45kg",NULL,NULL,NULL,NULL,single-select-checkbox,1,2,93,"2024-11-29 17:07:46",1
+301,35,48kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,93,"2024-11-29 17:07:46",1
+302,35,52kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,93,"2024-11-29 17:07:46",1
+303,35,56kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,93,"2024-11-29 17:07:46",1
+304,35,60kgs,NULL,NULL,NULL,NULL,single-select-checkbox,1,2,93,"2024-11-29 17:07:46",1
+305,36,"Traditional Yogasana",NULL,14,19,NULL,multi-select-checkbox,1,1,94,"2024-11-29 17:07:46",1
+306,36,"Artistic Yogasana Single",NULL,14,19,NULL,multi-select-checkbox,1,1,94,"2024-11-29 17:07:46",1
+309,36,"Traditional Yogasana",NULL,14,19,NULL,multi-select-checkbox,1,2,95,"2024-11-29 17:07:46",1
+310,36,"Artistic Yogasana Single",NULL,14,19,NULL,multi-select-checkbox,1,2,95,"2024-11-29 17:07:46",1
+313,36,"Traditional Yogasana",NULL,19,25,NULL,multi-select-checkbox,1,1,96,"2024-11-29 17:07:46",1
+314,36,"Artistic Yogasana Single",NULL,19,25,NULL,multi-select-checkbox,1,1,96,"2024-11-29 17:07:46",1
+317,36,"Traditional Yogasana",NULL,19,25,NULL,multi-select-checkbox,1,2,97,"2024-11-29 17:07:46",1
+318,36,"Artistic Yogasana Single",NULL,19,25,NULL,multi-select-checkbox,1,2,97,"2024-11-29 17:07:46",1
+321,16,45kg,NULL,NULL,NULL,NULL,single-select-checkbox,1,1,44,"2024-12-03 02:16:59",1
+322,37,100m,NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:08:18",1
+323,37,200m,NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:08:18",1
+324,37,400m,NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:08:52",1
+325,37,"Short put",NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:09:42",1
+326,37,"javelin throw",NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:09:42",1
+327,37,"discuss throw",NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:10:37",1
+328,37,"long jump",NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:10:37",1
+329,37,"high jump",NULL,10,65,NULL,multi-select-checkbox,1,1,98,"2024-11-25 12:11:02",1
+330,37,100m,NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:08:18",1
+331,37,200m,NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:08:18",1
+332,37,400m,NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:08:52",1
+333,37,"Short put",NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:09:42",1
+334,37,"javelin throw",NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:09:42",1
+335,37,"discuss throw",NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:10:37",1
+336,37,"long jump",NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:10:37",1
+337,37,"high jump",NULL,10,65,NULL,multi-select-checkbox,1,2,99,"2024-11-25 12:11:02",1
+338,34,36-40,NULL,15,17,NULL,NULL,1,2,110,"2024-12-11 14:27:56",1
+339,34,43,NULL,15,17,NULL,NULL,1,2,110,"2024-12-11 14:30:41",1
+340,34,46,NULL,15,17,NULL,NULL,1,2,110,"2024-12-11 14:30:41",1
+341,34,49,NULL,15,17,NULL,NULL,1,2,110,"2024-12-11 14:30:41",1
+342,34,46-50,NULL,18,20,NULL,NULL,1,2,111,"2024-12-11 14:35:52",1
+343,34,53,NULL,18,20,NULL,NULL,1,2,111,"2024-12-11 14:35:52",1
+344,34,55,NULL,18,20,NULL,NULL,1,2,111,"2024-12-11 14:35:52",1
+345,34,53,NULL,15,17,NULL,NULL,1,2,110,"2024-12-11 14:27:56",1
+346,34,57,NULL,18,20,NULL,NULL,1,2,111,"2024-12-11 14:35:52",1
+347,34,59,NULL,18,20,NULL,NULL,1,2,111,"2024-12-11 14:35:52",1
+348,36,"Rhythmic Yogasana single",NULL,14,19,NULL,multi-select-checkbox,1,2,95,"2024-11-29 17:07:46",1
+349,36,"Rhytamic Yogasana Single",NULL,19,25,NULL,multi-select-checkbox,1,1,96,"2024-11-29 17:07:46",1
+350,36,"Rhythamic Yogasana Single",NULL,19,25,NULL,multi-select-checkbox,1,2,97,"2024-11-29 17:07:46",1
+351,36,"Traditional Yogasana",NULL,10,14,NULL,multi-select-checkbox,1,1,112,"2024-11-29 17:07:46",1
+352,36,"Artistic Yogasana Single",NULL,10,14,NULL,multi-select-checkbox,1,1,112,"2024-11-29 17:07:46",1
+353,36,"Rhythmic Yogasana single",NULL,10,14,NULL,multi-select-checkbox,1,1,112,"2024-11-29 17:07:46",1
+354,36,"Traditional Yogasana",NULL,10,14,NULL,multi-select-checkbox,1,2,113,"2024-11-29 17:07:46",1
+355,36,"Artistic Yogasana Single",NULL,10,14,NULL,multi-select-checkbox,1,2,113,"2024-11-29 17:07:46",1
+356,36,"Rhythmic Yogasana single",NULL,10,14,NULL,multi-select-checkbox,1,2,113,"2024-11-29 17:07:46",1
+357,36,"Rythamic Yogasana Single",NULL,14,19,NULL,multi-select-checkbox,1,1,94,"2024-11-29 17:07:46",1
+358,13,"Floor Exercise",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+359,13,Pommal,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+360,13,Rings,NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+361,13,"Paralal Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+362,13,"Horizental Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+363,13,"Table Valut",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+364,13,"All Round Indivudual Champion",NULL,NULL,NULL,NULL,multi-select-checkbox,1,1,114,"2024-11-29 17:07:46",1
+365,13,"Table Valut",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,115,"2024-11-29 17:07:46",1
+366,13,"Balancing Beam",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,115,"2024-11-29 17:07:46",1
+367,13,"Uneven Bar",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,115,"2024-11-29 17:07:46",1
+368,13,"Floor Exercises",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,115,"2024-11-29 17:07:46",1
+369,13,"All Round Indivudual Champion",NULL,NULL,NULL,NULL,multi-select-checkbox,1,2,115,"2024-11-29 17:07:46",1

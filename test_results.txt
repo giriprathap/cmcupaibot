@@ -1,0 +1,195 @@
+Starting 20-Question RAG Stress Test...
+
+[1/20] Q: What is the purpose of the SATG ChatBot?
+   A: The SATG ChatBot is an informational assistant designed to answer questions about the Sports Authority of Telangana (SATG), its website, and its activities.
+   (Time: 3.78s)
+
+[2/20] Q: What is the Vision 2025 for Telangana sports?
+   A: I don't have that information.
+   (Time: 4.5s)
+
+[3/20] Q: How much cash award is given for a Gold Medal in the Olympics?
+   A: For the Olympics and Paralympic Games, athletes will receive â‚¹6 Cr for Gold.
+   (Time: 1.66s)
+
+[4/20] Q: What are the incentives for coaches in the new policy?
+   A: The new policy provides several incentives for coaches:
+
+*   **Graded Incentives:** A three-tier structure (Elite, Emerging, and Foundation Categories) will be created for coaches based on qualification, experience, results delivered, and past awards. Rewards and financial incentives will be provisioned accordingly for these three categories.
+*   **Structured Incentives and Recognition:** The Government of Telangana will implement a comprehensive framework offering structured incentives and recognition for coaches.
+*   **Special Casual Leave / On Duty:** Provisions for Special Casual Leave / On Duty will be enhanced for coaches.
+*   **Pension for Retired Coaches:** Pension support will be provided to veteran meritorious coaches. They will also be encouraged and supported to transition into sport-related assignments, mentor younger athletes, and contribute to the coaching ecosystem.
+   (Time: 3.1s)
+
+[5/20] Q: Does Telangana provide reservation in government jobs for sportspersons?
+   A: I don't have that information.
+   (Time: 2.45s)
+
+[6/20] Q: List 3 districts in Telangana mentioned in the data.
+   A: Based on the provided context, here are 3 districts in Telangana:
+*   District ID 3
+*   District ID 4
+*   District ID 5
+   (Time: 1.73s)
+
+[7/20] Q: Name some Mandals in the database.
+   A: Here are some Mandals in the database:
+
+*   Dasturabad
+*   Dilawarpur
+*   Kaddam (peddur)
+*   Khanapur
+*   Kubeer
+*   Kuntala
+*   Laxmanchanda
+*   Lokeswaram
+*   Mamda
+*   Mudhole
+*   Narsapur g
+*   Nirmal rural
+*   Pembi
+*   Sarangapur
+*   Soan
+*   Tanur
+*   Bhainsa (mc)
+*   Khanapur (mc)
+   (Time: 2.46s)
+
+[8/20] Q: What villages are listed in the dataset?
+   A: The villages listed in the dataset are:
+Jainad, Kamta, Karanji (K), Khapri, Kowtha, Kura, Laxmipur, Makoda, Nirala, Pippalgoan, Sangvi(K), Battisawargoan, Mavala, Waghapur, Babjhari, Bela, Bhadi, Bhavaniguda, Bhedoda, Bhodod (Kopsi), Chandpalle, Chaprala, Dehegoan, Dhoptala, Ekori, Ganeshpur, Guda, Junoni, Khogdur, Kobhai, Mangrood, Pochara, Thantholi, Tippa, Wanwat, Yapalguda, Yeshwanthguda, Ananthapur, Andhuguda, Bazarhathnoor, Bhosra, Bhutai-B, Bhutai-K, Burkapally, Chandunaik Thanda, Chintal Sangive, Pathareddygudem, Ramannagudem, Tirumalakunta, Vedanthapuram, Vinayakapuram, Bhadrachalam, Anjanapuram, Burgampahad, Iravendi, Koyagudem, Krishnasagar, Lakshmipuram, Morampalli Banjar, Mothepatti Nagar.
+   (Time: 2.26s)
+
+[9/20] Q: Can you list the clusters available?
+   A: Here are the clusters available:
+
+*   **Edgi Big** (ID: 676)
+*   **Gulla Big** (ID: 677)
+*   **Hangarga** (ID: 678)
+*   **Jukkal** (ID: 679)
+*   **Kandebellur** (ID: 680)
+*   **Kowlas** (ID: 681)
+*   **Chinnamallareddy** (ID: 682)
+*   **Gargul** (ID: 683)
+*   **Kyasampally** (ID: 684)
+*   **Bhavanipet** (ID: 685)
+*   **Lingampalli Kd** (ID: 686)
+*   **Lingampet** (ID: 687)
+*   **Mustapoor** (ID: 688)
+*   **Pothaipalli** (ID: 689)
+*   **Achampet** (ID: 712)
+*   **Banjepally** (ID: 713)
+*   **Mallur** (ID: 714)
+*   **Burugupalli** (ID: 715)
+*   **Katepalli** (ID: 716)
+*   **Pedda Kodapgal** (ID: 717)
+*   **Wadlam** (ID: 718)
+*   **Chillargi** (ID: 719)
+*   **Chinnakodapgal** (ID: 720)
+*   **Peddarampur** (ID: 721)
+*   **Piltam** (ID: 722)
+*   **Gundaram** (ID: 723)
+*   **Kondapoor** (ID: 724)
+*   **Rajampet** (ID: 725)
+*   **ALAMPUR** (ID: 594)
+*   **BUKKAPUR** (ID: 595)
+*   **KYATUR** (ID: 596)
+*   **LINGANVAI** (ID: 597)
+*   **DHAROOR** (ID: 598)
+*   **MARLABEEDU** (ID: 599)
+*   **REVULAPALLY** (ID: 600)
+*   **UPPAIR** (ID: 601)
+*   **ANANTHAPURAM** (ID: 602)
+*   **GADWAL** (ID: 603)
+*   **GADWAL (Indoor Stadium)** (ID: 604)
+*   **MULKALAPALLY** (ID: 605)
+*   **PUDOOR** (ID: 606)
+*   **SETTY ATKUR** (ID: 607)
+   (Time: 4.17s)
+
+[10/20] Q: What sports disciplines are included in the CM Cup?
+   A: The sports disciplines included in the CM Cup are:
+
+*   Chess
+*   Cycling
+*   Football
+*   Gymnastics
+*   Handball
+*   Hockey
+*   Judo
+*   Kabaddi
+*   Karate
+*   Kho-Kho
+*   Kickboxing
+*   Squash
+*   Swimming
+*   Table tennis
+*   Taekwondo
+*   Volleyball
+*   Weight lifting
+*   Wrestling
+*   Wushu
+*   Yoga
+*   Para Athletics
+   (Time: 1.75s)
+
+[11/20] Q: Is Kabaddi included in the supported sports?
+   A: Yes, Kabaddi (ID: 17) is included in the supported sports.
+   (Time: 1.58s)
+
+[12/20] Q: What events are scheduled for Athletics?
+   A: I don't have that information.
+   (Time: 1.6s)
+
+[13/20] Q: Tell me about the Swimming events.
+   A: The following events belong to Discipline ID 29 (Swimming):
+
+*   Free Style - 100M
+*   Back Stroke - 100M
+*   Breast Stroke - 100M
+*   Butterfly - 100M
+*   Free Style - 200M
+*   Back Stroke - 200M
+*   Breast Stroke - 200M
+*   Butterfly - 200M
+*   Individual Midlay - 200M
+*   Free Style - 50M
+*   Back Stroke - 50M
+*   Breast Stroke - 50M
+*   Butterfly - 50M
+   (Time: 2.53s)
+
+[14/20] Q: Are there any Kho-Kho matches scheduled?
+   A: I don't have that information.
+   (Time: 2.24s)
+
+[15/20] Q: Show me the fixtures for Match 1.
+   A: Fixture ID: 121
+Match: Match- 1
+Scheduled for: Day- 1 at 07:00
+Venue: Venue- 2
+Teams: District ID 9 and District ID 2
+   (Time: 2.33s)
+
+[16/20] Q: Who is playing in Fixture ID 5?
+   A: I don't have that information.
+   (Time: 1.88s)
+
+[17/20] Q: What time is the Football match scheduled?
+   A: I don't have that information.
+   (Time: 2.5s)
+
+[18/20] Q: What are the rules for registration in the tournament?
+   A: I don't have that information.
+   (Time: 1.54s)
+
+[19/20] Q: Tell me about the venues for the CM Cup.
+   A: I don't have that information. All match fixtures provided state "Venue: Unknown".
+   (Time: 2.65s)
+
+[20/20] Q: Summarize the awards for National level winners.
+   A: For the National Games and Para National Games, athletes will receive cash incentives: ₹5 L for Gold, ₹3 L for Silver, and ₹2 L for Bronze, with no participation incentive.
+   (Time: 3.17s)
+
+
+Test Complete.

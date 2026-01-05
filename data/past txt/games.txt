@@ -1,0 +1,361 @@
+The sport Archery includes the event: Indian Round - 30 mtr.
+The sport Archery includes the event: Indian Round - 50mtr.
+The sport Archery includes the event: Recurve Double - 50 mtr.
+The sport Archery includes the event: Compound Double- 70mtr.
+The sport Archery includes the event: Indian Round - 30 mtr.
+The sport Archery includes the event: Indian Round - 50mtr.
+The sport Archery includes the event: Recurve Double - 50 mtr.
+The sport Archery includes the event: Compound Double- 70mtr.
+The sport Athletics includes the event: Triathlon.
+The sport Athletics includes the event: Kids Javelin.
+The sport Athletics includes the event: Triathlon.
+The sport Athletics includes the event: Kids Javelin.
+The sport Athletics includes the event: 100M.
+The sport Athletics includes the event: 200M.
+The sport Athletics includes the event: 400M.
+The sport Athletics includes the event: 800M.
+The sport Athletics includes the event: 1500M.
+The sport Athletics includes the event: 3000M.
+The sport Athletics includes the event: Shotput.
+The sport Athletics includes the event: Long Jump.
+The sport Athletics includes the event: Discuss Throw.
+The sport Athletics includes the event: Javelin Throw.
+The sport Athletics includes the event: 100M hurdles (B).
+The sport Athletics includes the event: 4 x 400M mix relay.
+The sport Athletics includes the event: 100M.
+The sport Athletics includes the event: 200M.
+The sport Athletics includes the event: 400M.
+The sport Athletics includes the event: 800M.
+The sport Athletics includes the event: 1500M.
+The sport Athletics includes the event: 3000M.
+The sport Athletics includes the event: Shotput.
+The sport Athletics includes the event: Long Jump.
+The sport Athletics includes the event: Discuss Throw.
+The sport Athletics includes the event: Javelin Throw.
+The sport Athletics includes the event: 100M hurdles (G).
+The sport Athletics includes the event: 4 x 400M mix relay.
+The sport Athletics includes the event: 100M.
+The sport Athletics includes the event: 400M.
+The sport Athletics includes the event: Shotput.
+The sport Athletics includes the event: Long Jump.
+The sport Athletics includes the event: 100M.
+The sport Athletics includes the event: 400M.
+The sport Athletics includes the event: Shotput.
+The sport Athletics includes the event: Long Jump.
+The sport Badminton includes the event: Singles.
+The sport Badminton includes the event: Doubles.
+The sport Badminton includes the event: Mixed Doubles.
+The sport Badminton includes the event: Singles.
+The sport Badminton includes the event: Doubles.
+The sport Badminton includes the event: Mixed Doubles.
+The sport Badminton includes the event: Singles.
+The sport Badminton includes the event: Doubles.
+The sport Badminton includes the event: Mixed Doubles.
+The sport Badminton includes the event: Singles.
+The sport Badminton includes the event: Doubles.
+The sport Badminton includes the event: Mixed Doubles.
+The sport Billiard & snooker includes the event: Singles.
+The sport Billiard & snooker includes the event: Singles.
+The sport Billiard & snooker includes the event: Singles.
+The sport Boxing includes the event: 40-42kg.
+The sport Boxing includes the event: 42-44kg.
+The sport Boxing includes the event: 44-46kg.
+The sport Boxing includes the event: 46-48kg.
+The sport Boxing includes the event: 40-42kg.
+The sport Boxing includes the event: 42-44kg.
+The sport Boxing includes the event: 44-46kg.
+The sport Boxing includes the event: 46-48kg.
+The sport Boxing includes the event: 44-46kg.
+The sport Boxing includes the event: 46-48kg.
+The sport Boxing includes the event: 48-50kg.
+The sport Boxing includes the event: 50-52kg.
+The sport Boxing includes the event: 44-46kg.
+The sport Boxing includes the event: 46-48kg.
+The sport Boxing includes the event: 48-50kg.
+The sport Boxing includes the event: 50-52kg.
+The sport Boxing includes the event: 46-48kg.
+The sport Boxing includes the event: 48-51kg.
+The sport Boxing includes the event: 51-54kg.
+The sport Boxing includes the event: 54-57kg.
+The sport Canoeing & Kayaking includes the event: K-1.
+The sport Canoeing & Kayaking includes the event: K-2.
+The sport Canoeing & Kayaking includes the event: C-1.
+The sport Canoeing & Kayaking includes the event: C-2.
+The sport Canoeing & Kayaking includes the event: K-1.
+The sport Canoeing & Kayaking includes the event: K-2.
+The sport Canoeing & Kayaking includes the event: C-1.
+The sport Canoeing & Kayaking includes the event: C-2.
+The sport Cycling includes the event: Road Mass Start - 20KM.
+The sport Cycling includes the event: Indivudal Time Trail - 10KM.
+The sport Cycling includes the event: Road Mass Start - 10KM.
+The sport Cycling includes the event: Indivudal Time Trail - 5KM.
+The sport Cycling includes the event: Road Mass Start - 40KM.
+The sport Cycling includes the event: Indivudal Time Trail - 20KM.
+The sport Cycling includes the event: Road Mass Start - 20KM.
+The sport Cycling includes the event: Indivudal Time Trail - 10KM.
+The sport Cycling includes the event: Road Mass Start - 60KM.
+The sport Cycling includes the event: Indivudal Time Trail - 30KM.
+The sport Cycling includes the event: Road Mass Start - 30KM.
+The sport Cycling includes the event: Indivudal Time Trail - 15KM.
+The sport Gymnastics includes the event: Floor Exercise.
+The sport Gymnastics includes the event: Pommal.
+The sport Gymnastics includes the event: Rings.
+The sport Gymnastics includes the event: Paralal Bar.
+The sport Gymnastics includes the event: Horizental Bar.
+The sport Gymnastics includes the event: Table Valut.
+The sport Gymnastics includes the event: All Round Indivudual Champion.
+The sport Gymnastics includes the event: Table Valut.
+The sport Gymnastics includes the event: Balancing Beam.
+The sport Gymnastics includes the event: Uneven Bar.
+The sport Gymnastics includes the event: Floor Exercises.
+The sport Gymnastics includes the event: All Round Indivudual Champion.
+The sport Judo includes the event: Below 30kg.
+The sport Judo includes the event: 35kg.
+The sport Judo includes the event: 40kg.
+The sport Judo includes the event: 50kg.
+The sport Judo includes the event: 55kg.
+The sport Judo includes the event: 60kg.
+The sport Judo includes the event: 66kg.
+The sport Judo includes the event: Above 66kgs.
+The sport Judo includes the event: Below 36kg.
+The sport Judo includes the event: 40kg.
+The sport Judo includes the event: 44kg.
+The sport Judo includes the event: 48kg.
+The sport Judo includes the event: 52kg.
+The sport Judo includes the event: 57kg.
+The sport Judo includes the event: 63kg.
+The sport Judo includes the event: 70kg.
+The sport Judo includes the event: Above 70kgs.
+The sport Kabaddi includes the event: 85kgs.
+The sport Kabaddi includes the event: 75kgs.
+The sport Karate includes the event: Under 52kg.
+The sport Karate includes the event: 57kg.
+The sport Karate includes the event: 63kg.
+The sport Karate includes the event: Above 63kgs.
+The sport Karate includes the event: Under 47kg.
+The sport Karate includes the event: 54kg.
+The sport Karate includes the event: Above 54kgs.
+The sport Karate includes the event: Under 55kg.
+The sport Karate includes the event: 61kg.
+The sport Karate includes the event: 68kg.
+The sport Karate includes the event: Above 68kgs.
+The sport Karate includes the event: Under 53kg.
+The sport Karate includes the event: 59kg.
+The sport Karate includes the event: Above 59kgs.
+The sport Karate includes the event: 55kg.
+The sport Karate includes the event: 60kg.
+The sport Karate includes the event: 75kg.
+The sport Karate includes the event: Above 75kgs.
+The sport Karate includes the event: 55kg.
+The sport Karate includes the event: 61kg.
+The sport Karate includes the event: Above 61kgs.
+The sport Kickboxing includes the event: Under 32kg.
+The sport Kickboxing includes the event: 37kg.
+The sport Kickboxing includes the event: 42kg.
+The sport Kickboxing includes the event: 47kg.
+The sport Kickboxing includes the event: 52kg.
+The sport Kickboxing includes the event: 57kg.
+The sport Kickboxing includes the event: 63kg.
+The sport Kickboxing includes the event: 69kg.
+The sport Kickboxing includes the event: Above 69kgs.
+The sport Kickboxing includes the event: Under 32kg.
+The sport Kickboxing includes the event: 37kg.
+The sport Kickboxing includes the event: 42kg.
+The sport Kickboxing includes the event: 46kg.
+The sport Kickboxing includes the event: 50kg.
+The sport Kickboxing includes the event: 55kg.
+The sport Kickboxing includes the event: 60kg.
+The sport Kickboxing includes the event: 65kg.
+The sport Kickboxing includes the event: Above 65kgs.
+The sport Lawn tennis includes the event: Singles.
+The sport Lawn tennis includes the event: Doubles.
+The sport Lawn tennis includes the event: Singles.
+The sport Lawn tennis includes the event: Doubles.
+The sport Power Lifting includes the event: Under 66kg.
+The sport Power Lifting includes the event: 74kg.
+The sport Power Lifting includes the event: 83kg.
+The sport Power Lifting includes the event: 93kg.
+The sport Power Lifting includes the event: 105kgs.
+The sport Power Lifting includes the event: Under 52kg.
+The sport Power Lifting includes the event: 57kg.
+The sport Power Lifting includes the event: 63kg.
+The sport Power Lifting includes the event: 69kg.
+The sport Power Lifting includes the event: 76kgs.
+The sport Rowing includes the event: Single Scull.
+The sport Rowing includes the event: Double Scull.
+The sport Rowing includes the event: Pair.
+The sport Rowing includes the event: Single Scull.
+The sport Rowing includes the event: Double Scull.
+The sport Rowing includes the event: Pair.
+The sport Shooting includes the event: Air Rifle - 10M.
+The sport Shooting includes the event: Open Sight Rifle - 10M.
+The sport Shooting includes the event: Air Pistol - 10M.
+The sport Shooting includes the event: Air Rifle - 10M.
+The sport Shooting includes the event: Open Sight Rifle - 10M.
+The sport Shooting includes the event: Air Pistol - 10M.
+The sport Shooting includes the event: Air Rifle - 10M.
+The sport Shooting includes the event: Open Sight Rifle - 10M.
+The sport Shooting includes the event: Air Pistol - 10M.
+The sport Shooting includes the event: Air Rifle - 10M.
+The sport Shooting includes the event: Open Sight Rifle - 10M.
+The sport Shooting includes the event: Air Pistol - 10M.
+The sport Squash includes the event: Singles.
+The sport Squash includes the event: Doubles.
+The sport Squash includes the event: Singles.
+The sport Squash includes the event: Doubles.
+The sport Swimming includes the event: Free Style - 50M.
+The sport Swimming includes the event: Back Stroke - 50M.
+The sport Swimming includes the event: Breast Stroke - 50M.
+The sport Swimming includes the event: Butterfly - 50M.
+The sport Swimming includes the event: Free Style - 100M.
+The sport Swimming includes the event: Back Stroke - 100M.
+The sport Swimming includes the event: Breast Stroke - 100M.
+The sport Swimming includes the event: Butterfly - 100M.
+The sport Swimming includes the event: Free Style - 200M.
+The sport Swimming includes the event: Back Stroke - 200M.
+The sport Swimming includes the event: Breast Stroke - 200M.
+The sport Swimming includes the event: Butterfly - 200M.
+The sport Swimming includes the event: Individual Midlay - 200M.
+The sport Swimming includes the event: Free Style - 50M.
+The sport Swimming includes the event: Back Stroke - 50M.
+The sport Swimming includes the event: Breast Stroke - 50M.
+The sport Swimming includes the event: Butterfly - 50M.
+The sport Swimming includes the event: Free Style - 100M.
+The sport Swimming includes the event: Back Stroke - 100M.
+The sport Swimming includes the event: Breast Stroke - 100M.
+The sport Swimming includes the event: Butterfly - 100M.
+The sport Swimming includes the event: Free Style - 200M.
+The sport Swimming includes the event: Back Stroke - 200M.
+The sport Swimming includes the event: Breast Stroke - 200M.
+The sport Swimming includes the event: Butterfly - 200M.
+The sport Swimming includes the event: Individual Midlay - 200M.
+The sport Taekwondo includes the event: Under 33kg.
+The sport Taekwondo includes the event: 35kg.
+The sport Taekwondo includes the event: 37kg.
+The sport Taekwondo includes the event: 39kg.
+The sport Taekwondo includes the event: 41kgs.
+The sport Taekwondo includes the event: Under 32kg.
+The sport Taekwondo includes the event: 33kg.
+The sport Taekwondo includes the event: 35kg.
+The sport Taekwondo includes the event: 37kg.
+The sport Taekwondo includes the event: 39kgs.
+The sport Taekwondo includes the event: Under 45kg.
+The sport Taekwondo includes the event: 48kg.
+The sport Taekwondo includes the event: 51kg.
+The sport Taekwondo includes the event: 55kg.
+The sport Taekwondo includes the event: 59kgs.
+The sport Taekwondo includes the event: Under 42kg.
+The sport Taekwondo includes the event: 44kg.
+The sport Taekwondo includes the event: 46kg.
+The sport Taekwondo includes the event: 49kg.
+The sport Taekwondo includes the event: 52kgs.
+The sport Weight lifting includes the event: Under 55kg.
+The sport Weight lifting includes the event: 61kg.
+The sport Weight lifting includes the event: 67kg.
+The sport Weight lifting includes the event: 77kg.
+The sport Weight lifting includes the event: 81kg.
+The sport Weight lifting includes the event: 89kg.
+The sport Weight lifting includes the event: 96kg.
+The sport Weight lifting includes the event: 102kg.
+The sport Weight lifting includes the event: 109kg.
+The sport Weight lifting includes the event: Above 109kgs.
+The sport Weight lifting includes the event: Under 55kg.
+The sport Weight lifting includes the event: 61kg.
+The sport Weight lifting includes the event: 67kg.
+The sport Weight lifting includes the event: 77kg.
+The sport Weight lifting includes the event: 81kg.
+The sport Weight lifting includes the event: 89kg.
+The sport Weight lifting includes the event: 96kg.
+The sport Weight lifting includes the event: 102kg.
+The sport Weight lifting includes the event: 109kg.
+The sport Weight lifting includes the event: Above 109kgs.
+The sport Wrestling includes the event: 44-45kgs.
+The sport Wrestling includes the event: 48kg.
+The sport Wrestling includes the event: 51kg.
+The sport Wrestling includes the event: 55kg.
+The sport Wrestling includes the event: 60kgs.
+The sport Wrestling includes the event: 50-57kgs.
+The sport Wrestling includes the event: 61kg.
+The sport Wrestling includes the event: 65kg.
+The sport Wrestling includes the event: 70kg.
+The sport Wrestling includes the event: 74kgs.
+The sport Wushu includes the event: Under 21kg.
+The sport Wushu includes the event: 24kg.
+The sport Wushu includes the event: 27kg.
+The sport Wushu includes the event: 30kg.
+The sport Wushu includes the event: 33kg.
+The sport Wushu includes the event: 36kgs.
+The sport Wushu includes the event: Under 21kg.
+The sport Wushu includes the event: 24kg.
+The sport Wushu includes the event: 27kg.
+The sport Wushu includes the event: 30kg.
+The sport Wushu includes the event: 33kg.
+The sport Wushu includes the event: 36kgs.
+The sport Wushu includes the event: Under 45kg.
+The sport Wushu includes the event: 48kg.
+The sport Wushu includes the event: 52kg.
+The sport Wushu includes the event: 56kg.
+The sport Wushu includes the event: 60kg.
+The sport Wushu includes the event: 65kgs.
+The sport Wushu includes the event: Under 45kg.
+The sport Wushu includes the event: 48kg.
+The sport Wushu includes the event: 52kg.
+The sport Wushu includes the event: 56kg.
+The sport Wushu includes the event: 60kgs.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Judo includes the event: 45kg.
+The sport Para Athletics includes the event: 100m.
+The sport Para Athletics includes the event: 200m.
+The sport Para Athletics includes the event: 400m.
+The sport Para Athletics includes the event: Short put.
+The sport Para Athletics includes the event: javelin throw.
+The sport Para Athletics includes the event: discuss throw.
+The sport Para Athletics includes the event: long jump.
+The sport Para Athletics includes the event: high jump.
+The sport Para Athletics includes the event: 100m.
+The sport Para Athletics includes the event: 200m.
+The sport Para Athletics includes the event: 400m.
+The sport Para Athletics includes the event: Short put.
+The sport Para Athletics includes the event: javelin throw.
+The sport Para Athletics includes the event: discuss throw.
+The sport Para Athletics includes the event: long jump.
+The sport Para Athletics includes the event: high jump.
+The sport Wrestling includes the event: 36-40.
+The sport Wrestling includes the event: 43.
+The sport Wrestling includes the event: 46.
+The sport Wrestling includes the event: 49.
+The sport Wrestling includes the event: 46-50.
+The sport Wrestling includes the event: 53.
+The sport Wrestling includes the event: 55.
+The sport Wrestling includes the event: 53.
+The sport Wrestling includes the event: 57.
+The sport Wrestling includes the event: 59.
+The sport Yoga includes the event: Rhythmic Yogasana single.
+The sport Yoga includes the event: Rhytamic Yogasana Single.
+The sport Yoga includes the event: Rhythamic Yogasana Single.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Yoga includes the event: Rhythmic Yogasana single.
+The sport Yoga includes the event: Traditional Yogasana.
+The sport Yoga includes the event: Artistic Yogasana Single.
+The sport Yoga includes the event: Rhythmic Yogasana single.
+The sport Yoga includes the event: Rythamic Yogasana Single.
+The sport Gymnastics includes the event: Floor Exercise.
+The sport Gymnastics includes the event: Pommal.
+The sport Gymnastics includes the event: Rings.
+The sport Gymnastics includes the event: Paralal Bar.
+The sport Gymnastics includes the event: Horizental Bar.
+The sport Gymnastics includes the event: Table Valut.
+The sport Gymnastics includes the event: All Round Indivudual Champion.
+The sport Gymnastics includes the event: Table Valut.
+The sport Gymnastics includes the event: Balancing Beam.
+The sport Gymnastics includes the event: Uneven Bar.
+The sport Gymnastics includes the event: Floor Exercises.
+The sport Gymnastics includes the event: All Round Indivudual Champion.

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.idea/
+.vscode/
+data/qdrant_db/
+data/qdrant_db_old/
+*.xlsx
+*.db
+*.sqlite
+data/new data/*.xlsx

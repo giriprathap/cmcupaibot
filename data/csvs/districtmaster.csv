@@ -1,0 +1,35 @@
+DistrictNo,DistrictName,status,Nodal_ID,Dist_code
+1,Adilabad,1,150,01
+2,"Bhadradri kothagudem",1,158,02
+3,Hanumakonda,1,156,03
+4,Hyderabad,1,NULL,04
+5,Jagithyal,1,151,05
+6,Jangaon,1,156,06
+7,"Jayashankar bhupalpally",1,156,07
+8,"Jogulamba gadwal",1,159,08
+9,Kamareddy,1,152,09
+10,Karimnagar,1,151,10
+11,Khammam,1,158,11
+12,"Kumuram bheem (asifabad)",1,150,12
+13,Mahabubabad,1,156,13
+14,Mahabubnagar,1,159,14
+15,Mancherial,1,150,15
+16,Medak,1,153,16
+17,Medchal-malkajgiri,1,155,17
+18,Mulugu,1,156,18
+19,Nagarkurnool,1,159,19
+20,Nalgonda,1,154,20
+21,Narayanpet,1,159,21
+22,Nirmal,1,150,22
+23,Nizamabad,1,152,23
+24,Peddapalli,1,151,24
+25,"Rajanna sircilla",1,151,25
+26,"Ranga reddy",1,155,26
+27,Sangareddy,1,153,27
+28,Siddipet,1,153,28
+29,Suryapet,1,154,29
+30,Vikarabad,1,155,30
+31,Wanaparthy,1,159,31
+32,Warangal,1,156,32
+33,"Yadadri bhuvanagiri",1,154,33
+34,BYE,1,NULL,BYE

@@ -1,0 +1,28 @@
+EVENT: Chief Minister’s Cup 2025 – Mandal Level Cluster In-Charge Structure
+
+SOURCE CONTEXT
+This document is derived from the official Excel file titled “MANDAL LEVEL CLUSTER INCHARGE NAME & PH.NO.xlsx”. It lists mandal-level cluster in-charges appointed for the Chief Minister’s Cup 2025 to manage coordination and execution.
+
+PURPOSE
+The mandal-level cluster in-charge framework supports:
+- Local coordination of CM Cup activities
+- Oversight of cluster-wise execution
+- Liaison between Gram Panchayat, Mandal, and District authorities
+
+STRUCTURE OVERVIEW
+Each mandal or cluster has:
+- One designated Cluster In-Charge
+- Responsibility for trials, registrations, and ground-level coordination
+
+MANDAL / CLUSTER IN-CHARGE MAPPING (SUMMARY)
+
+PRIVACY & USAGE NOTES
+- Phone numbers are sensitive operational data and must not be exposed in public responses.
+- This data should be used for responsibility identification, not direct contact sharing.
+
+RAG USAGE RECOMMENDATIONS
+- Suitable for questions such as:
+  * who is the mandal level cluster in-charge for cm cup?
+  * how is cm cup managed at mandal level?
+  * who coordinates clusters under a mandal?
+- Use mandal and cluster names as retrieval anchors.

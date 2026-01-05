@@ -1,0 +1,717 @@
+ID,DistrictNo,MandalName,Mandal_code,mandtype,ac_code,pc_code,ac_name,dist_name
+1,1,"Adilabad rural",16,1,7,NULL,ADILABAD,"Adilabad "
+2,1,Bazarhatnoor,01,1,8,NULL,"BOATH (ST)","Adilabad "
+3,1,Bela,06,1,7,NULL,ADILABAD,"Adilabad "
+4,1,Bheempur,11,1,8,NULL,"BOATH (ST)","Adilabad "
+5,1,Bhoraj,17,1,7,NULL,ADILABAD,"Adilabad "
+6,1,Boath,02,1,8,NULL,"BOATH (ST)","Adilabad "
+7,1,Gadiguda,07,1,5,NULL,"ASIFABAD (ST)","Adilabad "
+8,1,Gudihatnur,12,1,8,NULL,"BOATH (ST)","Adilabad "
+9,1,Ichoda,18,1,8,NULL,"BOATH (ST)","Adilabad "
+10,1,Indervelly,03,1,6,NULL,"KHANAPUR (ST)","Adilabad "
+11,1,Jainath,08,1,7,NULL,ADILABAD,"Adilabad "
+12,1,Mavala,13,1,7,NULL,ADILABAD,"Adilabad "
+13,1,Narnoor,19,1,5,NULL,"ASIFABAD (ST)","Adilabad "
+14,1,Neradigonda,04,1,8,NULL,"BOATH (ST)","Adilabad "
+15,1,Sathnala,09,1,7,NULL,ADILABAD,"Adilabad "
+16,1,Sirikonda,14,1,6,NULL,"KHANAPUR (ST)","Adilabad "
+17,1,Sonala,20,1,8,NULL,"BOATH (ST)","Adilabad "
+18,1,Talamadugu,05,1,8,NULL,"BOATH (ST)","Adilabad "
+19,1,Tamsi,10,1,8,NULL,"BOATH (ST)","Adilabad "
+20,1,Utnoor,15,1,6,NULL,"KHANAPUR (ST)","Adilabad "
+21,1,"Adilabad (u) ",21,2,7,NULL,ADILABAD,Adilabad
+22,2,Allapalli,17,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+23,2,Annapureddypalli,01,1,118,NULL,"ASWARAOPETA (ST)","Bhadradri Kothagudem"
+24,2,Aswapuram,07,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+25,2,Aswaraopeta,12,1,118,NULL,"ASWARAOPETA (ST)","Bhadradri Kothagudem"
+26,2,Bhadrachalam,18,1,119,NULL,"BHADRACHALAM (ST)","Bhadradri Kothagudem"
+27,2,Burgampahad,02,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+28,2,Chandrugonda,08,1,118,NULL,"ASWARAOPETA (ST)","Bhadradri Kothagudem"
+29,2,Cherla,13,1,119,NULL,"BHADRACHALAM (ST)","Bhadradri Kothagudem"
+30,2,Chunchupalli,19,1,117,NULL,KOTHAGUDEM,"Bhadradri Kothagudem"
+31,2,Dammapeta,03,1,118,NULL,"ASWARAOPETA (ST)","Bhadradri Kothagudem"
+32,2,Dummugudem,09,1,119,NULL,"BHADRACHALAM (ST)","Bhadradri Kothagudem"
+33,2,Gundala,14,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+34,2,Julurupadu,20,1,115,NULL,"WYRA (ST)","Bhadradri Kothagudem"
+35,2,Karakagudem,04,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+36,2,Laxmidevipalli,10,1,117,NULL,KOTHAGUDEM,"Bhadradri Kothagudem"
+37,2,Manuguru,15,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+38,2,Mulakalapally,21,1,118,NULL,"ASWARAOPETA (ST)","Bhadradri Kothagudem"
+39,2,Palvancha,05,1,117,NULL,KOTHAGUDEM,"Bhadradri Kothagudem"
+40,2,Pinapaka,11,1,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+41,2,Sujathanagar,16,1,117,NULL,KOTHAGUDEM,"Bhadradri Kothagudem"
+42,2,Tekulapally,22,1,111,NULL,"YELLANDU (ST)","Bhadradri Kothagudem"
+43,2,Yellandu,06,1,111,NULL,"YELLANDU (ST)","Bhadradri Kothagudem"
+44,2,"Yellandu (u)",23,2,111,NULL,"YELLANDU (ST)","Bhadradri Kothagudem"
+45,2,"Manuguru (u)",24,2,110,NULL,"PINAPAKA (ST)","Bhadradri Kothagudem"
+46,2,"Kothagudem (mc)",25,3,117,NULL,KOTHAGUDEM,"Bhadradri Kothagudem"
+47,3,Atmakur,04,1,104,NULL,PARKAL,Hanumakonda
+48,3,Bheemadevarapalli,07,1,32,NULL,HUSNABAD,Hanumakonda
+49,3,Damera,10,1,104,NULL,PARKAL,Hanumakonda
+50,3,Dharmasagar,01,1,99,NULL,"GHANPUR (STATION) (SC)",Hanumakonda
+51,3,Elkathurthi,05,1,32,NULL,HUSNABAD,Hanumakonda
+52,3,Hasanparthy,08,1,107,NULL,"WARADHANAPET (SC)",Hanumakonda
+53,3,Inavole,11,1,107,NULL,"WARADHANAPET (SC)",Hanumakonda
+54,3,Kamalapur,02,1,31,NULL,HUZURABAD,Hanumakonda
+55,3,Nadikuda,06,1,104,NULL,PARKAL,Hanumakonda
+56,3,Parkal,09,1,104,NULL,PARKAL,Hanumakonda
+57,3,Shayampet,12,1,108,NULL,BHUPALPALLE,Hanumakonda
+58,3,Velair,03,1,99,NULL,"GHANPUR (STATION) (SC)",Hanumakonda
+59,3,"Parkal (u)",13,2,104,NULL,PARKAL,Hanumakonda
+60,3,"Gwmc (mc)",14,3,107,NULL,"Waradhanapet ",Hanumakonda
+61,3,"Hanumakonda (mc)",15,3,106,NULL,"Warangal East",Hanumakonda
+62,3,"Khazipet (mc)",16,3,105,NULL,"Warangal West",Hanamkonda
+63,4,Amberpet,01,1,59,NULL,Amberpet,Hyderabad
+64,4,Ameerpet,02,1,62,NULL,Sanathnagar,Hyderabad
+65,4,Asifnagar,03,1,63,NULL,Nampally,Hyderabad
+66,4,Bandlaguda,04,1,49,NULL,"Lal Bahadur Nagar",Hyderabad
+67,4,Bhadurpura,05,1,69,NULL,Bhadurpura,Hyderabad
+68,4,Charminar,06,1,66,NULL,Charminar,Hyderabad
+69,4,Golconda,07,1,64,NULL,Karwan,Hyderabad
+70,4,Himayatnagar,08,1,70,NULL,Secunderabad,Hyderabad
+71,4,Khairtabad,09,1,60,NULL,Khairtabad,Hyderabad
+72,4,Marredpally,10,1,70,NULL,Secunderabad,Hyderabad
+73,4,Musheerabad,11,1,57,NULL,Musheerabad,Hyderabad
+74,4,Nampally,31,1,63,NULL,Nampally,Hyderabad
+75,4,Saidabad,13,1,58,NULL,Malakpet,Hyderabad
+76,4,Secunderabad,14,1,70,NULL,Secunderabad,Hyderabad
+77,4,Shaikpet,15,1,61,NULL,"Jubilee Hills",Hyderabad
+78,4,Tirumalgherry,16,1,70,NULL,Secunderabad,Hyderabad
+80,5,Beerpur,06,1,21,NULL,JAGITIAL,Jagitial
+81,5,Bheemaram,11,1,21,NULL,JAGITIAL,Jagitial
+82,5,Buggaram,16,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+83,5,Dharmapuri,01,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+84,5,Endapalli,07,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+85,5,Gollapalli,12,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+86,5,Ibrahimpatnam,17,1,20,NULL,KORATLA,Jagitial
+87,5,"Jagitial rural",02,1,21,NULL,JAGITIAL,Jagitial
+88,5,Jagtial,08,1,21,NULL,JAGITIAL,Jagitial
+89,5,Kathalapur,13,1,28,NULL,VEMULAWADA,Jagitial
+90,5,Kodimial,18,1,27,NULL,"CHOPPADANDI (SC)",Jagitial
+91,5,Korutla,03,1,20,NULL,KORATLA,Jagitial
+92,5,Mallapur,09,1,20,NULL,KORATLA,Jagitial
+93,5,Mallial,14,1,27,NULL,"CHOPPADANDI (SC)",Jagitial
+94,5,Medipalli,19,1,28,NULL,VEMULAWADA,Jagitial
+95,5,Metpalli,04,1,20,NULL,KORATLA,Jagitial
+96,5,Pegadapalli,10,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+97,5,Raikal,15,1,21,NULL,JAGITIAL,Jagitial
+98,5,Sarangapur,20,1,21,NULL,JAGITIAL,Jagitial
+99,5,Velgatoor,05,1,22,NULL,"DHARMAPURI (SC)",Jagitial
+100,5,"Dharmapuri (u)",21,2,22,NULL,"DHARMAPURI (SC)",Jagitial
+101,5,"Jagityal (u)",22,2,21,NULL,JAGITIAL,Jagitial
+102,5,"Korutla (u)",23,2,20,NULL,KORATLA,Jagitial
+103,5,"Metpalli (u)",24,2,20,NULL,KORATLA,Jagitial
+104,5,"Raikal (u)",25,2,21,NULL,JAGITIAL,Jagitial
+105,6,"Bachannapeta ",04,1,98,NULL,JANGOAN,"Jangoan "
+106,6,"Chilpur ",07,1,99,NULL,"GHANPUR (STATION) (SC)","Jangoan "
+107,6,Devaruppula,10,1,100,NULL,PALAKURTHI,"Jangoan "
+108,6,"Ghanpur(station) ",01,1,99,NULL,"GHANPUR (STATION) (SC)","Jangoan "
+109,6,"Jangaon ",05,1,98,NULL,JANGOAN,"Jangoan "
+110,6,"Kodakandla ",08,1,100,NULL,PALAKURTHI,"Jangoan "
+111,6,"Lingalaghanpur ",11,1,99,NULL,"GHANPUR (STATION) (SC)","Jangoan "
+112,6,"Narmetta ",02,1,98,NULL,JANGOAN,"Jangoan "
+113,6,"Palakurthi ",06,1,100,NULL,PALAKURTHI,"Jangoan "
+114,6,"Raghunathpalle ",09,1,99,NULL,"GHANPUR (STATION) (SC)","Jangoan "
+115,6,"Tharigoppula ",12,1,98,NULL,JANGOAN,"Jangoan "
+116,6,Zaffergadh,03,1,99,NULL,"GHANPUR (STATION) (SC)","Jangoan "
+117,6,"Ghanpur station (u)",13,2,99,NULL,"GHANPUR (STATION) (SC)",Jangoan
+118,6,"Jangaon (u) ",14,2,98,NULL,JANGOAN,Jangoan
+119,7,Bhupalpalle,04,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+120,7,Chityal,07,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+121,7,"Ghanapur (mulug)",10,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+122,7,Kataram,01,1,24,NULL,MANTHANI,"Jayashankar Bhupalapally "
+123,7,Kothapallygori,05,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+124,7,Mahadevpur,08,1,24,NULL,MANTHANI,"Jayashankar Bhupalapally "
+125,7,"Malhar rao",11,1,24,NULL,MANTHANI,"Jayashankar Bhupalapally "
+126,7,Mogullapalle,02,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+127,7,"Mutharam (mahadevpur)",06,1,24,NULL,MANTHANI,"Jayashankar Bhupalapally "
+128,7,Palimela,09,1,24,NULL,MANTHANI,"Jayashankar Bhupalapally "
+129,7,Regonda,12,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+130,7,Tekumatla,03,1,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally "
+131,7,"Bhupalpally (u)",13,2,108,NULL,BHUPALPALLE,"Jayashankar Bhupalapally"
+132,8,Aiza,01,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal"
+133,8,Alampur,04,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal "
+134,8,Daroor,03,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal"
+135,8,Gadwal,11,1,79,NULL,GADWAL,"Jogulamba Gadwal "
+136,8,Gattu,05,1,79,NULL,GADWAL,"Jogulamba Gadwal"
+137,8,Itikyala,06,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal"
+138,8,"Kalur timman doddi",07,1,79,NULL,GADWAL,"Jogulamba Gadwal"
+139,8,Maldakal,02,1,79,NULL,GADWAL,"Jogulamba Gadwal "
+140,8,Manopad,09,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal"
+141,8,Rajoli,10,1,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal "
+142,8,Undavally,11,1,79,NULL,GADWAL,"Jogulamba Gadwal"
+143,8,"Wadde pally",12,1,79,NULL,GADWAL,"Jogulamba Gadwal"
+144,8,"Erravalli ",13,1,79,NULL,Gadwal,"Jogulamba Gadwal"
+145,8,Gadwal(u),14,2,79,NULL,GADWAL,"Jogulamba Gadwal"
+146,8,Ieeza(u),15,2,80,NULL,Alampur,"Jogulamba Gadwal"
+147,8,"Wadde pally(u)",16,2,79,NULL,GADWAL,"Jogulamba Gadwal"
+148,8,Alampur(u),17,2,80,NULL,"ALAMPUR (SC)","Jogulamba Gadwal"
+149,9,Banswada,13,1,14,NULL,BANSWADA,Kamareddy
+150,9,Bhiknur,20,1,16,NULL,KAMAREDDY,Kamareddy
+151,9,Bibipet,01,1,16,NULL,KAMAREDDY,Kamareddy
+152,9,Bichkunda,07,1,13,NULL,"JUKKAL (SC)",Kamareddy
+153,9,Birkoor,14,1,14,NULL,BANSWADA,Kamareddy
+154,9,Domakonda,21,1,16,NULL,KAMAREDDY,Kamareddy
+155,9,Dongli,02,1,13,NULL,"JUKKAL (SC)",Kamareddy
+156,9,Gandhari,08,1,15,NULL,YELLAREDDY,Kamareddy
+157,9,Jukkal,15,1,13,NULL,"JUKKAL (SC)",Kamareddy
+158,9,Kamareddy,22,1,16,NULL,KAMAREDDY,Kamareddy
+159,9,Lingampet,03,1,15,NULL,YELLAREDDY,Kamareddy
+160,9,Machareddy,09,1,16,NULL,KAMAREDDY,Kamareddy
+161,9,Madnur,16,1,13,NULL,"JUKKAL (SC)",Kamareddy
+162,9,Mohammadnagar,23,1,13,NULL,"JUKKAL (SC)",Kamareddy
+163,9,Nagireddypet,04,1,15,NULL,YELLAREDDY,Kamareddy
+164,9,Nasurullabad,10,1,14,NULL,BANSWADA,Kamareddy
+165,9,Nizamsagar,17,1,13,NULL,"JUKKAL (SC)",Kamareddy
+166,9,Palvancha,05,1,16,NULL,kamareddy,Kamareddy
+167,9,"Pedda kodapgal",05,1,13,NULL,"JUKKAL (SC)",Kamareddy
+168,9,Pitlam,11,1,13,NULL,"JUKKAL (SC)",Kamareddy
+169,9,Rajampet,18,1,15,NULL,YELLAREDDY,Kamareddy
+170,9,Ramareddy,25,1,16,NULL,KAMAREDDY,Kamareddy
+171,9,Sadasivanagar,06,1,15,NULL,YELLAREDDY,Kamareddy
+172,9,Tadwai,12,1,15,NULL,YELLAREDDY,Kamareddy
+173,9,Yellareddy,19,1,15,NULL,YELLAREDDY,Kamareddy
+174,9,Kamareddy(u),26,2,16,NULL,KAMAREDDY,Kamareddy
+175,9,Yellareddy(u),27,2,15,NULL,YELLAREDDY,Kamareddy
+176,9,Banswada(u),28,2,14,NULL,BANSWADA,Kamareddy
+177,9,Bichkunda(u),29,2,13,NULL,"JUKKAL (SC)",Kamareddy
+178,10,Chigurumamidi,12,1,32,NULL,HUSNABAD,Karimnagar
+179,10,Choppadandi,01,1,27,NULL,"CHOPPADANDI (SC)",Karimnagar
+180,10,Ellandakunta,05,1,31,NULL,HUZURABAD,Karimnagar
+181,10,Gangadhara,09,1,27,NULL,"CHOPPADANDI (SC)",Karimnagar
+182,10,Ganneruvaram,13,1,30,NULL,"MANAKONDUR (SC)",Karimnagar
+183,10,Huzurabad,02,1,31,NULL,HUZURABAD,Karimnagar
+184,10,Jammikunta,06,1,31,NULL,HUZURABAD,Karimnagar
+185,10,"Karimnagar (rural)",10,1,26,NULL,Karimnagar,Karimnagar
+186,10,Kothapally,14,1,26,NULL,Karimnagar,Karimnagar
+187,10,Manakondur,03,1,30,NULL,"MANAKONDUR (SC)",Karimnagar
+188,10,Ramadugu,07,1,27,NULL,"CHOPPADANDI (SC)",Karimnagar
+189,10,Shankarapatnam,11,1,30,NULL,"MANAKONDUR (SC)",Karimnagar
+190,10,"Thimmapur (l.m.d.)",15,1,30,NULL,"MANAKONDUR (SC)",Karimnagar
+191,10,V.saidapur,04,1,32,NULL,HUSNABAD,Karimnagar
+192,10,Veenavanka,08,1,31,NULL,HUZURABAD,Karimnagar
+193,10,Karimnagar(u),16,2,26,NULL,Karimnagar,Karimnagar
+194,10,"Jammikunta (mc)",17,3,31,NULL,HUZURABAD,Karimnagar
+195,10,"Huzurabad (mc)",18,3,31,NULL,HUZURABAD,Karimnagar
+196,10,"Choppandandi (mc)",19,3,27,NULL,"CHOPPADANDI (SC)",Karimnagar
+197,10,"Kothapally (mc)",20,3,26,NULL,Karimnagar,Karimnagar
+198,11,Bonakal,11,1,114,NULL,"MADHIRA (SC)","Khammam "
+199,11,Chinthakani,16,1,114,NULL,"MADHIRA (SC)","Khammam "
+200,11,Enkoor,01,1,115,NULL,"WYRA (ST)","Khammam "
+201,11,Kallur,06,1,116,NULL,"SATHUPALLE (SC)","Khammam "
+202,11,Kamepally,12,1,111,NULL,"YELLANDU (ST)","Khammam "
+203,11,"Khammam (rural)",17,1,113,NULL,PALAIR,"Khammam "
+204,11,Konijerla,02,1,115,NULL,"WYRA (ST)","Khammam "
+205,11,Kusumanchi,07,1,113,NULL,PALAIR,"Khammam "
+206,11,Madhira,13,1,114,NULL,"MADHIRA (SC)","Khammam "
+207,11,Mudigonda,18,1,114,NULL,"MADHIRA (SC)","Khammam "
+208,11,Nelakondapally,03,1,113,NULL,PALAIR,"Khammam "
+209,11,Penubally,08,1,116,NULL,"SATHUPALLE (SC)","Khammam "
+210,11,Raghunadhapalem,14,1,112,NULL,KHAMMAM,"Khammam "
+211,11,Sathupally,19,1,116,NULL,"SATHUPALLE (SC)","Khammam "
+212,11,Singareni,04,1,115,NULL,"WYRA (ST)","Khammam "
+213,11,Thallada,09,1,116,NULL,"SATHUPALLE (SC)","Khammam "
+214,11,Thirumalayapalem,15,1,113,NULL,PALAIR,"Khammam "
+215,11,Vemsoor,20,1,116,NULL,"SATHUPALLE (SC)","Khammam "
+216,11,Wyra,05,1,115,NULL,"WYRA (ST)","Khammam "
+217,11,Yerrupalem,10,1,114,NULL,"MADHIRA (SC)","Khammam "
+218,11,"Edulapuram (u)",21,2,113,NULL,PALAIR,Khammam
+219,11,"Kalluru (u)",22,2,116,NULL,Sathupalle(SC),Khammam
+220,11,"Khammam corpn (u)",23,2,112,NULL,Khammam,Khammam
+221,11,"Madhira (u)",24,2,114,NULL,Madhira(SC),Khammam
+222,11,"Sattupalli (u)",25,2,116,NULL,Sattupalli,Khammam
+223,11,"Wyra (u)",26,2,115,NULL,"WYRA (ST)",Khammam
+224,12,Asifabad,08,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+225,12,Bejjur,12,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+226,12,Chintalamanepally,01,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+227,12,Dahegaon,05,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+228,12,Jainoor,09,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+229,12,Kagaznagar,13,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+230,12,Kerameri,02,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+231,12,Kouthala,06,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+232,12,Lingapur,10,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+233,12,Penchicalpet,14,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+234,12,Rebbena,03,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+235,12,"Sirpur (t)",07,1,1,NULL,SIRPUR,"Kumuram Bheem Asifabad "
+236,12,"Sirpur (u)",11,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+237,12,Tiryani,15,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+238,12,Wankidi,04,1,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad "
+239,12,"Asifabad (u)",16,2,5,NULL,"ASIFABAD (ST)","Kumuram Bheem Asifabad"
+240,12,"Kagaznagar (u)",17,2,1,NULL,SIRPUR,"Kumuram Bheem Asifabad"
+241,13,Bayyaram,05,1,111,NULL,"YELLANDU (ST)",Mahabubabad
+242,13,Chinnagudur,10,1,101,NULL,"DORNAKAL (ST)",Mahabubabad
+243,13,Danthalapally,03,1,102,NULL,"Mahabubabad (ST)",Mahabubabad
+244,13,Dornakal,01,1,101,NULL,"DORNAKAL (ST)",Mahabubabad
+245,13,Gangaram,06,1,109,NULL,"MULUG (ST)",Mahabubabad
+246,13,Garla,11,1,111,NULL,"YELLANDU (ST)",Mahabubabad
+247,13,Gudur,16,1,102,NULL,"MAHABUBABAD (ST)",Mahabubabad
+248,13,Kesamudram,07,1,102,NULL,"MAHABUBABAD (ST)",Mahabubabad
+249,13,Kothaguda,12,1,109,NULL,"MULUG (ST)",Mahabubabad
+250,13,Kuravi,17,1,101,NULL,"DORNAKAL (ST)",Mahabubabad
+251,13,Mahabubabad,03,1,102,NULL,"MAHABUBABAD (ST)",Mahabubabad
+252,13,Maripeda,08,1,101,NULL,"DORNAKAL (ST)",Mahabubabad
+253,13,Narsimhulapet,13,1,101,NULL,"DORNAKAL (ST)",Mahabubabad
+254,13,Nellikudur,18,1,102,NULL,"MAHABUBABAD (ST)",Mahabubabad
+255,13,Peddavangara,04,1,100,NULL,PALAKURTHI,Mahabubabad
+256,13,Thorrur,14,1,100,NULL,PALAKURTHI,Mahabubabad
+257,13,"Dornakal (u)",17,2,101,NULL,"DORNAKAL (ST)",Mahabubabad
+258,13,"Thorrur (u)",18,2,100,NULL,PALAKURTHI,Mahabubabad
+259,13,"Maripeda (u)",19,2,101,NULL,"DORNAKAL (ST)",Mahabubabad
+260,13,"Mahabubabad (u)",20,2,102,NULL,"MAHABUBABAD (ST)",Mahabubabad
+261,14,Addakal,13,1,76,NULL,DEVARAKDRA,Mahabubnagar
+262,14,Balanagar,01,1,75,NULL,JADCHERLA,Mahabubnagar
+263,14,Bhoothpur,05,1,76,NULL,DEVARAKDRA,Mahabubnagar
+264,14,"Cc kunta",04,1,76,NULL,DEVARAKDRA,Mahabubnagar
+265,14,Devarakadra,05,1,76,NULL,DEVARAKDRA,Mahabubnagar
+266,14,Gandeed,02,1,54,NULL,PARGI,Mahabubnagar
+267,14,Hanwada,06,1,74,NULL,MAHABUBNAGAR,Mahabubnagar
+268,14,Jadcherla,10,1,75,NULL,JADCHERLA,Mahabubnagar
+269,14,Koilkonda,15,1,73,NULL,NARAYANPET,Mahabubnagar
+270,14,Koukuntla,03,1,76,NULL,DEVARAKDRA,Mahabubnagar
+271,14,Mahammadabad,11,1,54,NULL,PARGI,Mahabubnagar
+272,14,Mahabubnagar,07,1,74,NULL,MAHABUBNAGAR,Mahabubnagar
+273,14,Midjil,11,1,75,NULL,JADCHERLA,Mahabubnagar
+274,14,Musapet,14,1,75,NULL,JADCHERLA,Mahabubnagar
+275,14,Nawabpet,08,1,74,NULL,MAHABUBNAGAR,Mahabubnagar
+276,14,Rajapur,12,1,75,NULL,JADCHERLA,Mahabubnagar
+277,14,"Bhoothpur (u)",17,2,76,NULL,DEVARAKDRA,Mahabubnagar
+278,14,"Devarkadra (u)",18,2,76,NULL,DEVARAKDRA,Mahabubnagar
+279,14,"Jadcherla (u)",19,2,75,NULL,JADCHERLA,Mahabubnagar
+280,14,"Mahabubnagar (mc)",20,3,74,NULL,MAHABUBNAGAR,Mahabubnagar
+281,15,Bellampally,13,1,3,NULL,"BELLAMPALLE (SC)",Mancherial
+282,15,Bheemaram,11,1,4,NULL,Mancherial,Mancherial
+283,15,Bheemini,05,1,3,NULL,"BELLAMPALLE (SC)",Mancherial
+284,15,Chennur,09,1,2,NULL,"CHENNUR (SC)",Mancherial
+285,15,Dandepally,14,1,4,NULL,Mancherial,Mancherial
+286,15,Hajipur,02,1,4,NULL,Mancherial,Mancherial
+287,15,Jaipur,06,1,2,NULL,"CHENNUR (SC)",Mancherial
+288,15,Jannaram,10,1,6,NULL,"KHANAPUR (ST)",Mancherial
+289,15,Kannepalli,09,1,2,NULL,"CHENNUR (SC)",Mancherial
+290,15,Kasipet,03,1,3,NULL,"BELLAMPALLE (SC)",Mancherial
+291,15,Kotapally,07,1,2,NULL,"CHENNUR (SC)",Mancherial
+292,15,Luxettipet,11,1,4,NULL,Mancherial,Mancherial
+293,15,Mandamarri,16,1,2,NULL,"CHENNUR (SC)",Mancherial
+294,15,Nennal,14,1,2,NULL,"CHENNUR (SC)",Mancherial
+295,15,Tandoor,08,1,3,NULL,"BELLAMPALLE (SC)",Mancherial
+296,15,Vemanpally,12,1,3,NULL,"BELLAMPALLE (SC)",Mancherial
+297,15,"Bellampally (u)",17,2,3,NULL,"BELLAMPALLE (SC)",Mancherial
+298,15,"Chennur (u)",18,2,2,NULL,"CHENNUR (SC)",Mancherial
+299,15,"Kyathanpally (u)",19,2,4,NULL,Mancherial,Mancherial
+300,15,"Luxettipet (u)",20,2,4,NULL,Mancherial,Mancherial
+301,15,"Mandamarri (u)",21,2,2,NULL,"CHENNUR (SC)",Mancherial
+302,15,"Mancherial (mc)",22,3,4,NULL,Mancherial,Mancherial
+303,16,Alladurg,16,1,36,NULL,"ANDOLE (SC)",Medak
+304,16,Chegunta,01,1,41,NULL,DUBBAK,Medak
+305,16,Chilpched,06,1,37,NULL,NARSAPUR,Medak
+306,16,Havelighanapur,11,1,34,NULL,MEDAK,Medak
+307,16,Kowdipalli,17,1,37,NULL,NARSAPUR,Medak
+308,16,Kulcharam,02,1,37,NULL,NARSAPUR,Medak
+309,16,Manoharabad,07,1,42,NULL,GAJWEL,Medak
+310,16,Masaipet,12,1,37,NULL,NARSAPUR,Medak
+311,16,Medak,18,1,34,NULL,MEDAK,Medak
+312,16,Narsapur,03,1,37,NULL,NARSAPUR,Medak
+313,16,Narsingi,08,1,41,NULL,DUBBAK,Medak
+314,16,Nizampet,13,1,37,NULL,NARSAPUR,Medak
+315,16,Papannapet,19,1,34,NULL,MEDAK,Medak
+316,16,Ramayampet,04,1,34,NULL,MEDAK,Medak
+317,16,Regode,09,1,36,NULL,"ANDOLE (SC)",Medak
+318,16,Shankarampet[a],14,1,35,NULL,NARAYANKHED,Medak
+319,16,Shankarampet[r],20,1,34,NULL,MEDAK,Medak
+320,16,Shivampet,05,1,37,NULL,NARSAPUR,Medak
+321,16,Tekmal,10,1,36,NULL,"ANDOLE (SC)",Medak
+322,16,Tupran,15,1,42,NULL,GAJWEL,Medak
+323,16,Yeldurthy,21,1,37,NULL,NARSAPUR,Medak
+324,16,"Toopran (u)",22,2,34,NULL,MEDAK,Medak
+325,16,"Ramayampet (u)",23,2,34,NULL,MEDAK,Medak
+326,16,"Narsapur (u)",24,2,37,NULL,NARSAPUR,Medak
+327,16,"Medak (u)",25,2,34,NULL,MEDAK,Medak
+328,17,"Aliyabad (u)",01,2,43,NULL,Medchal,Medchal-malkajgiri
+329,17,"Dammaiguda (u)",02,2,43,NULL,Medchal,Medchal-malkajgiri
+330,17,"Dundigal (u)",03,2,45,NULL,Quthbullapur,Medchal-malkajgiri
+331,17,"Ghatkesar (u)",04,2,47,NULL,Uppal,Medchal-malkajgiri
+332,17,"Gundlapochampally (u)",05,2,43,NULL,Medchal,Medchal-malkajgiri
+333,17,"Kompally (u)",06,2,45,NULL,Quthbullapur,Medchal-malkajgiri
+334,17,"Medchal (u)",07,2,43,NULL,Medchal,Medchal-malkajgiri
+335,17,"Muduchintalapally (u)",08,2,43,NULL,Medchal,Medchal-malkajgiri
+336,17,"Nagaram (u)",09,2,43,NULL,Medchal,Medchal-malkajgiri
+337,17,"Pocharam (u)",10,2,43,NULL,Medchal,Medchal-malkajgiri
+338,17,"Thumkunta (u)",11,2,43,NULL,Medchal,Medchal-malkajgiri
+339,17,"Yellampet (u)",12,2,43,NULL,Medchal,Medchal-malkajgiri
+340,17,"Boduppal (mc)",13,3,47,NULL,Uppal,Medchal-malkajgiri
+341,17,"Jawaharnagar (mc)",14,3,44,NULL,Malkajgiri,Medchal-malkajgiri
+342,17,"Nizampet (mc)",15,3,45,NULL,Quthbullapur,Medchal-malkajgiri
+343,17,"Peerzadiguda (mc)",16,3,47,NULL,Uppal,Medchal-malkajgiri
+344,18,Eturnagaram,08,1,109,NULL,"MULUG (ST)",Mulugu
+345,18,Govindaraopet,01,1,109,NULL,"MULUG (ST)",Mulugu
+346,18,Kannaigudem,04,1,109,NULL,"MULUG (ST)",Mulugu
+347,18,Mallampally,06,1,109,NULL,"MULUG (ST)",Mulugu
+348,18,Mangapet,09,1,109,NULL,"MULUG (ST)",Mulugu
+349,18,Mulugu,02,1,109,NULL,"MULUG (ST)",Mulugu
+350,18,Tadvai,05,1,109,NULL,"MULUG (ST)",Mulugu
+351,18,Venkatapur,07,1,109,NULL,"MULUG (ST)",Mulugu
+352,18,Venkatapuram,10,1,119,NULL,"BHADRACHALAM (ST)",Mulugu
+353,18,Wazeed,03,1,119,NULL,"BHADRACHALAM (ST)",Mulugu
+354,19,Achampeta,06,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+355,19,Amrabad,11,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+356,19,Balmoor,16,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+357,19,Bijinapalle,01,1,81,NULL,NAGARKURNOOL,Nagarkurnool
+358,19,Charakonda,07,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+359,19,Kalwakurthy,12,1,83,NULL,KALWAKURTHY,Nagarkurnool
+360,19,Kodair,17,1,85,NULL,KOLLAPUR,Nagarkurnool
+361,19,Kollapur,02,1,85,NULL,KOLLAPUR,Nagarkurnool
+362,19,Lingal,08,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+363,19,Nagarkurnool,13,1,81,NULL,NAGARKURNOOL,Nagarkurnool
+364,19,Padara,18,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+365,19,Peddakothapalle,03,1,85,NULL,KOLLAPUR,Nagarkurnool
+366,19,Pentlavelli,09,1,85,NULL,KOLLAPUR,Nagarkurnool
+367,19,Tadoor,14,1,81,NULL,NAGARKURNOOL,Nagarkurnool
+368,19,Telkapalle,19,1,81,NULL,NAGARKURNOOL,Nagarkurnool
+369,19,Thimmajipeta,04,1,81,NULL,NAGARKURNOOL,Nagarkurnool
+370,19,Uppununthala,10,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+371,19,Urkonda,15,1,75,NULL,JADCHERLA,Nagarkurnool
+372,19,Vangoor,20,1,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+373,19,Veldanda,05,1,83,NULL,KALWAKURTHY,Nagarkurnool
+374,19,"Achampeta (u)",21,2,82,NULL,"ACHAMPET (SC)",Nagarkurnool
+375,19,"Kalwakurthy (u)",22,2,83,NULL,KALWAKURTHY,Nagarkurnool
+376,19,"Kollapur (u)",23,2,85,NULL,KOLLAPUR,Nagarkurnool
+377,19,"Nagarkurnool (u)",24,2,81,NULL,NAGARKURNOOL,Nagarkurnool
+378,20,Adavidevulapalli,09,1,88,NULL,MIRYALAGUDA,Nalgonda
+379,20,Anumula,18,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+380,20,Chandampet,26,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+381,20,Chandur,01,1,93,NULL,MUNUGODE,Nalgonda
+382,20,"Chintha pally",10,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+383,20,Chityala,19,1,95,NULL,"NAKREKAL (SC)",Nalgonda
+384,20,Dameracherla,27,1,88,NULL,MIRYALAGUDA,Nalgonda
+385,20,Devarakonda,02,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+386,20,Gattuppal,11,1,93,NULL,MUNUGODE,Nalgonda
+387,20,Gudipally,20,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+388,20,"Gundlapally (dindi)",28,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+389,20,Gurrampode,03,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+390,20,Kanagal,12,1,92,NULL,NALGONDA,Nalgonda
+391,20,Kattangoor,21,1,95,NULL,"NAKREKAL (SC)",Nalgonda
+392,20,"Kethe pally",29,1,95,NULL,"NAKREKAL (SC)",Nalgonda
+393,20,Kondamallepally,04,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+394,20,Madugulapally,13,1,92,NULL,NALGONDA,Nalgonda
+395,20,Marriguda,22,1,93,NULL,MUNUGODE,Nalgonda
+396,20,Miryalaguda,30,1,88,NULL,MIRYALAGUDA,Nalgonda
+397,20,Munugode,05,1,93,NULL,MUNUGODE,Nalgonda
+398,20,Nakrekal,14,1,95,NULL,"NAKREKAL (SC)",Nalgonda
+399,20,Nalgonda,23,1,92,NULL,NALGONDA,Nalgonda
+400,20,Nampally,31,1,92,NULL,NALGONDA,Nalgonda
+401,20,Narketpally,06,1,95,NULL,"NAKREKAL (SC)",Nalgonda
+402,20,Neredugommu,15,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+403,20,Nidamanoor,24,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+404,20,"Pedda adiserla pally",32,1,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+405,20,Peddavoora,07,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+406,20,"Shali gouraram",16,1,96,NULL,"THUNGATHURTHI (SC)",Nalgonda
+407,20,Thipparthi,25,1,92,NULL,NALGONDA,Nalgonda
+408,20,"Tirumalagiri sagar",33,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+409,20,Tripuraram,08,1,87,NULL,NAGARJUNASAGAR,Nalgonda
+410,20,"Vemula pally",17,1,88,NULL,MIRYALAGUDA,Nalgonda
+411,20,"Chandur (u)",34,2,93,NULL,MUNUGODE,Nalgonda
+412,20,"Chityal (u)",35,2,95,NULL,"NAKREKAL (SC)",Nalgonda
+413,20,"Devarakonda (u)",36,2,86,NULL,"DEVARAKONDA (ST)",Nalgonda
+414,20,"Haliya (u)",37,2,88,NULL,MIRYALAGUDA,Nalgonda
+415,20,"Miryalguda (u)",38,2,88,NULL,MIRYALAGUDA,Nalgonda
+416,20,"Nakrekal (u)",39,2,95,NULL,"NAKREKAL (SC)",Nalgonda
+417,20,"Nalgonda (u)",40,2,92,NULL,NALGONDA,Nalgonda
+418,20,"Nandikonda (u)",41,2,87,NULL,NAGARJUNASAGAR,Nalgonda
+419,21,Damaragidda,07,1,73,NULL,NARAYANPET,Narayanpet
+420,21,Dhanwada,11,1,73,NULL,NARAYANPET,Narayanpet
+421,21,Gundumal,01,1,72,NULL,KODANGAL,Narayanpet
+422,21,Kosgi,04,1,72,NULL,KODANGAL,Narayanpet
+423,21,Kothapalle,08,1,72,NULL,KODANGAL,Narayanpet
+424,21,Krishna,12,1,77,NULL,MAKTHAL,Narayanpet
+425,21,Maddur,02,1,72,NULL,KODANGAL,Narayanpet
+426,21,Maganoor,05,1,77,NULL,MAKTHAL,Narayanpet
+427,21,Makthal,09,1,77,NULL,MAKTHAL,Narayanpet
+428,21,Marikal,13,1,73,NULL,NARAYANPET,Narayanpet
+429,21,Narayanpet,03,1,73,NULL,NARAYANPET,Narayanpet
+430,21,Narva,06,1,77,NULL,MAKTHAL,Narayanpet
+431,21,Utkoor,10,1,77,NULL,MAKTHAL,Narayanpet
+432,22,Basar,14,1,10,NULL,MUDHOLE,Nirmal
+433,22,Bhainsa,01,1,10,NULL,MUDHOLE,Nirmal
+434,22,Dasturabad,06,1,6,NULL,"KHANAPUR (ST)",Nirmal
+435,22,Dilawarpur,10,1,9,NULL,Nirmal,Nirmal
+436,22,"Kaddam (peddur)",15,1,6,NULL,"KHANAPUR (ST)",Nirmal
+437,22,Khanapur,02,1,6,NULL,"KHANAPUR (ST)",Nirmal
+438,22,Kubeer,07,1,10,NULL,MUDHOLE,Nirmal
+439,22,Kuntala,11,1,10,NULL,MUDHOLE,Nirmal
+440,22,Laxmanchanda,16,1,9,NULL,Nirmal,Nirmal
+441,22,Lokeswaram,03,1,10,NULL,MUDHOLE,Nirmal
+442,22,Mamda,08,1,9,NULL,Nirmal,Nirmal
+443,22,Mudhole,12,1,10,NULL,MUDHOLE,Nirmal
+444,22,"Narsapur g",17,1,10,NULL,MUDHOLE,Nirmal
+445,22,"Nirmal rural",04,1,9,NULL,Nirmal,Nirmal
+446,22,Pembi,09,1,6,NULL,"KHANAPUR (ST)",Nirmal
+447,22,Sarangapur,20,1,21,NULL,JAGITIAL,Jagitial
+448,22,Soan,18,1,9,NULL,Nirmal,Nirmal
+449,22,Tanur,05,1,10,NULL,MUDHOLE,Nirmal
+450,22,"Bhainsa (mc)",19,3,10,NULL,MUDHOLE,Nirmal
+451,22,"Khanapur (mc)",20,3,6,NULL,"KHANAPUR (ST)",Nirmal
+452,22,"Nirmal (mc)",21,3,9,NULL,Nirmal,Nirmal
+453,23,Aloor,08,1,11,NULL,ARMUR,Nizamabad
+454,23,Armoor,16,1,11,NULL,ARMUR,Nizamabad
+455,23,Balkonda,24,1,19,NULL,BALKONDA,Nizamabad
+456,23,Bheemgal,01,1,19,NULL,BALKONDA,Nizamabad
+457,23,Bodhan,09,1,12,NULL,BODHAN,Nizamabad
+458,20,Chandur,01,1,93,NULL,MUNUGODE,Nalgonda
+459,23,Dharpalle,25,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+460,23,Dichpalle,02,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+461,23,Donkeshwar,10,1,11,NULL,ARMUR,Nizamabad
+462,23,Indalwai,18,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+463,23,Jakranpalle,26,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+464,23,Kammarapalle,03,1,19,NULL,BALKONDA,Nizamabad
+465,23,Kotagiri,11,1,14,NULL,BANSWADA,Nizamabad
+466,23,Makloor,19,1,11,NULL,ARMUR,Nizamabad
+467,23,Mendora,27,1,19,NULL,BALKONDA,Nizamabad
+468,23,Mortad,04,1,19,NULL,BALKONDA,Nizamabad
+469,23,Mosara,12,1,14,NULL,BANSWADA,Nizamabad
+470,23,Mugpal,20,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+471,23,Mupkal,28,1,19,NULL,BALKONDA,Nizamabad
+472,23,Nandipet,05,1,11,NULL,ARMUR,Nizamabad
+473,23,Navipet,13,1,12,NULL,BODHAN,Nizamabad
+474,23,Nizamabad,21,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+475,23,Pothangal,29,1,14,NULL,BANSWADA,Nizamabad
+476,23,Renjal,06,1,12,NULL,BODHAN,Nizamabad
+477,23,Rudrur,14,1,14,NULL,BANSWADA,Nizamabad
+478,23,Saloora,22,1,12,NULL,BODHAN,Nizamabad
+479,23,Sirkonda,30,1,18,NULL,"NIZAMABAD (RURAL)",Nizamabad
+480,23,Varni,07,1,14,NULL,BANSWADA,Nizamabad
+481,23,Velpur,15,1,19,NULL,BALKONDA,Nizamabad
+482,23,Yedapalle,23,1,12,NULL,BODHAN,Nizamabad
+483,23,Yergatla,31,1,19,NULL,BALKONDA,Nizamabad
+484,23,"Armoor (u)",32,2,11,NULL,ARMUR,NULL
+485,23,"Bheemgal (u)",33,2,19,NULL,BALKONDA,NULL
+486,23,"Bodhan (u)",34,2,12,NULL,BODHAN,NULL
+487,23,"Nizamabad corpn (u)",35,2,17,NULL,"NIZAMABAD (URBAN)",NULL
+488,24,Anthergaon,01,1,23,NULL,RAMAGUNDAM,Peddapalli
+489,24,Dharmaram,05,1,22,NULL,"DHARMAPURI (SC)",Peddapalli
+490,24,Eligaid,08,1,25,NULL,PEDDAPALLE,Peddapalli
+491,24,Julapalli,11,1,25,NULL,PEDDAPALLE,Peddapalli
+492,24,Kamanpur,02,1,24,NULL,MANTHANI,Peddapalli
+493,24,Manthani,06,1,24,NULL,MANTHANI,Peddapalli
+494,24,"Mutharam (manthani)",09,1,24,NULL,MANTHANI,Peddapalli
+495,24,Odela,12,1,25,NULL,PEDDAPALLE,Peddapalli
+496,24,Palakurthy,03,1,23,NULL,RAMAGUNDAM,Peddapalli
+497,24,Peddapalli,07,1,25,NULL,PEDDAPALLE,Peddapalli
+498,24,Ramagiri,10,1,24,NULL,MANTHANI,Peddapalli
+499,24,Srirampur,13,1,25,NULL,PEDDAPALLE,Peddapalli
+500,24,Sulthanabad,04,1,25,NULL,PEDDAPALLE,Peddapalli
+501,24,"Manthani (u)",14,2,24,NULL,MANTHANI,Peddapalli
+502,24,"Peddapalli (u)",15,2,25,NULL,PEDDAPALLE,Peddapalli
+503,24,"Sulthanbad (u)",16,2,25,NULL,PEDDAPALLE,Peddapalli
+504,24,"Ramagundem (mc)",17,3,23,NULL,RAMAGUNDAM,Peddapalli
+505,25,Boinpalli,04,1,27,NULL,"CHOPPADANDI (SC)","Rajanna Sircilla"
+506,25,Chandurthi,07,1,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+507,25,Ellanthakunta,10,1,30,NULL,"MANAKONDUR (SC)","Rajanna Sircilla"
+508,25,Gambhiraopet,01,1,29,NULL,SIRISILLA,"Rajanna Sircilla"
+509,25,Konaraopet,05,1,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+510,25,Mustabad,08,1,29,NULL,SIRISILLA,"Rajanna Sircilla"
+511,25,Rudrangi,11,1,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+512,25,Thangallapalli,02,1,29,NULL,SIRISILLA,"Rajanna Sircilla"
+513,25,Veernapalli,06,1,29,NULL,SIRISILLA,"Rajanna Sircilla"
+514,25,Vemulawada,09,1,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+515,25,"Vemulawada rural",12,1,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+516,25,Yellareddipet,03,1,29,NULL,SIRISILLA,"Rajanna Sircilla"
+517,25,"Sircilla (mc)",13,3,29,NULL,SIRISILLA,"Rajanna Sircilla"
+518,25,"Vemulavada (mc)",14,3,28,NULL,VEMULAWADA,"Rajanna Sircilla"
+519,26,Abdullapurmet,06,1,48,NULL,IBRAHIMPATNAM,Rangareddy
+520,26,Amangal,12,1,83,NULL,KALWAKURTHY,Rangareddy
+521,26,Chevella,17,1,53,NULL,"CHEVELLA (SC)",Rangareddy
+522,26,Farooqnagar,01,1,84,NULL,SHADNAGAR,Rangareddy
+523,26,Ibrahimpatnam,17,1,48,NULL,IBRAHIMPATNAM,Rangareddy
+524,26,"Jilled chowdergudem",13,1,84,NULL,SHADNAGAR,Rangareddy
+525,26,Kadthal,18,1,83,NULL,KALWAKURTHY,Rangareddy
+526,26,Kandukur,02,1,50,NULL,MAHESWARAM,Rangareddy
+527,26,Keshampeta,08,1,84,NULL,SHADNAGAR,Rangareddy
+528,26,Kondurg,14,1,84,NULL,SHADNAGAR,Rangareddy
+529,26,Kothur,19,1,84,NULL,SHADNAGAR,Rangareddy
+530,26,Madgul,03,1,83,NULL,KALWAKURTHY,Rangareddy
+531,26,Maheshwaram,09,1,50,NULL,MAHESWARAM,Rangareddy
+532,26,Manchal,15,1,48,NULL,IBRAHIMPATNAM,Rangareddy
+533,26,Moinabad,20,1,53,NULL,"CHEVELLA (SC)",Rangareddy
+534,26,Nandigama,04,1,84,NULL,SHADNAGAR,Rangareddy
+535,26,Shabad,10,1,53,NULL,"CHEVELLA (SC)",Rangareddy
+536,26,Shamshabad,16,1,51,NULL,RAJENDRANAGAR,Rangareddy
+537,26,Shankarpally,21,1,53,NULL,"CHEVELLA (SC)",Rangareddy
+538,26,Talakondapalle,05,1,83,NULL,KALWAKURTHY,Rangareddy
+539,26,Yacharam,11,1,48,NULL,IBRAHIMPATNAM,Rangareddy
+540,26,"Adibatla (u)",22,2,48,NULL,IBRAHIMPATNAM,Rangareddy
+541,26,"Amangal (u)",23,2,83,NULL,KALWAKURTHY,Rangareddy
+542,26,"Badangpet corp. (u)",24,2,48,NULL,IBRAHIMPATNAM,Rangareddy
+543,26,"Bandlagudajagir co (u)",25,2,51,NULL,RAJENDRANAGAR,Rangareddy
+544,26,"Ibrahimpatnam (u)",26,2,48,NULL,IBRAHIMPATNAM,Rangareddy
+545,26,"Jalpally (u)",27,2,51,NULL,RAJENDRANAGAR,Rangareddy
+546,26,"Kothur (u)",28,2,84,NULL,SHADNAGAR,Rangareddy
+547,26,"Manikonda (u)",29,2,51,NULL,RAJENDRANAGAR,Rangareddy
+548,26,"Meerpet corp. (u)",30,2,50,NULL,MAHESWARAM,Rangareddy
+549,26,"Narsingi (u)",31,2,51,NULL,RAJENDRANAGAR,Rangareddy
+550,26,"Pedda amberpet (u)",32,2,48,NULL,IBRAHIMPATNAM,Rangareddy
+551,26,"Shadnagar (u)",33,2,84,NULL,SHADNAGAR,Rangareddy
+552,26,"Shamshabad (u)",34,2,51,NULL,RAJENDRANAGAR,Rangareddy
+553,26,"Shankarpally (u)",35,2,53,NULL,"CHEVELLA (SC)",Rangareddy
+554,26,"Thukkuguda (u)",36,2,50,NULL,MAHESWARAM,Rangareddy
+555,26,"Thurkayamjal (u)",37,2,48,NULL,IBRAHIMPATNAM,Rangareddy
+556,27,Andole,21,1,36,NULL,"ANDOLE (SC)",Sangareddy
+557,27,Chowtakur,01,1,36,NULL,"ANDOLE (SC)",Sangareddy
+558,27,Gummadidala,08,1,40,NULL,PATANCHERU,Sangareddy
+559,27,Hathnoora,15,1,37,NULL,NARSAPUR,Sangareddy
+560,27,Jharasangam,22,1,38,NULL,"ZAHIRABAD (SC)",Sangareddy
+561,27,Kalher,09,1,35,NULL,NARAYANKHED,Sangareddy
+562,27,Kandi,16,1,39,NULL,SANGAREDDY,Sangareddy
+563,27,Kangti,23,1,35,NULL,NARAYANKHED,Sangareddy
+564,27,Kohir,03,1,38,NULL,"ZAHIRABAD (SC)",Sangareddy
+565,27,Kondapur,10,1,39,NULL,SANGAREDDY,Sangareddy
+566,27,Manoor,17,1,35,NULL,NARAYANKHED,Sangareddy
+567,27,Mogudampally,24,1,38,NULL,"ZAHIRABAD (SC)",Sangareddy
+568,27,Munipally,04,1,36,NULL,"ANDOLE (SC)",Sangareddy
+569,27,Nagalgidda,11,1,35,NULL,NARAYANKHED,Sangareddy
+570,27,Narayankhed,18,1,35,NULL,NARAYANKHED,Sangareddy
+571,27,Nizampet,13,1,35,NULL,NARAYANKHED,Sangareddy
+572,27,Nyalkal,05,1,38,NULL,"ZAHIRABAD (SC)",Sangareddy
+573,27,Patancheru,12,1,40,NULL,PATANCHERU,Sangareddy
+574,27,Pulkal,19,1,36,NULL,"ANDOLE (SC)",Sangareddy
+575,27,Raikode,26,1,36,NULL,"ANDOLE (SC)",Sangareddy
+576,27,Sadasivpet,06,1,39,NULL,SANGAREDDY,Sangareddy
+577,27,Sangareddy,13,1,39,NULL,SANGAREDDY,Sangareddy
+578,27,Sirgapoor,20,1,35,NULL,NARAYANKHED,Sangareddy
+579,27,Vatpally,27,1,36,NULL,"ANDOLE (SC)",Sangareddy
+580,27,Zahirabad,07,1,38,NULL,"ZAHIRABAD (SC)",Sangareddy
+581,28,"Akbarpet bhoompally",01,1,33,NULL,SIDDIPET,Siddipet
+582,28,Akkannapet,14,1,32,NULL,HUSNABAD,Siddipet
+583,28,"Bejjanki ",21,1,30,NULL,"MANAKONDUR (SC)",Siddipet
+584,28,Chinnakodur,08,1,33,NULL,SIDDIPET,Siddipet
+585,28,Dhoolmitta,15,1,98,NULL,JANGOAN,Siddipet
+586,28,Doulthabad,06,1,33,NULL,SIDDIPET,Siddipet
+587,28,Dubbak,02,1,41,NULL,DUBBAK,Siddipet
+588,28,Gajwel,09,1,42,NULL,GAJWEL,Siddipet
+589,28,Husnabad,16,1,32,NULL,HUSNABAD,Siddipet
+590,28,Jagadevpur,10,1,42,NULL,GAJWEL,Siddipet
+591,28,Koheda,03,1,32,NULL,HUSNABAD,Siddipet
+592,28,Komuravelly,12,1,33,NULL,SIDDIPET,Siddipet
+593,28,Kondapak,17,1,42,NULL,GAJWEL,Siddipet
+594,28,Kukunoorpally,24,1,42,NULL,GAJWEL,Siddipet
+595,28,Maddur,02,1,32,NULL,HUSNABAD,Siddipet
+596,28,Markook,11,1,42,NULL,GAJWEL,Siddipet
+597,28,Mirdoddi,18,1,41,NULL,DUBBAK,Siddipet
+598,28,Mulugu,02,1,33,NULL,SIDDIPET,Siddipet
+599,28,Nagunoor,19,1,33,NULL,SIDDIPET,Siddipet
+600,28,Naryanraopet,20,1,33,NULL,SIDDIPET,Siddipet
+601,28,Raipole,19,1,41,NULL,DUBBAK,Siddipet
+602,28,"Siddipet rural",26,1,33,NULL,SIDDIPET,Siddipet
+603,28,"Siddipet urban",06,1,33,NULL,SIDDIPET,Siddipet
+604,28,Thoguta,13,1,41,NULL,DUBBAK,Siddipet
+605,28,Wargal,20,1,42,NULL,GAJWEL,Siddipet
+606,28,"Cherial (u)",26,2,33,NULL,SIDDIPET,Siddipet
+607,28,"Dubkka (u)",27,2,41,NULL,DUBBAK,Siddipet
+608,28,"Gajwel (u)",28,2,42,NULL,GAJWEL,Siddipet
+609,28,"Husnabad (u)",29,2,32,NULL,HUSNABAD,Siddipet
+610,28,"Sididpet (u)",30,2,33,NULL,SIDDIPET,Siddipet
+611,29,Ananthagiri,18,1,90,NULL,KODAD,Suryapet
+612,29,Atmakur(s),01,1,91,NULL,SURYAPET,Suryapet
+613,29,Chilkur,07,1,90,NULL,KODAD,Suryapet
+614,29,Chinthalapalem,13,1,89,NULL,HUZURANAGAR,Suryapet
+615,29,Chivvemla,19,1,91,NULL,SURYAPET,Suryapet
+616,29,"Garide pally",02,1,89,NULL,HUZURANAGAR,Suryapet
+617,29,Huzurnagar,08,1,89,NULL,HUZURANAGAR,Suryapet
+618,29,"Jajireddugudem (arvapally)",08,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+619,29,Kodad,20,1,90,NULL,KODAD,Suryapet
+620,29,Maddirala,03,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+621,29,"Mattam pally",09,1,89,NULL,HUZURANAGAR,Suryapet
+622,29,"Mella chervu",15,1,89,NULL,HUZURANAGAR,Suryapet
+623,29,Mellacheruvu,13,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+624,29,Mothey,21,1,90,NULL,KODAD,Suryapet
+625,29,Munagala,04,1,90,NULL,KODAD,Suryapet
+626,29,Nadigudem,10,1,90,NULL,KODAD,Suryapet
+627,29,Nagaram,16,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+628,29,Nereducharla,18,1,89,NULL,HUZURANAGAR,Suryapet
+629,29,Nuthankal,05,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+630,29,Palakeedu,11,1,89,NULL,HUZURANAGAR,Suryapet
+631,29,Penpahad,17,1,91,NULL,SURYAPET,Suryapet
+632,29,Suryapet,23,1,91,NULL,SURYAPET,Suryapet
+633,29,Thirumalagiri,06,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+634,29,Thungathurthi,12,1,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+635,29,"Huzurnagar (u)",25,2,89,NULL,HUZURANAGAR,Suryapet
+636,29,"Kodad (u)",26,2,90,NULL,Kodad,Suryapet
+637,29,"Nereducharla (u)",27,2,89,NULL,HUZURANAGAR,Suryapet
+638,29,"Suryapet (u)",28,2,91,NULL,SURYAPET,Suryapet
+639,29,"Thirumalagiri (u)",29,2,96,NULL,"THUNGATHURTHI (SC)",Suryapet
+640,30,Bantwaram,11,1,55,NULL,"VICARABAD (SC)",Vikarabad
+641,30,Basheerabad,16,1,56,NULL,TANDUR,Vikarabad
+642,30,Bomraspet,03,1,72,NULL,KODANGAL,Vikarabad
+643,30,"Chowdapur ",06,1,54,NULL,PARGI,Vikarabad
+644,30,Dharur,08,1,55,NULL,"VICARABAD (SC)",Vikarabad
+645,30,Doma,17,1,54,NULL,PARGI,Vikarabad
+646,30,Doulthabad,07,1,72,NULL,KODANGAL,Vikarabad
+647,30,Dudyal,07,1,72,NULL,KODANGAL,Vikarabad
+648,30,Kodangal,13,1,72,NULL,KODANGAL,Vikarabad
+649,30,Kotepally,18,1,55,NULL,"VICARABAD (SC)",Vikarabad
+650,30,Kulkacherla,11,1,54,NULL,PARGI,Vikarabad
+651,30,Marpally,08,1,55,NULL,"VICARABAD (SC)",Vikarabad
+652,30,Mominpet,14,1,55,NULL,"VICARABAD (SC)",Vikarabad
+653,30,Nawabpet,08,1,53,NULL,"Chevella (SC)",Vikarabad
+654,30,Pargi,04,1,54,NULL,PARGI,Vikarabad
+655,30,Peddemul,09,1,56,NULL,TANDUR,Vikarabad
+656,30,Pudur,15,1,54,NULL,PARGI,Vikarabad
+657,30,Tandur,08,1,56,NULL,TANDUR,Vikarabad
+658,30,Vikarabad,05,1,55,NULL,"VICARABAD (SC)",Vikarabad
+659,30,Yalal,10,1,56,NULL,TANDUR,Vikarabad
+660,31,Amarachintha,08,1,77,NULL,MAKTHAL,Wanaparthy
+661,31,Atmakur,04,1,78,NULL,WANAPARTHY,Wanaparthy
+662,31,Chinnambavi,01,1,85,NULL,KOLLAPUR,Wanaparthy
+663,31,Ghanpur,05,1,78,NULL,WANAPARTHY,Wanaparthy
+664,31,Gopalpeta,09,1,78,NULL,WANAPARTHY,Wanaparthy
+665,31,Kothakota,13,1,76,NULL,DEVARAKDRA,Wanaparthy
+666,31,Madanapur,02,1,76,NULL,DEVARAKDRA,Wanaparthy
+667,31,Pangal,06,1,85,NULL,KOLLAPUR,Wanaparthy
+668,31,Pebbair,10,1,78,NULL,WANAPARTHY,Wanaparthy
+669,31,Peddamandadi,14,1,78,NULL,WANAPARTHY,Wanaparthy
+670,31,Revally,03,1,78,NULL,WANAPARTHY,Wanaparthy
+671,31,Srirangapur,07,1,78,NULL,WANAPARTHY,Wanaparthy
+672,31,Wanaparthy,11,1,78,NULL,WANAPARTHY,Wanaparthy
+673,31,Weepangandla,15,1,85,NULL,KOLLAPUR,Wanaparthy
+674,31,Yedula,04,1,78,NULL,WANAPARTHY,Wanaparthy
+675,31,"Amarchintha (u)",16,2,77,NULL,MAKTHAL,Wanaparthy
+676,31,"Atmakur (u)",17,2,78,NULL,WANAPARTHY,Wanaparthy
+677,31,"Pebbair (u)",18,2,78,NULL,WANAPARTHY,Wanaparthy
+678,31,"Kothakota (u)",19,2,76,NULL,DEVARAKDRA,Wanaparthy
+679,31,"Wanaparthy (u)",20,2,78,NULL,WANAPARTHY,Wanaparthy
+680,32,Chennaraopet,03,1,103,NULL,NARSAMPET,"Warangal "
+681,32,Duggondi,06,1,103,NULL,NARSAMPET,"Warangal "
+682,32,Geesugonda,09,1,104,NULL,PARKAL,"Warangal "
+683,22,Khanapur,02,1,6,NULL,"KHANAPUR (ST)",Nirmal
+684,32,"Nalla belli",04,1,103,NULL,NARSAMPET,"Warangal "
+685,32,Narsampet,07,1,103,NULL,NARSAMPET,"Warangal "
+686,32,Nekkonda,10,1,103,NULL,NARSAMPET,"Warangal "
+687,32,Parvathagiri,02,1,107,NULL,"WARADHANAPET (SC)","Warangal "
+688,32,Raiparthy,05,1,100,NULL,PALAKURTHI,"Warangal "
+689,32,Sangem,08,1,104,NULL,PARKAL,"Warangal "
+690,32,"Wardhanna pet",11,1,107,NULL,"WARADHANAPET (SC)","Warangal "
+691,32,"Narsampet (u)",12,2,103,NULL,NARSAMPET,Warangal
+692,32,"Wardhannapet (u)",13,2,107,NULL,"WARADHANAPET (SC)",Warangal
+693,32,"Warangal (mc)",14,3,105,NULL,WARANGAL,Warangal
+694,32,"Khila warangal (mc)",15,3,106,NULL,"Warangal East",Warangal
+695,33,"Adda guduru",01,1,96,NULL,"THUNGATHURTHI (SC)","Yadadri Bhuvanagiri"
+696,33,Alair,06,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+697,33,Atmakur(m),10,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+698,33,B.pochampally,14,1,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+699,33,Bhongir,02,1,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+700,33,Bibinagar,07,1,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+701,33,"Bommala ramaram",11,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+702,33,Choutuppal,15,1,93,NULL,MUNUGODE,"Yadadri Bhuvanagiri"
+703,33,Gundala,14,1,94,NULL,Bhuvanagiri,"Yadadri Bhuvanagiri"
+704,33,Motakonduru,08,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+705,33,Mothkur,12,1,96,NULL,"THUNGATHURTHI (SC)","Yadadri Bhuvanagiri"
+706,33,Narayanapur,16,1,93,NULL,MUNUGODE,"Yadadri Bhuvanagiri"
+707,33,Rajapet,04,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+708,33,Ramannapeta,09,1,95,NULL,"NAKREKAL (SC)","Yadadri Bhuvanagiri"
+709,33,Thurkapally,13,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+710,33,Valigonda,17,1,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+711,33,Yadagirigutta,05,1,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+712,33,"Alair (u)",18,2,97,NULL,ALAIR,"Yadadri Bhuvanagiri"
+713,33,"Bhongir (u)",19,2,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+714,33,"Choutuppal (u)",20,2,93,NULL,MUNUGODE,"Yadadri Bhuvanagiri"
+715,33,"Mothkur (u)",21,2,96,NULL,"THUNGATHURTHI (SC)","Yadadri Bhuvanagiri"
+716,33,"Pochampally (u)",22,2,94,NULL,BHONGIR,"Yadadri Bhuvanagiri"
+717,33,"Yadagirigutta (u)",23,2,97,NULL,ALAIR,"Yadadri Bhuvanagiri"

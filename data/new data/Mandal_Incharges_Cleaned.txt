@@ -1,0 +1,473 @@
+CM Cup 2025 Mandal Level Cluster Incharge Details:
+
+Mandal: Name of the Mandal | Cluster: GP's Name | Incharge Details: In charge name | Contact: Contact Number
+Mandal: Dammapeta | Cluster: Akinepalli | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Allipalli | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Dammapeta | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Mandalapalli | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Marappagudem | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Moddulagudem, | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Mustibanda | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Vadlagudem | Incharge Details: K. Ramanadham ( PD)   ZPHS Mandalapalli | Contact: 9492721524
+Mandal: Dammapeta | Cluster: Malkaram | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Peddagolalgudem | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Rachurupalli | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Jamedar Banjar | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Kommugudem | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Lingalapalli | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Gunnepalli | Incharge Details: S.Bhadraiah (PD)            ZPHS Malkaram | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Ankampalem | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Arlapenta | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Balarajugudem | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Jaggaram | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Parkalagandi | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Patwarigudem | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Pusukunta | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Ganeshpadu | Incharge Details: L. Bhadru ( PD)             AHS Parkalagandi | Contact: 9618610117
+Mandal: Dammapeta | Cluster: Gandugulapalli | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Mondivarre | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Nacharam | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Nagupalli | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Seetarampuram | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Srirampuram | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Thatisubbannagudem | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Dammapeta | Cluster: Tottipampu | Incharge Details: P. Pavan kumar               ZPHS Gandugulapalli | Contact: 9676808584
+Mandal: Tekulapally | Cluster: Rollapadu | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: 9th milethanda | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Bethampudi  | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Golyathanda | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Tekulapalli | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Dasuthanda | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Thadikalapudi | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Thavuryathanda | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Chukkalabodu | Incharge Details: P. Shekhar                          Govt HS Tekulapalli | Contact: 9491543004
+Mandal: Tekulapally | Cluster: Kuntalla | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Badduthanda | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Petramchelka | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Yerraigudem | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Mokkampadu | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Bodu | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Ramchanrunipeta | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Koppurai | Incharge Details: V. Shankar                        ZPHS Bodu | Contact: 9849868609
+Mandal: Tekulapally | Cluster: Mellamadugu | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Chinthonichelka | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Gangaram | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Kistaram | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Lachagudem | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Barlagudem | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Shambunigudem | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Chandruthanda | Incharge Details: B. Venkateswarlu (PD)    AHS Gangaram | Contact: 9908601846
+Mandal: Tekulapally | Cluster: Koyagudem | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Madrasthanda 6 | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Kothathanda P | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Rampuramo ES | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Pregallapadu | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Mutyalampadu x road | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Sulanagar | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Chintalanka | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Billuduthanda | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Gollapalli | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Tekulapally | Cluster: Kothathanda G | Incharge Details: B. Mothilal  (PD)               AHS Koyagudem | Contact: 7989102496
+Mandal: Mulakalapally | Cluster: Mulakalapally | Incharge Details: S. Rambabu                         ZPHS Mulakalapalli | Contact: 9573888511
+Mandal: Mulakalapally | Cluster: Madaram | Incharge Details: S. Rambabu                         ZPHS Mulakalapalli | Contact: 9573888511
+Mandal: Mulakalapally | Cluster: Kamalapuram | Incharge Details: S. Rambabu                         ZPHS Mulakalapalli | Contact: 9573888511
+Mandal: Mulakalapally | Cluster: Pusugudem | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Seetharampuram | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: V.K. Ramavaram | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Chaparalapally | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Guttagudem | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Ramachandrapuram | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Jagannadhapuram | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Seethaigudem | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Pathagangaram | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Muthyalampadu | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Rachannagudem | Incharge Details: Neelam Suresh                ZPHS Pusugudem | Contact: 9059615461
+Mandal: Mulakalapally | Cluster: Pogallapally | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Mulakalapally | Cluster: Tallapai | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Mulakalapally | Cluster: Pathagundalapadu | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Mulakalapally | Cluster: Thimmampeta | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Mulakalapally | Cluster: Mookamamidi | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Mulakalapally | Cluster: Chowtigudem | Incharge Details: A. Venkateswarlu         AHS Kamalapuram | Contact: 7893637199
+Mandal: Pinapaka | Cluster: Duginepalli | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Chegarsala | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: T. Kothagudem | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Kistapuram | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Janampeta  | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Amararam | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Pandurangapuram | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Singireddypali | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Jaggaram | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Mallaram | Incharge Details: G. Ramulamma               ZPHS Janampeta | Contact: 7095015045
+Mandal: Pinapaka | Cluster: Bayyaram | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Elghireddypalli | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Pathareddypalem | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Venkatraopeta | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Gaddampalli | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Potlapalli | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Seetarampuram | Incharge Details: B. Veeranna (PD)            ZPHS Edulla Bayyaram | Contact: 9491109290
+Mandal: Pinapaka | Cluster: Pinapaka | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Pinapaka | Cluster: Seetampeta | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Pinapaka | Cluster: Thoggudem | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Pinapaka | Cluster: Uppaka | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Pinapaka | Cluster: Botigudem | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Pinapaka | Cluster: Bhupalapatnam | Incharge Details: Varalaxmi                        ZPHS Pinapaka | Contact: 9493335002
+Mandal: Manuguru | Cluster: Thoggudem | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Muthyalammanagar | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Kunavaram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Ippalasingaram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Samithisingaram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Kattumalla ram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Guttamallaram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Lankamallaram | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Manuguru (Urban) | Incharge Details: K. Adinarayana (PD)               ZPHS Manuguru | Contact: 9963195173
+Mandal: Manuguru | Cluster: Thirlapuram | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Manuguru | Cluster: Ramanujavaram | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Manuguru | Cluster: Sambaigudem | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Manuguru | Cluster: Dammakkapeta | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Manuguru | Cluster: Bugga | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Manuguru | Cluster: Pagideru | Incharge Details: P. Anil Kumar                    ZPHS Ramanujavaram | Contact: 9440916618
+Mandal: Bhadrachalam | Cluster: Bhadrachalam | Incharge Details: M. Ramesh                          ZPHS Bhadrachalam | Contact: 8074606654
+Mandal: Dummugudem | Cluster: Kothapalli | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Marayagudem | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Narayanaraopeta | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Koyanarasapuram | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Ramachandrunipeta | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Singavaram | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Dabbanuthala | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Kothuru | Incharge Details: B. Hari Krishana                AHS Kothapalli | Contact: 9866277924
+Mandal: Dummugudem | Cluster: Arlagudem | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Pedakamalapuram | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Mahadevapuram | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Mulakapadu | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Dummudem | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Sunnaraopeta | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Achuthapuram | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Anjubaka | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Battigudem | Incharge Details: V. Vasantham (PD)          AHS Arlagudem | Contact: 9963273689
+Mandal: Dummugudem | Cluster: Turubaka | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Bandarugudem | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Narasapuram | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Nadikudi | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Ramaraopeta | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Dantenam | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: WL Regunalli | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Gangolu | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Laxminagaram | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Maredubaka | Incharge Details: M. Venkateshwerlu      AHS K. Reguballi | Contact: 9866135895
+Mandal: Dummugudem | Cluster: Parnasala | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: CH.Bandirevu | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: CH.Nallaballi | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Peddanallaballi | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Pydigudem | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Gowraram | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Chinthaguppa | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Pragallapalli | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Dummugudem | Cluster: Kasinagaram | Incharge Details: P. Ravindar (PET)          AGHS Gowraram | Contact: 9177248711
+Mandal: Annapureddi pally | Cluster: Peddireddigudem | Incharge Details: L. Jayaram                           ZPHS Yerragunta | Contact: 9951060512
+Mandal: Annapureddi pally | Cluster: Bhimunigudem | Incharge Details: L. Jayaram                           ZPHS Yerragunta | Contact: 9951060512
+Mandal: Annapureddi pally | Cluster: Gumpena | Incharge Details: L. Jayaram                           ZPHS Yerragunta | Contact: 9951060512
+Mandal: Annapureddi pally | Cluster: Vootupalli | Incharge Details: L. Jayaram                           ZPHS Yerragunta | Contact: 9951060512
+Mandal: Annapureddi pally | Cluster: Narsapuram | Incharge Details: L. Jayaram                           ZPHS Yerragunta | Contact: 9951060512
+Mandal: Annapureddi pally | Cluster: Abbugudem | Incharge Details: S. Krishna Rao                   ZPHS Annapureddypalli | Contact: 7893455963
+Mandal: Annapureddi pally | Cluster: Marrigudem | Incharge Details: S. Krishna Rao                   ZPHS Annapureddypalli | Contact: 7893455963
+Mandal: Annapureddi pally | Cluster: Pentlam | Incharge Details: S. Krishna Rao                   ZPHS Annapureddypalli | Contact: 7893455963
+Mandal: Annapureddi pally | Cluster: Annapureddipally | Incharge Details: S. Krishna Rao                   ZPHS Annapureddypalli | Contact: 7893455963
+Mandal: Annapureddi pally | Cluster: Thottipampu | Incharge Details: S. Krishna Rao                   ZPHS Annapureddypalli | Contact: 7893455963
+Mandal: Karakagudem | Cluster: Chirumalla | Incharge Details: E. Balaraju  (PD)                 AHS Karakagudem | Contact: 9676191169
+Mandal: Karakagudem | Cluster: Vattamvarigumpu | Incharge Details: E. Balaraju  (PD)                 AHS Karakagudem | Contact: 9676191169
+Mandal: Karakagudem | Cluster: Kannigudem | Incharge Details: E. Balaraju  (PD)                 AHS Karakagudem | Contact: 9676191169
+Mandal: Karakagudem | Cluster: Regalla | Incharge Details: E. Balaraju  (PD)                 AHS Karakagudem | Contact: 9676191169
+Mandal: Karakagudem | Cluster: Thatigudem | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Karakagudem | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Samath Battupalli | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Battupalli | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Venkatapuram | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Anantharam | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Padmapuram | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Thummalagudem | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Reghunadhapalem | Incharge Details: P. Sathyanarayana Thatigudem                Sr.Player volleyball | Contact: 8125699338
+Mandal: Karakagudem | Cluster: Samath Mothe | Incharge Details: Ranjitha Sr.Player       Volleyball                Gollagudem, | Contact: 9347292220
+Mandal: Karakagudem | Cluster: Choppala | Incharge Details: Ranjitha Sr.Player       Volleyball                Gollagudem, | Contact: 9347292220
+Mandal: Karakagudem | Cluster: Kothagudem | Incharge Details: Ranjitha Sr.Player       Volleyball                Gollagudem, | Contact: 9347292220
+Mandal: Burgampahad | Cluster: Anjanapuram | Incharge Details: B.Krishna ZPHS Pinapakapattinagar | Contact: 9010598540
+Mandal: Burgampahad | Cluster: Pinapaka patti nagar | Incharge Details: B.Krishna ZPHS Pinapakapattinagar | Contact: 9010598540
+Mandal: Burgampahad | Cluster: Sompalli | Incharge Details: B.Krishna ZPHS Pinapakapattinagar | Contact: 9010598540
+Mandal: Burgampahad | Cluster: Uppusaka | Incharge Details: B.Krishna ZPHS Pinapakapattinagar | Contact: 9010598540
+Mandal: Burgampahad | Cluster: Burgampahad | Incharge Details: P.V Sagar                          ZPHS Burgampahad | Contact: 9032324982
+Mandal: Burgampahad | Cluster: Musalimadugu | Incharge Details: P.V Sagar                          ZPHS Burgampahad | Contact: 9032324982
+Mandal: Burgampahad | Cluster: Krishnasagar | Incharge Details: P.V Sagar                          ZPHS Burgampahad | Contact: 9032324982
+Mandal: Burgampahad | Cluster: Laxmipuram | Incharge Details: P.V Sagar                          ZPHS Burgampahad | Contact: 9032324982
+Mandal: Burgampahad | Cluster: Nagineniprolu | Incharge Details: P.V Sagar                          ZPHS Burgampahad | Contact: 9032324982
+Mandal: Burgampahad | Cluster: Morampalli Banjara | Incharge Details: B. Baburao                             ZPHS Morampalli Banjar | Contact: 9666061892
+Mandal: Burgampahad | Cluster: Nakiripeta | Incharge Details: B. Baburao                             ZPHS Morampalli Banjar | Contact: 9666061892
+Mandal: Burgampahad | Cluster: Tekulacheruvu | Incharge Details: B. Baburao                             ZPHS Morampalli Banjar | Contact: 9666061892
+Mandal: Burgampahad | Cluster: Vepalagadda | Incharge Details: B. Baburao                             ZPHS Morampalli Banjar | Contact: 9666061892
+Mandal: Burgampahad | Cluster: Sarapaka | Incharge Details: Mallikarjun                       ZPHS Sarapaka | Contact: 8639416526
+Mandal: Burgampahad | Cluster: Iravendi | Incharge Details: Mallikarjun                       ZPHS Sarapaka | Contact: 8639416526
+Mandal: Burgampahad | Cluster: Mothepatti Nagar | Incharge Details: Mallikarjun                       ZPHS Sarapaka | Contact: 8639416526
+Mandal: Burgampahad | Cluster: Koyagudem | Incharge Details: Mallikarjun                       ZPHS Sarapaka | Contact: 8639416526
+Mandal: Burgampahad | Cluster: Thalligommuru | Incharge Details: Mallikarjun                       ZPHS Sarapaka | Contact: 8639416526
+Mandal: Allapally | Cluster: Allipalli | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Pathuru | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Ramanujagudem | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Peddavankatapuram | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Ananthogu | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Rayapadu | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Dongathogu | Incharge Details: Sailaja                              KGVB Allapally | Contact: 9515112356
+Mandal: Allapally | Cluster: Markodu | Incharge Details: S. Veerabhadram  (PET)  AHS Markodu | Contact: 8179184369
+Mandal: Allapally | Cluster: Raghavapuram | Incharge Details: S. Veerabhadram  (PET)  AHS Markodu | Contact: 8179184369
+Mandal: Allapally | Cluster: Nadimigudem | Incharge Details: S. Veerabhadram  (PET)  AHS Markodu | Contact: 8179184369
+Mandal: Allapally | Cluster: Bodaikunta | Incharge Details: S. Veerabhadram  (PET)  AHS Markodu | Contact: 8179184369
+Mandal: Allapally | Cluster: Adaviramavaram | Incharge Details: S. Veerabhadram  (PET)  AHS Markodu | Contact: 8179184369
+Mandal: MPP,                   Sujatha Nagar | Cluster: Sarvaram | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Koyagudem | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Bethampudi  | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Jamlathanda | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Singhabhupalem | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Old Anjanapuram | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: New Anjanapuram | Incharge Details: Saidulu                                AHS Koyagudem | Contact: 7989102496
+Mandal: MPP,                   Sujatha Nagar | Cluster: Gareebpeta | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: MPP,                   Sujatha Nagar | Cluster: 2  Incline | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: MPP,                   Sujatha Nagar | Cluster: Seethampeta Banjara | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: MPP,                   Sujatha Nagar | Cluster: Seethampeeta | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: MPP,                   Sujatha Nagar | Cluster: Raghavapuram | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: MPP,                   Sujatha Nagar | Cluster: Malabanjara | Incharge Details: B. Bhav singh                          ZPHS Gareebpeta | Contact: 9948790708
+Mandal: Yellandu | Cluster: Komararam | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Mondithogu | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Pocharamthanda | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Manikyaram | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Polaram | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Rompaid | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Thilaknagar | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Vijaylami Nagar | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Kommugudem | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Mamidigudem | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Marrigudem | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Masivugau | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Mittapalli | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Mutharapukatta | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Boithanda | Incharge Details: A.Rambabu                          ZPHS Komararam | Contact: 9701915754
+Mandal: Yellandu | Cluster: Challasamudram | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: CSP Basthi | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Dhaniyalapadu | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Lachagudem | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Manidigudem | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Repallawada | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Voddugudem | Incharge Details: K. Rambabu                      ZPHS Challasamudram | Contact: 9177092354
+Mandal: Yellandu | Cluster: Balajinagar | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Bojjaigudem | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Indiranagar | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Pubelly | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Raghaboinagudem | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Subashnagar | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Yellandu | Cluster: Sudimalla | Incharge Details: B. Rambabu                                    AHS  Bojjaigudem | Contact: 9603886971
+Mandal: Laxmidevipalli | Cluster: Bangara Chelka | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Bojjalagudem | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Kotha Chinthakunta | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Punukuduchelka | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Mylaram | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Laxmipuram | Incharge Details: B. Lakshman                       ZPHS Mylaram | Contact: 9640880773
+Mandal: Laxmidevipalli | Cluster: Dudya Thanda | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Gattumalla | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Hariya Thanda | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Bavoji Thanda | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Regalla | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Regallapadu Thanda              (Pedda Thanda) | Incharge Details: K. Narasaih AHS Regallapadu Thanda | Contact: 9676868073
+Mandal: Laxmidevipalli | Cluster: Prashanthnagar | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Ashok Nagar Colony | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Laxmidevipalli | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Sanjay Nagar | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Lothuvagu | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Srinagar Colony | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Chatakonda ® | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Hamali Colony | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Sativarigudem | Incharge Details: PB Stephen                       ZPHS Laxmidevipalli | Contact: 9000310976
+Mandal: Laxmidevipalli | Cluster: Hemachandrapuram | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Karukonda | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Edurugadda | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Gaddigutta | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Anisettipalli | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Lal Thanda | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Seetharampuram | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Sheshagiri Nagar | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Telaga Ramavaram | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Laxmidevipalli | Cluster: Vepalagadda | Incharge Details: Manga devi                       ZPHS Hemachandrapuram | Contact: 9652017141
+Mandal: Cherla | Cluster: Subbampeta | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Koyyuru | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: C.Kathigudem | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Upparigudem | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Mogallapally | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Gompalli | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Lingapuram | Incharge Details: P. Srinu                             ZPHS Tegada | Contact: 9493379532
+Mandal: Cherla | Cluster: Cherla | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Pusuguppa | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Keswapuram | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Kothapalli | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Tegada | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Gommugudem | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Laxmi Colony | Incharge Details: P. Srinivasa rao                  ZPHS Charla | Contact: 9441288081
+Mandal: Cherla | Cluster: Kaliveru | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: Satyanarayapuram | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: Peddipalli | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: R.Kothagudem | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: Kudunuru | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: Devarapalli | Incharge Details: D. Hema,                           ZPHS Satyanaraya puram | Contact: 9676692025
+Mandal: Cherla | Cluster: Tippapuram | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Cherla | Cluster: Peddamidisileru | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Cherla | Cluster: Chinnamidisileru | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Cherla | Cluster: Kurnapally | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Cherla | Cluster: Bodenelli | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Cherla | Cluster: Puligundala | Incharge Details: E. Eswararao                  AGHS Peddamidisileru | Contact: 9381345008
+Mandal: Julurupadu | Cluster: Anantharam | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Gandhinagar | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Gundepudi  | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Guruvagu Thanda | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Julurupadu | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Kakarla | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Nallabandabodu | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Padamati Narsapuram | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Sairam Thanda | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Shambunigudem | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Suraram | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Vengannapalem | Incharge Details: B. Aruna Kumari            ZPHS Julurupadu | Contact: 8886170400
+Mandal: Julurupadu | Cluster: Annarupadu | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Bethalapadu | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Bojya Thanda | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Chinthal Thanda | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Gundlarevu | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Karivarigudem | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Kommugudem | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Kothuru | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Machinenipeta | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Machinenipeta Thanda | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Papakollu | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Julurupadu | Cluster: Vinobhanagar | Incharge Details: Kanakamma                    ZPHS Papakollu | Contact: 9493315628
+Mandal: Gundala | Cluster: Gundala | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Damarathogu | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Sayanapalli | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Rollagadda | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Lingagudem | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Shettupali | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Shambunigudem | Incharge Details: Narasamma                KGVB Gundala | Contact: 8978523169
+Mandal: Gundala | Cluster: Mamakannu | Incharge Details: P. Siromani                   MSS sports school  Kachanapalli | Contact: 9492659901
+Mandal: Gundala | Cluster: Kachanapalli | Incharge Details: P. Siromani                   MSS sports school  Kachanapalli | Contact: 9492659901
+Mandal: Gundala | Cluster: Muthapuram | Incharge Details: P. Siromani                   MSS sports school  Kachanapalli | Contact: 9492659901
+Mandal: Gundala | Cluster: Padugonigudem | Incharge Details: P. Siromani                   MSS sports school  Kachanapalli | Contact: 9492659901
+Mandal: Palvancha | Cluster: Kinnerasani | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Yanambailu | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Satyanarayanapuram | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Karegattu | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Mandarekulapadu | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Uvlvanoru | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Laxmidevipally(U) | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Mallaram | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Banjara | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Regulagudem | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Chandralagudem | Incharge Details: S.Subramanyam         Modal Sports School (Tribal welfare) Kinnerasani | Contact: 9705977898
+Mandal: Palvancha | Cluster: Pandrurangapuram thanda | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Yellandulapadu Thanda | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Thaviselagudem (Kothapeta) | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Pandurangapuram | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Prabhathnagar | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Kothasuraram | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Suraram | Incharge Details: K. Venkateshwarlu    ZPHS Pandrurangapuram | Contact: 8978253574
+Mandal: Palvancha | Cluster: Thoggudem | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Danthelabora | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Danthelaboru SC colony | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Bandrugonda | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Sangam | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Narayanarapeta SC Colonty | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Nagaram | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Rangapuram | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Nagaram Colony | Incharge Details: B.Hari                           ZPHS Nagaram | Contact: 9866356402
+Mandal: Palvancha | Cluster: Keshavapuram | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Jagannadhapuram | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Basavatharaka colony | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Laxmidevipalli (S) | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Somulagudem | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Bikya thanda | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Punukula | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Kodipungulavagu | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Palvancha | Cluster: Payakari yambailu | Incharge Details: M. Veda Kumari        ZPHS Jagannadhapuram | Contact: 9908825258
+Mandal: Aswapuram | Cluster: Batilagumpu | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Ammagaripalli | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Kalyanapuram | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Mittagudem | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Jaggaram | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Aswapuram | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Thurramvarigudem | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Amerdha | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Gollagudem | Incharge Details: B. Venkataramaiah     ZPHS Mittagudem | Contact: 9701485885
+Mandal: Aswapuram | Cluster: Seetharampuram | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Anandapuram | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Manubothulapadu | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Yalakalagudem | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Gondigudem | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Gondigudem Kothuru | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Venkatapuram | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Thummalacheruvu | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Mondikunta | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Mallelamadugu | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Nellipaka | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Ramachandrapuram | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Chintriyala | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Chintriyala Colony | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Aswapuram | Cluster: Sandralabodu | Incharge Details: K. Sathibabu             ZPHS Mallelamadugu | Contact: 9701905784
+Mandal: Chandrugonda | Cluster: Chandrugonda | Incharge Details: B. Srujana                  ZPHS Chandrugonda | Contact: 9701475006
+Mandal: Chandrugonda | Cluster: Damaracherla | Incharge Details: B. Srujana                  ZPHS Chandrugonda | Contact: 9701475006
+Mandal: Chandrugonda | Cluster: Maddukur | Incharge Details: B. Srujana                  ZPHS Chandrugonda | Contact: 9701475006
+Mandal: Chandrugonda | Cluster: Seethaigudem | Incharge Details: B. Srujana                  ZPHS Chandrugonda | Contact: 9701475006
+Mandal: Chandrugonda | Cluster: Pokalagudem | Incharge Details: Ch. Lakhsmaiah             ZPHS Pokalagudem | Contact: 9502021290
+Mandal: Chandrugonda | Cluster: Venkatayathanda | Incharge Details: Ch. Lakhsmaiah             ZPHS Pokalagudem | Contact: 9502021290
+Mandal: Chandrugonda | Cluster: Mangaiahbanzar | Incharge Details: Ch. Lakhsmaiah             ZPHS Pokalagudem | Contact: 9502021290
+Mandal: Chandrugonda | Cluster: Ganugapadu | Incharge Details: Ch. Lakhsmaiah             ZPHS Pokalagudem | Contact: 9502021290
+Mandal: Chandrugonda | Cluster: Repallewada | Incharge Details: V. Naresh kumar               ZPHS Repallewada | Contact: 9951274678
+Mandal: Chandrugonda | Cluster: Thungaram | Incharge Details: V. Naresh kumar               ZPHS Repallewada | Contact: 9951274678
+Mandal: Chandrugonda | Cluster: Thipanapally | Incharge Details: V. Naresh kumar               ZPHS Repallewada | Contact: 9951274678
+Mandal: Chandrugonda | Cluster: Ravikampadu | Incharge Details: V. Naresh kumar             ZPHS Repallewada | Contact: 9951274678
+Mandal: Chandrugonda | Cluster: Bendalapadu | Incharge Details: V. Naresh kumar             ZPHS Repallewada | Contact: 9951274678
+Mandal: Chandrugonda | Cluster: Gurramgudem | Incharge Details: V. Naresh kumar             ZPHS Repallewada | Contact: 9951274678
+Mandal: Aswaraopeta | Cluster: Kavadigundla | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Kannaigudem | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Anantharam | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Gandlagudem | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Ramannagudem | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Mallagudem | Incharge Details: B.Bapanamma AGHS Anantharam | Contact: 9908929583
+Mandal: Aswaraopeta | Cluster: Kothamamilla varigudem | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Pathareddigudem | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Tirumalakunta | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Dibbagudem | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Moddilamada | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Asupaka | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Narayapuram | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Koyarangapuram | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Gummadavalli | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Bachuvarigudem | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Nandipadu | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Vinayakapuram | Incharge Details: Kumari ZPHS Mamillavarigudem | Contact: 9553589945
+Mandal: Aswaraopeta | Cluster: Ootlapalli | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Vedanthapuram | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Kesappagudem | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Jammigudem | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Achuthapuram | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Naramvarigudem colony | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Pathaalligudem | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Aswaraopeta | Cluster: Maddikonda | Incharge Details: Padmaja Kumari ZPHS(G) Aswaraopeta | Contact: 8790105737
+Mandal: Chunchupalli | Cluster: Vidhyanagar | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Ramajaneya Colony | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Babu Camp | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Nk Nagar (Badavathi Thanda) | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Chunchupalli | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Venkateswara Colony | Incharge Details: P. Sugandhini            Govt. HS Chunchupalli | Contact: 9550203685
+Mandal: Chunchupalli | Cluster: Dhanbad | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Rudrampur  | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Gowthampur  | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Penagadapa | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Rampuram | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Ambedkar Nagar | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Venkatesh Khani | Incharge Details: Kavitha                      ZPHS Rudrampur | Contact: 8897465230
+Mandal: Chunchupalli | Cluster: Penuballi | Incharge Details: Md. Kadir                       SR Prime school (Private) | Contact: 9059100934
+Mandal: Chunchupalli | Cluster: Prashanthi Nagar | Incharge Details: Md. Kadir                       SR Prime school (Private) | Contact: 9059100934
+Mandal: Chunchupalli | Cluster: 3-Incline | Incharge Details: Md. Kadir                       SR Prime school (Private) | Contact: 9059100934
+Mandal: Chunchupalli | Cluster: 4-Incline | Incharge Details: Md. Kadir                       SR Prime school (Private) | Contact: 9059100934
+Mandal: Chunchupalli | Cluster: Nanda thanda | Incharge Details: Md. Kadir                       SR Prime school (Private) | Contact: 9059100934

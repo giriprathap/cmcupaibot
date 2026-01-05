@@ -1,0 +1,46 @@
+game_id,dist_game_nm,cat_no,is_village,is_district,is_state,from_age,to_age,is_team,team_size,extra_players,team_num,status,is_para,img_path,frontimg_path,created_at,is_level_code,rules_pdf
+1,Archery,2,0,0,0,5,65,0,NULL,NULL,0,1,0,arrow.png,arrow.png,"2024-11-29 16:59:15",3,NULL
+2,Athletics,4,1,1,0,5,65,0,NULL,NULL,0,1,0,athletic.png,di9.png,"2024-11-29 16:59:15",1,ATHLETICS_Rules.pdf
+3,Atyapatya,2,0,0,0,5,17,1,12,NULL,0,1,0,atyapatya.png,atyapatya-w.png,"2024-11-29 16:59:15",3,NULL
+4,Badminton,2,0,1,0,5,19,0,NULL,NULL,0,1,0,badminton.png,di1.png,"2024-11-29 16:59:15",3,BADMINTON_Rules.pdf
+5,Baseball,2,0,1,1,5,65,1,18,NULL,0,1,0,base-ball.png,baseball.png,"2024-11-29 16:59:15",3,BASEBALL_Rules.pdf
+6,Basketball,5,0,0,0,5,23,1,10,NULL,0,1,0,basketball.png,basketball-w.png,"2024-11-29 16:59:15",3,BASKETBALL_Rules.pdf
+7,"Billiard & snooker",1,0,0,1,5,65,0,NULL,NULL,0,1,0,billiard.png,billiard-w.png,"2024-11-29 16:59:15",5,NULL
+8,Boxing,2,0,1,0,5,34,0,NULL,NULL,0,1,0,boxing-gloves.png,boxing-gloves.png,"2024-11-29 16:59:15",3,BOXING_Rules.pdf
+9,"Canoeing & Kayaking",1,0,0,1,5,16,0,NULL,NULL,0,1,0,man-in-canoe.png,kayaking-w.png,"2024-11-29 16:59:15",5,CANOEINGKAYAKING_Rules.pdf
+10,Chess,5,0,1,1,5,15,0,NULL,NULL,0,1,0,chess.png,chess-w.png,"2024-11-29 16:59:15",3,CHESS_Rules.pdf
+11,Cycling,5,0,1,0,12,65,0,NULL,NULL,0,1,0,bicycle.png,bicycle-w.png,"2024-11-29 16:59:15",3,CYCLING_Rules.pdf
+12,Football,3,1,1,0,5,65,1,18,NULL,0,1,0,football.png,h2-w.png,"2024-11-29 16:59:15",2,FOOTBALL_Rules.pdf
+13,Gymnastics,2,0,0,0,5,17,0,NULL,NULL,0,1,0,gymnastic.png,gymnast-w.png,"2024-11-29 16:59:15",3,GYMNASTICS_Rules.pdf
+14,Handball,5,0,1,0,5,21,1,16,NULL,0,1,0,handball.png,handball-w.png,"2024-11-29 16:59:15",3,HANDBALL_Rules.pdf
+15,Hockey,2,0,0,0,5,65,1,18,NULL,0,1,0,player.png,hockey.png,"2024-11-29 16:59:15",3,HOCKEY_Rules.pdf
+16,Judo,2,0,1,0,12,16,0,NULL,NULL,0,1,0,zudo.png,zudo-w.png,"2024-11-29 16:59:15",3,JUDO_Rules.pdf
+17,Kabaddi,4,1,1,0,5,65,1,NULL,NULL,0,1,0,kabaddi.png,di2.png,"2024-11-29 16:59:15",1,KABADDI_Rules.pdf
+18,Karate,2,0,0,0,14,65,0,NULL,NULL,0,1,0,karate.png,karate-w.png,"2024-11-29 16:59:15",3,KARATE_Rules.pdf
+19,Kho-Kho,4,1,1,0,5,65,1,15,NULL,0,1,0,koko.png,koko-w.png,"2024-11-29 16:59:15",1,KHO_KHO_Rules.pdf
+20,Kickboxing,2,0,1,0,5,15,0,NULL,NULL,0,1,0,kick.png,kick-w.png,"2024-11-29 16:59:15",3,KICKBOXING_Rules.pdf
+21,"Lawn tennis",1,0,0,1,15,65,0,NULL,NULL,0,1,0,lawn-tennis.png,lawn-tennis-w.png,"2024-11-29 16:59:15",5,LAWNTENNIS_Rules.pdf
+22,Netball,2,0,1,0,5,65,1,12,NULL,0,1,0,net-ball.png,netball.png,"2024-11-29 16:59:15",3,NULL
+23,"Power Lifting",2,0,0,0,5,23,0,NULL,NULL,0,1,0,powerlift.png,strength-w.png,"2024-11-29 16:59:15",3,POWERLIFTING_Rules.pdf
+24,"Rowing ",1,0,1,1,5,19,0,NULL,NULL,0,1,0,rowing-boat.png,rowing-boat-w.png,"2024-11-29 16:59:15",5,ROWING_Rules.pdf
+25,"Sepak Takraw",2,0,0,0,5,65,1,5,NULL,0,1,0,sepak.png,sepak-takraw.png,"2024-11-29 16:59:15",3,SEPAKTAKRAW_Rules.pdf
+26,Shooting,1,0,0,1,5,35,0,NULL,NULL,0,1,0,shooting.png,shooting-w.png,"2024-11-29 16:59:15",5,SHOOTING_Rules.pdf
+27,Softball,2,0,0,0,5,65,1,16,NULL,0,1,0,soft.png,soft-w.png,"2024-11-29 16:59:15",3,SOFTBALL_Rules.pdf
+28,"Squash ",1,0,0,1,5,65,0,NULL,NULL,0,1,0,squash.png,squash-w.png,"2024-11-29 16:59:15",5,NULL
+29,Swimming,2,0,1,0,5,17,0,NULL,NULL,0,1,0,swimming.png,swimming.png,"2024-11-29 16:59:15",3,SWIMMING_Rules.pdf
+30,"Table tennis",2,0,0,0,5,19,0,NULL,NULL,0,1,0,table-tennis.png,di3.png,"2024-11-29 16:59:15",3,TABLE_TENNIS_Rules.pdf
+31,Taekwondo,2,0,0,0,8,17,0,NULL,NULL,0,1,0,taekwondo.png,taekwondo-w.png,"2024-11-29 16:59:15",3,NULL
+32,Volleyball,4,1,1,0,5,18,1,12,NULL,0,1,0,volley.png,h1-w.png,"2024-11-29 16:59:15",1,VOLLEYBALL_Rules.pdf
+33,"Weight lifting",2,0,0,0,5,20,0,NULL,NULL,0,1,0,weightlift.png,weightlift-w.png,"2024-11-29 16:59:15",3,WEIGHTLIFTING_Rules.pdf
+34,Wrestling,2,0,1,0,15,20,0,NULL,NULL,0,1,0,wrestling.png,wrestling.png,"2024-11-29 16:59:15",3,WRESTLING_Rules.pdf
+35,Wushu,2,0,1,0,5,18,0,NULL,NULL,0,1,0,wushu.png,wushu-w.png,"2024-11-29 16:59:15",3,WUSHU_Rules.pdf
+36,Yoga,4,1,1,0,10,28,0,NULL,NULL,0,1,0,yoga.png,yoga-w.png,"2024-11-29 16:59:15",1,YOGA_Rules.pdf
+37," 
+ Para Athletics",2,0,0,0,10,65,0,NULL,NULL,0,1,1,athletic.png,di9.png,"2024-11-22 19:44:29",5,NULL
+38,"Para Volley Ball",2,0,0,0,10,65,0,NULL,NULL,0,1,1,volley.png,h1-w.png,"2024-11-22 19:44:29",5,NULL
+39,"Para Cricket",1,0,0,0,10,65,0,NULL,NULL,0,1,1,cricket-black.png,cricket.png,"2024-11-22 19:45:02",5,NULL
+40,"Wheel Chair Basket Ball",1,0,0,0,10,65,0,NULL,NULL,0,1,1,basketball-black.png,basketball.png,"2024-11-22 19:45:02",5,NULL
+41," Para Badminton",1,0,0,0,10,65,0,NULL,NULL,0,1,1,badminton-black.png,badminton.png,"2024-11-22 19:45:38",5,NULL
+42,"Para Cycling",1,0,0,0,10,65,0,NULL,NULL,0,1,1,bicycle.png,bicycle-w.png,"2024-11-22 19:45:38",5,NULL
+43,Fencing,1,0,0,0,8,14,0,NULL,NULL,0,1,0,fencing-black.png,fencing.png,"2025-12-27 16:49:04",NULL,FENCING_Rules.pdf
+44,Skating,2,0,0,0,11,17,0,NULL,NULL,0,1,0,skating-black.png,skating.png,"2025-12-27 16:55:25",NULL,SKATING_Rules.pdf

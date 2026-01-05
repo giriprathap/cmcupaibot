@@ -1,0 +1,29 @@
+
+--- Testing Query: 'i was born on 2008, please suggest some discliplanes' ---
+⚡ Initializing SQLite Data Store...
+   -> Loaded table: clustermaster (1000 rows)
+   -> Loaded table: districtmaster (34 rows)
+   -> Loaded table: mandalmaster (716 rows)
+   -> Loaded table: player_details (1000 rows)
+   -> Loaded table: tb_discipline (42 rows)
+   -> Loaded table: tb_events (361 rows)
+   -> Loaded table: tb_fixtures (635 rows)
+   -> Loaded table: tb_player_results (18 rows)
+   -> Loaded table: tb_selected_players (55 rows)
+   -> Loaded table: villagemaster (1000 rows)
+🛡️ Creating Secure SQL Views for AI...
+   -> Created View: view_player_unified
+   -> Created View: view_sport_rules
+✅ DataStore Ready!
+🤖 AI Generated SQL: SELECT DISTINCT sport_name 
+FROM view_sport_rules 
+WHERE 2025 - 2008 BETWEEN min_age AND max_age;
+Response: Based on your birth year of 2008, here are some sports and disciplines you might consider trying: 
+
+1. Cycling
+2. Karate
+3. Lawn Tennis
+4. Wrestling
+5. Yoga
+
+These activities can be fun and beneficial for your physical and mental well-being!

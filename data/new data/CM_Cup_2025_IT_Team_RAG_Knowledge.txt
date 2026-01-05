@@ -1,0 +1,194 @@
+EVENT: Chief Minister’s Cup 2025 – IT & Technical Support Team Structure
+
+SOURCE CONTEXT
+This document contains IT Team and technical support assignments for the Chief Minister’s Cup 2025. It maps Special Officers, districts, and IT / helpdesk personnel responsible for technology operations, registrations, training, and system support.
+
+PURPOSE
+The IT Team supports CM Cup 2025 operations across districts by handling:
+- Technical coordination
+- Registration systems
+- Helpdesk support
+- Training for CM Cup digital processes
+
+STRUCTURE OVERVIEW
+Each district is mapped to:
+- A Special Officer (overall administrative responsibility)
+- Assigned IT / Technical team members
+- Helpdesk and Training personnel for CM Cup systems
+
+DISTRICT-WISE IT SUPPORT MAPPING (SUMMARY)
+- District: Hanumakonda
+  Special Officer: A.N.K. Gokul, Admin
+  IT Team Member(s): Sai Kumar -9000032636
+  Helpdesk / Training Support: Ramakanth - 7097791010 (Manager)  
+Srinivas P - 8977329139
+
+- District: Mahabubabad
+  Special Officer: A.N.K. Gokul, Admin
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Mulugu
+  Special Officer: A.N.K. Gokul, Admin
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Jangaon
+  Special Officer: Abdul Shafi
+  IT Team Member(s): Sekhar- 9381763226
+  Helpdesk / Training Support: Not specified
+
+- District: Jayashankar Bhupalpally
+  Special Officer: Abdul Shafi
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Warangal
+  Special Officer: Abdul Shafi
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Jogulamba Gadwal
+  Special Officer: Dr. D.S. Ravi Teja
+  IT Team Member(s): Ramakanth - 7097791010
+  Helpdesk / Training Support: Not specified
+
+- District: Mahabubnagar
+  Special Officer: Dr. D.S. Ravi Teja
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Nagarkurnool
+  Special Officer: Dr. D.S. Ravi Teja
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Narayanpet
+  Special Officer: Dr. D.S. Ravi Teja
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Wanaparthy
+  Special Officer: Dr. D.S. Ravi Teja
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Medak
+  Special Officer: Dr. Ravi Kumar, Admin
+  IT Team Member(s): Srinivas P - 8977329139
+  Helpdesk / Training Support: Not specified
+
+- District: Sangareddy
+  Special Officer: Dr. Ravi Kumar, Admin
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Siddipet
+  Special Officer: Dr. Ravi Kumar, Admin
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Nalgonda
+  Special Officer: K Anitha, AO
+  IT Team Member(s): Bhuvana- 9063661575
+  Helpdesk / Training Support: Not specified
+
+- District: Suryapet
+  Special Officer: K Anitha, AO
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Yadadri Bhuvanagiri
+  Special Officer: K Anitha, AO
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Bhadradri Kothagudem
+  Special Officer: K. Rajaveeru, Admin
+  IT Team Member(s): Venkata Swamy- 9440369528
+  Helpdesk / Training Support: Lavanya - 863958429 (Manager)  
+Shyam-   7382921734 
+
+- District: Khammam
+  Special Officer: K. Rajaveeru, Admin
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Kamareddy
+  Special Officer: M. Santhosh Chary, Swimming
+  IT Team Member(s): K Sai Kiran- 9966245372
+  Helpdesk / Training Support: Not specified
+
+- District: Nizamabad
+  Special Officer: M. Santhosh Chary, Swimming
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Jagithyal
+  Special Officer: Omkar Nath Yadav, Boxing
+  IT Team Member(s): Mahesh- 8185045918
+  Helpdesk / Training Support: Not specified
+
+- District: Karimnagar
+  Special Officer: Omkar Nath Yadav, Boxing
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Peddapalli
+  Special Officer: Omkar Nath Yadav, Boxing
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Rajanna Sircilla
+  Special Officer: Omkar Nath Yadav, Boxing
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Medchal-malkajgiri
+  Special Officer: S. Padmavathi
+  IT Team Member(s): Durga -9121402766
+  Helpdesk / Training Support: Not specified
+
+- District: Rangareddy
+  Special Officer: S. Padmavathi
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Vikarabad
+  Special Officer: S. Padmavathi
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Hyderabad
+  Special Officer: Satish Reddy, Gymnastic Coach
+  IT Team Member(s): Shyam- 7382921734 
+ Lavanya - 863958429
+  Helpdesk / Training Support: Not specified
+
+- District: Adilabad
+  Special Officer: V. Sujatha
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Kumuram bheem (asifabad)
+  Special Officer: V. Sujatha
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Mancherial
+  Special Officer: V. Sujatha
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+- District: Nirmal
+  Special Officer: V. Sujatha
+  IT Team Member(s): Not specified
+  Helpdesk / Training Support: Not specified
+
+PRIVACY & USAGE NOTES
+- Mobile numbers are operational data and should not be exposed in public chatbot responses.
+- This document is intended for internal coordination, responsibility mapping, and answering governance/operations-related queries.
+
+RAG USAGE RECOMMENDATIONS
+- Suitable for queries related to IT support, technical responsibility, district-wise system ownership, and operational escalation.
+- Avoid responding with personal contact numbers unless explicitly authorized.

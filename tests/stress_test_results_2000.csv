@@ -1,0 +1,82 @@
+id,query,success,response_text,source,latency_sec,error
+1,What  is  the  Sports  Authority  of  Telangana  State  (SATS)?,True,"### 🏅 Sports at State Level
+- Archery
+- Atyapatya
+- Badminton
+- Baseball
+- Basketball
+- Boxing
+- Chess
+- Cycling
+- Gymnastics
+- Handball
+- Hockey
+- Judo
+- Karate
+- Kickboxing
+- Netball
+- Power Lifting
+- Sepak Takraw
+- Softball
+- Swimming
+- Table tennis
+- Taekwondo
+- Weight lifting
+- Wrestling
+- Wushu
+",sql_database,2.04,
+2,What  is  the  mission  of  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.37,
+3,Where  is  the  SATS  headquarters  located?,True,"{'response': 'The Sports Authority of Telangana (SATG) headquarters is located at L.B. Stadium, Basheerbagh, Hyderabad -- 500001, Telangana, India.', 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.1,
+4,Who  is  the  current  chairman  of  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.59,
+5,What  are  the  main  functions  of  SATS?,True,"{'response': ""The main functions of the Sports Authority of Telangana (SATG) include:\n\n1. **Promoting and Developing Sports**: SATG is responsible for promoting, developing, and managing sports infrastructure and athletic talent in Telangana.\n\n2. **Talent Identification and Training**: The organization conducts sports and games to identify talent, provide professional training, and prepare athletes for state, national, and international competitions.\n\n3. **Collaboration with Sports Associa",rag_knowledge_base,10.92,
+6,How  does  SATS  promote  inclusivity  in  sports?,True,"{'response': ""SATG promotes inclusivity in sports by ensuring that facilities are accessible to everyone, regardless of age, caste, race, gender, or ability. They provide focused support for para-athletes and individuals with intellectual disabilities through dedicated training, access to equipment, and competition pathways. The 'Easy Access Scheme' simplifies documentation and procedural requirements for para-athletes. Additionally, SATG actively promotes women's participation in sports through",rag_knowledge_base,4.81,
+7,What  is  the  vision  of  SATS  for  Telangana?,True,"🎯 **Vision 2025:**
+
+To identify rural talent and nurture them into world-class athletes for the upcoming Olympics and National Games.",static_knowledge,2.05,
+8,How  is  SATS  structured  at  the  district  and  mandal  levels?,True,"{'response': 'At the district level, the Sports Authority of Telangana (SATG) is managed by District Sports Officers who are responsible for hosting district-level CM Cup and conducting sports-specific assessments focused on advanced talent discovery.\n\nAt the mandal level, the Mandal Sports Authority is responsible for hosting the Mandal-level Annual CM Cup and other mandal-level tournaments. The governance structure at both levels is designed to strengthen local sports governance and talent s",rag_knowledge_base,6.22,
+9,What  legal  framework  governs  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,6.05,
+10,How  does  SATS  collaborate  with  other  organizations?,True,"{'response': 'SATG collaborates with various organizations through several key initiatives:\n\n1. **Sports Associations and Federations**: SATG works with recognized sports associations and National Sports Federations (NSFs) to develop a consolidated Annual Tournament Calendar for the state, aligning it with national and regional event schedules.\n\n2. **Training Programs**: SATG partners with sports associations to enhance training programs at YISA (Youth and Indian Sports Academy) and facilita",rag_knowledge_base,8.48,
+11,What  is  the  Chief  Minister’s  Cup?,True,The Hon'ble Chief Minister of Telangana and Sports Minister is **Sri A. Revanth Reddy**.,static_knowledge,2.02,
+12,How  can  I  register  for  the  Chief  Minister’s  Cup  2025?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.34,
+13,What  sports  disciplines  are  included  in  the  Chief  Minister’s  Cup?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.97,
+14,When  will  the  cluster-level  competitions  for  CM’s  Cup  2025  be  held?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.99,
+15,What  is  the  Summer  Coaching  Camp?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.58,
+16,How  do  I  register  for  the  Summer  Coaching  Camp?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.44,
+17,Are  there  free  coaching  options  for  para-athletes?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.52,
+18,What  is  the  Santosh  Trophy?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.53,
+19,How  does  SATS  integrate  with  Khelo  India  programs?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.51,
+20,What  are  the  eligibility  criteria  for  SATS  schemes?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.35,
+21,Which  sports  disciplines  are  supported  by  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.61,
+22,Are  para-sports  included  in  SATS  programs?,True,"{'response': ""Yes, para-sports are included in SATG's programs. The Sports Authority of Telangana ensures inclusivity in sports by making facilities accessible to all, including para-athletes and individuals with intellectual disabilities. They provide focused support through dedicated training, equipment access, and competition pathways for para-athletes."", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.69,
+23,Can  I  get  coaching  in  martial  arts  through  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.55,
+24,Is  yoga  training  available  at  SATS  centers?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.38,
+25,What  facilities  are  available  for  swimming?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.46,
+26,What  major  events  does  SATS  organize  annually?,True,"{'response': ""SATG organizes the annual Chief Minister's Cup (CM Cup) as a major event. This event is part of their efforts to cultivate a vibrant sports culture across Telangana and provides a structured platform for young athletes to showcase their talent. Additionally, SATG may also host other local tournaments to promote wider participation and visibility in sports."", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.0,
+27,Where  can  I  find  the  schedule  for  upcoming  tournaments?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.99,
+28,How  can  I  view  the  medal  tally  for  CM’s  Cup?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.79,
+29,Are  there  events  for  para-athletes?,True,"{'response': 'Yes, there are several events for para-athletes, including:\n\n- Shot Put\n- Javelin Throw\n- Discus Throw\n- Long Jump\n- High Jump\n- 100m\n- 200m\n- 400m\n\nThese events fall under the sport of Para Athletics.', 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.49,
+30,How  do  I  register  for  an  upcoming  event?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.33,
+31,How  do  I  become  a  regular  trainee  at  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.16,
+32,What  are  the  fees  for  regular  training  programs?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.2,
+33,Can  I  register  for  multiple  disciplines?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.39,
+34,Are  there  special  coaching  programs  for  women  and  youth?,True,"{'response': 'Yes, there are special coaching programs aimed at boosting female representation in competitive sports. Additionally, the overall framework includes pathways for continued education and skill development, which can benefit youth athletes as well. The initiatives focus on creating an inclusive environment for both women and youth in sports.', 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.76,
+35,What  is  the  process  for  coach  approval  in  trainee  registration?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.63,
+36,Does  SATS  provide  scholarships  to  athletes?,True,"{'response': 'Yes, SATG provides scholarships to athletes pursuing education, in collaboration with YIPESU and other universities, supporting both their athletic and academic growth.', 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.55,
+37,How  can  I  apply  for  an  athlete  scholarship?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.08,
+38,What  awards  are  given  to  outstanding  athletes?,True,"{'response': 'The awards given to outstanding athletes include:\n\n1. Outstanding Performance in Sports - Male\n2. Outstanding Performance in Sports - Female\n3. Outstanding Performance in Para-Sports/Special Games\n4. Excellence in Coaching\n5. Excellence in Sports Journalism\n6. Promotion of Sports - School/Department\n7. Promotion of Sports - Corporate\n8. Lifetime Achievement in Sports/Promotion of Sports\n\nAll awards will be presented on the proposed State Sports Day, with clear guidelines",rag_knowledge_base,5.45,
+39,Who  are  some  notable  SATS  awardees?,True,"🏆 **Cash Awards:**
+
+- Olympic Gold: **₹2 Cr**
+- Silver: **₹1 Cr**
+- Bronze: **₹50 Lakhs**",static_knowledge,2.06,
+40,Are  there  support  programs  for  para-athletes?,True,"{'response': ""Yes, there are support programs for para-athletes. The Sports Authority of Telangana (SATG) ensures inclusivity in sports by providing focused support for para-athletes and individuals with intellectual disabilities. This includes dedicated training, access to equipment, and competition pathways. Additionally, an 'Easy Access Scheme' is in place to simplify documentation and procedural requirements for para-athletes."", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.75,
+41,What  major  sports  venues  are  managed  by  SATS?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.59,
+42,How  can  I  book  a  stadium  or  sports  facility?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.56,
+43,What  facilities  are  available  at  LB  Stadium?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.52,
+44,Are  there  accessible  facilities  for  para-athletes?,True,"{'response': 'Yes, there are accessible facilities for para-athletes. The infrastructure will be developed based on principles of sustainability and universal accessibility, ensuring that all facilities remain accessible to a wide range of users, including para-athletes. Additionally, dedicated time slots will be reserved in facilities for the training of para-athletes.', 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,4.27,
+45,Can  I  view  the  gallery  of  SATS  venues?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.48,
+46,How  do  I  register  for  SATS  programs  online?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.76,
+47,Is  there  a  mobile  app  for  SATS  registration?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.37,
+48,How  do  I  verify  my  payment  for  registration?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.64,
+49,What  categories  are  available  for  registration?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.52,
+50,Can  I  download  my  digital  receipt  after  payment?,True,"{'response': ""I don't have that information. Please go to this website https://satg.telangana.gov.in/cmcup/"", 'model_used': 'gpt-4o-mini-2024-07-18'}",rag_knowledge_base,3.47,

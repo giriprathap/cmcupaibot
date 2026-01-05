@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "topic": "General",
+        "question": "Who is the CM of Telangana?",
+        "language": "English"
+    },
+    {
+        "id": 2,
+        "topic": "General",
+        "question": "Telangana ka CM kaun hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 3,
+        "topic": "General",
+        "question": "Telangana CM evaru?",
+        "language": "Telugu"
+    },
+    {
+        "id": 4,
+        "topic": "Policy",
+        "question": "What is the sports policy of Telangana?",
+        "language": "English"
+    },
+    {
+        "id": 5,
+        "topic": "Policy",
+        "question": "Telangana ki sports policy kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 6,
+        "topic": "Policy",
+        "question": "Telangana kreeda vidhanam emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 7,
+        "topic": "Locations",
+        "question": "Which district does Charminar belong to?",
+        "language": "English"
+    },
+    {
+        "id": 8,
+        "topic": "Locations",
+        "question": "Charminar kis zile mein hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 9,
+        "topic": "Locations",
+        "question": "Charminar ee jilla lo undi?",
+        "language": "Telugu"
+    },
+    {
+        "id": 10,
+        "topic": "Fixtures",
+        "question": "When is Match ID 24 scheduled?",
+        "language": "English"
+    },
+    {
+        "id": 11,
+        "topic": "Fixtures",
+        "question": "Match ID 24 kab hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 12,
+        "topic": "Fixtures",
+        "question": "Match ID 24 eppudu jaruguthundi?",
+        "language": "Telugu"
+    },
+    {
+        "id": 13,
+        "topic": "General",
+        "question": "Contact number for helpdesk",
+        "language": "English"
+    },
+    {
+        "id": 14,
+        "topic": "General",
+        "question": "Helpdesk ka number kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 15,
+        "topic": "General",
+        "question": "Helpdesk number emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 16,
+        "topic": "Events",
+        "question": "What is the schedule for Kabaddi?",
+        "language": "English"
+    },
+    {
+        "id": 17,
+        "topic": "Events",
+        "question": "Kabaddi ka schedule kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 18,
+        "topic": "Events",
+        "question": "Kabaddi schedule emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 19,
+        "topic": "Policy",
+        "question": "Incentives for coaches?",
+        "language": "English"
+    },
+    {
+        "id": 20,
+        "topic": "Policy",
+        "question": "Coaches ke liye kya incentives hain?",
+        "language": "Hindi"
+    },
+    {
+        "id": 21,
+        "topic": "Policy",
+        "question": "Coaches ki incentives emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 22,
+        "topic": "Locations",
+        "question": "Is Warangal a registered district?",
+        "language": "English"
+    },
+    {
+        "id": 23,
+        "topic": "Locations",
+        "question": "Kya Warangal ek registered zila hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 24,
+        "topic": "Locations",
+        "question": "Warangal oka registered jilla na?",
+        "language": "Telugu"
+    },
+    {
+        "id": 25,
+        "topic": "Events",
+        "question": "List all events for Wrestling.",
+        "language": "English"
+    },
+    {
+        "id": 26,
+        "topic": "Events",
+        "question": "Wrestling ke saare events batao.",
+        "language": "Hindi"
+    },
+    {
+        "id": 27,
+        "topic": "Events",
+        "question": "Wrestling ki sambandinchina anni events cheppandi.",
+        "language": "Telugu"
+    },
+    {
+        "id": 28,
+        "topic": "General",
+        "question": "Address of the main stadium",
+        "language": "English"
+    },
+    {
+        "id": 29,
+        "topic": "General",
+        "question": "Main stadium ka pata kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 30,
+        "topic": "General",
+        "question": "Main stadium address emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 31,
+        "topic": "Fixtures",
+        "question": "Who is playing in Match ID 55?",
+        "language": "English"
+    },
+    {
+        "id": 32,
+        "topic": "Fixtures",
+        "question": "Match ID 55 mein kaun khel raha hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 33,
+        "topic": "Fixtures",
+        "question": "Match ID 55 lo evaru aduthunnaru?",
+        "language": "Telugu"
+    },
+    {
+        "id": 34,
+        "topic": "Policy",
+        "question": "Reservation policy for athletes?",
+        "language": "English"
+    },
+    {
+        "id": 35,
+        "topic": "Policy",
+        "question": "Athletes ke liye reservation policy kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 36,
+        "topic": "Policy",
+        "question": "Athletes kosam reservation policy emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 37,
+        "topic": "Locations",
+        "question": "Details for Karimnagar district.",
+        "language": "English"
+    },
+    {
+        "id": 38,
+        "topic": "Locations",
+        "question": "Karimnagar zile ki details.",
+        "language": "Hindi"
+    },
+    {
+        "id": 39,
+        "topic": "Locations",
+        "question": "Karimnagar jilla vivaralu.",
+        "language": "Telugu"
+    },
+    {
+        "id": 40,
+        "topic": "General",
+        "question": "What is the CM Cup?",
+        "language": "English"
+    },
+    {
+        "id": 41,
+        "topic": "General",
+        "question": "CM Cup kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 42,
+        "topic": "General",
+        "question": "CM Cup ante emiti?",
+        "language": "Telugu"
+    },
+    {
+        "id": 43,
+        "topic": "Events",
+        "question": "Venue for Athletics matches?",
+        "language": "English"
+    },
+    {
+        "id": 44,
+        "topic": "Events",
+        "question": "Athletics matches ka venue kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 45,
+        "topic": "Events",
+        "question": "Athletics matches jarige pradesham edhi?",
+        "language": "Telugu"
+    },
+    {
+        "id": 46,
+        "topic": "Policy",
+        "question": "What is the cash award for Olympic Gold?",
+        "language": "English"
+    },
+    {
+        "id": 47,
+        "topic": "Policy",
+        "question": "Olympic Gold ke liye cash award kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 48,
+        "topic": "Policy",
+        "question": "Olympic Gold ki cash award entha?",
+        "language": "Telugu"
+    },
+    {
+        "id": 49,
+        "topic": "General",
+        "question": "Registration process for CM Cup",
+        "language": "English"
+    },
+    {
+        "id": 50,
+        "topic": "General",
+        "question": "CM Cup ke liye registration process kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 51,
+        "topic": "General",
+        "question": "CM Cup registration elaa cheyyali?",
+        "language": "Telugu"
+    },
+    {
+        "id": 52,
+        "topic": "Fixtures",
+        "question": "When is Match ID 78 scheduled?",
+        "language": "English"
+    },
+    {
+        "id": 53,
+        "topic": "Fixtures",
+        "question": "Match ID 78 kab hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 54,
+        "topic": "Fixtures",
+        "question": "Match ID 78 eppudu?",
+        "language": "Telugu"
+    },
+    {
+        "id": 55,
+        "topic": "Locations",
+        "question": "Is Hyderabad a district?",
+        "language": "English"
+    },
+    {
+        "id": 56,
+        "topic": "Locations",
+        "question": "Kya Hyderabad ek zila hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 57,
+        "topic": "Locations",
+        "question": "Hyderabad oka jilla na?",
+        "language": "Telugu"
+    },
+    {
+        "id": 58,
+        "topic": "Policy",
+        "question": "What is the budget for infrastructure?",
+        "language": "English"
+    },
+    {
+        "id": 59,
+        "topic": "Policy",
+        "question": "Infrastructure ka budget kya hai?",
+        "language": "Hindi"
+    },
+    {
+        "id": 60,
+        "topic": "Policy",
+        "question": "Infrastructure budget entha?",
+        "language": "Telugu"
+    }
+]

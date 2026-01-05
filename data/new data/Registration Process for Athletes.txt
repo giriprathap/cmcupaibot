@@ -1,0 +1,34 @@
+Registration Process for Athletes
+
+Step 1: Visit the official website: https://satg.telangana.gov.in/ 
+
+Step 2: Click on the "Online Services" tab and select "CM’s CUP" from the dropdown menu. 
+
+Step 3: Click on the "Register" button. 
+
+Step 4: Enter your Mobile Number and the Captcha code displayed on the screen. 
+
+Step 5: Enter the OTP sent to your mobile number.
+
+Detail: The OTP is valid for 10 minutes.
+
+Sample Message: "CMCUP2025 Registration OTP is: 546897. It’s valid for 10 minutes. - CMs CUP 2025 :: TG-SAT (SMS)" 
+
+Step 6: Fill in the Player Details in the registration form and upload the required documents.
+
+Mandatory: Submission of an Aadhaar number and Aadhaar Document is compulsory.
+
+
+Note: Athletes can register for multiple disciplines and events. 
+
+Step 7: Recheck all player details in the Preview screen before confirming. 
+
+Step 8: A Player Acknowledgement is generated on the screen. 
+
+Step 9: An SMS Notification is sent to the registered mobile number confirming the registration.
+
+Sample Message: "Dear Participant, you have successfully registered for the CM's CUP 2025. Ref. No is : SATGCM25-1234 for further reference purpose." 
+
+Step 10: Download the Acknowledgement Receipt.
+
+You can download it using your Registered Mobile Number or Reference Number at: https://satg.telangana.gov.in/cmcup/downloadack

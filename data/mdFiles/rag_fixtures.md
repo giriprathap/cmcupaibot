@@ -1,0 +1,637 @@
+# Tournament Fixtures / Schedule
+
+- **Match Unknown** (ID: 1) is scheduled for **Day-1** at **08:00 AM**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Medak**.
+- **Match Unknown** (ID: 2) is scheduled for **Day-1** at **08:00 AM**. Venue: Unknown. Teams: **Nizamabad** vs **Wanaparthy**.
+- **Match Unknown** (ID: 3) is scheduled for **Day-1** at **08:00 AM**. Venue: Unknown. Teams: **Karimnagar** vs **Jangaon**.
+- **Match Unknown** (ID: 4) is scheduled for **Day-1** at **08:00 AM**. Venue: Unknown. Teams: **Ranga reddy** vs **Narayanpet**.
+- **Match Unknown** (ID: 5) is scheduled for **Day-1** at **09:00 AM**. Venue: Unknown. Teams: **Hyderabad** vs **Warangal**.
+- **Match Unknown** (ID: 6) is scheduled for **Day-1** at **09:00 AM**. Venue: Unknown. Teams: **Siddipet** vs **Vikarabad**.
+- **Match Unknown** (ID: 7) is scheduled for **Day-1** at **09:00 AM**. Venue: Unknown. Teams: **Hanumakonda** vs **Nalgonda**.
+- **Match Unknown** (ID: 8) is scheduled for **Day-1** at **09:00 AM**. Venue: Unknown. Teams: **Adilabad** vs **Ranga reddy**.
+- **Match Unknown** (ID: 9) is scheduled for **Day-1** at **10:00 AM**. Venue: Unknown. Teams: **Mahabubnagar** vs **Khammam**.
+- **Match Unknown** (ID: 10) is scheduled for **Day-1** at **10:00 AM**. Venue: Unknown. Teams: **Warangal** vs **Nalgonda**.
+- **Match Unknown** (ID: 11) is scheduled for **Day-1** at **10:00 AM**. Venue: Unknown. Teams: **Adilabad** vs **Bhadradri kothagudem**.
+- **Match Unknown** (ID: 12) is scheduled for **Day-1** at **10:00 AM**. Venue: Unknown. Teams: **Hyderabad** vs **Peddapalli**.
+- **Match Unknown** (ID: 13) is scheduled for **Day-1** at **11:00 AM**. Venue: Unknown. Teams: **Nizamabad** vs **Nirmal**.
+- **Match Unknown** (ID: 14) is scheduled for **Day-1** at **11:00 AM**. Venue: Unknown. Teams: **Khammam** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 15) is scheduled for **Day-1** at **11:00 AM**. Venue: Unknown. Teams: **Kamareddy** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 16) is scheduled for **Day-1** at **11:00 AM**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Mulugu**.
+- **Match Unknown** (ID: 17) is scheduled for **Day-1** at **12:00 PM**. Venue: Unknown. Teams: **Suryapet** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 18) is scheduled for **Day-1** at **12:00 PM**. Venue: Unknown. Teams: **Nizamabad** vs **Nirmal**.
+- **Match Unknown** (ID: 19) is scheduled for **Day-1** at **12:00 PM**. Venue: Unknown. Teams: **Karimnagar** vs **Vikarabad**.
+- **Match Unknown** (ID: 20) is scheduled for **Day-1** at **12:00 PM**. Venue: Unknown. Teams: **Ranga reddy** vs **Nagarkurnool**.
+- **Match Unknown** (ID: 21) is scheduled for **Day-1** at **01:00 PM**. Venue: Unknown. Teams: **Hyderabad** vs **Narayanpet**.
+- **Match Unknown** (ID: 22) is scheduled for **Day-1** at **01:00 PM**. Venue: Unknown. Teams: **Siddipet** vs **Suryapet**.
+- **Match Unknown** (ID: 23) is scheduled for **Day-1** at **01:00 PM**. Venue: Unknown. Teams: **Hanumakonda** vs **Karimnagar**.
+- **Match Unknown** (ID: 24) is scheduled for **Day-1** at **01:00 PM**. Venue: Unknown. Teams: **Adilabad** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 25) is scheduled for **Day-1** at **03:00 PM**. Venue: Unknown. Teams: **Mahabubnagar** vs **Yadadri bhuvanagiri**.
+- **Match Unknown** (ID: 26) is scheduled for **Day-1** at **03:00 PM**. Venue: Unknown. Teams: **Warangal** vs **Jagithyal**.
+- **Match Unknown** (ID: 27) is scheduled for **Day-1** at **03:00 PM**. Venue: Unknown. Teams: **Adilabad** vs **Sangareddy**.
+- **Match Unknown** (ID: 28) is scheduled for **Day-1** at **03:00 PM**. Venue: Unknown. Teams: **Hyderabad** vs **Hanumakonda**.
+- **Match Unknown** (ID: 29) is scheduled for **Day-1** at **04:00 PM**. Venue: Unknown. Teams: **Nizamabad** vs **Mancherial**.
+- **Match Unknown** (ID: 30) is scheduled for **Day-1** at **04:00 PM**. Venue: Unknown. Teams: **Khammam** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 31) is scheduled for **Day-1** at **04:00 PM**. Venue: Unknown. Teams: **Kamareddy** vs **Yadadri bhuvanagiri**.
+- **Match Unknown** (ID: 32) is scheduled for **Day-1** at **04:00 PM**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Sangareddy**.
+- **Match Unknown** (ID: 33) is scheduled for **Day-1** at **05:00 PM**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 34) is scheduled for **Day-1** at **05:00 PM**. Venue: Unknown. Teams: **Nizamabad** vs **Kamareddy**.
+- **Match Unknown** (ID: 35) is scheduled for **Day-1** at **05:00 PM**. Venue: Unknown. Teams: **Karimnagar** vs **Rajanna sircilla**.
+- **Match Unknown** (ID: 36) is scheduled for **Day-1** at **05:00 PM**. Venue: Unknown. Teams: **Ranga reddy** vs **Mancherial**.
+- **Match Unknown** (ID: 37) is scheduled for **Day-2** at **08:00 AM**. Venue: Unknown. Teams: **Hyderabad** vs **Peddapalli**.
+- **Match Unknown** (ID: 38) is scheduled for **Day-2** at **08:00 AM**. Venue: Unknown. Teams: **Siddipet** vs **Wanaparthy**.
+- **Match Unknown** (ID: 39) is scheduled for **Day-2** at **08:00 AM**. Venue: Unknown. Teams: **Hanumakonda** vs **Mahabubabad**.
+- **Match Unknown** (ID: 40) is scheduled for **Day-2** at **08:00 AM**. Venue: Unknown. Teams: **Adilabad** vs **Mahabubnagar**.
+- **Match Unknown** (ID: 41) is scheduled for **Day-2** at **09:00 AM**. Venue: Unknown. Teams: **Mahabubnagar** vs **Mahabubabad**.
+- **Match Unknown** (ID: 42) is scheduled for **Day-2** at **09:00 AM**. Venue: Unknown. Teams: **Warangal** vs **Jogulamba gadwal**.
+- **Match Unknown** (ID: 43) is scheduled for **Day-2** at **09:00 AM**. Venue: Unknown. Teams: **Adilabad** vs **Mulugu**.
+- **Match Unknown** (ID: 44) is scheduled for **Day-2** at **09:00 AM**. Venue: Unknown. Teams: **Hyderabad** vs **Siddipet**.
+- **Match Unknown** (ID: 45) is scheduled for **Day-2** at **10:00 AM**. Venue: Unknown. Teams: **Nizamabad** vs **Jogulamba gadwal**.
+- **Match Unknown** (ID: 46) is scheduled for **Day-2** at **10:00 AM**. Venue: Unknown. Teams: **Khammam** vs **Nagarkurnool**.
+- **Match Unknown** (ID: 47) is scheduled for **Day-2** at **10:00 AM**. Venue: Unknown. Teams: **Kamareddy** vs **Jagithyal**.
+- **Match Unknown** (ID: 48) is scheduled for **Day-2** at **10:00 AM**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Medak**.
+- **Match Unknown** (ID: 49) is scheduled for **Day-2** at **11:00 AM**. Venue: Unknown. Teams: **Medak** vs **Suryapet**.
+- **Match Unknown** (ID: 50) is scheduled for **Day-2** at **11:00 AM**. Venue: Unknown. Teams: **Wanaparthy** vs **Nirmal**.
+- **Match Unknown** (ID: 51) is scheduled for **Day-2** at **11:00 AM**. Venue: Unknown. Teams: **Jangaon** vs **Vikarabad**.
+- **Match Unknown** (ID: 52) is scheduled for **Day-2** at **11:00 AM**. Venue: Unknown. Teams: **Narayanpet** vs **Nagarkurnool**.
+- **Match Unknown** (ID: 53) is scheduled for **Day-2** at **12:00 PM**. Venue: Unknown. Teams: **Warangal** vs **Narayanpet**.
+- **Match Unknown** (ID: 54) is scheduled for **Day-2** at **12:00 PM**. Venue: Unknown. Teams: **Vikarabad** vs **Suryapet**.
+- **Match Unknown** (ID: 55) is scheduled for **Day-2** at **12:00 PM**. Venue: Unknown. Teams: **Nalgonda** vs **Karimnagar**.
+- **Match Unknown** (ID: 56) is scheduled for **Day-2** at **12:00 PM**. Venue: Unknown. Teams: **Ranga reddy** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 57) is scheduled for **Day-2** at **01:00 PM**. Venue: Unknown. Teams: **Khammam** vs **Yadadri bhuvanagiri**.
+- **Match Unknown** (ID: 58) is scheduled for **Day-2** at **01:00 PM**. Venue: Unknown. Teams: **Nalgonda** vs **Jagithyal**.
+- **Match Unknown** (ID: 59) is scheduled for **Day-2** at **01:00 PM**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Sangareddy**.
+- **Match Unknown** (ID: 60) is scheduled for **Day-2** at **01:00 PM**. Venue: Unknown. Teams: **Peddapalli** vs **Hanumakonda**.
+- **Match Unknown** (ID: 61) is scheduled for **Day-2** at **03:00 PM**. Venue: Unknown. Teams: **Nirmal** vs **Mancherial**.
+- **Match Unknown** (ID: 62) is scheduled for **Day-2** at **03:00 PM**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 63) is scheduled for **Day-2** at **03:00 PM**. Venue: Unknown. Teams: **Jangaon** vs **Yadadri bhuvanagiri**.
+- **Match Unknown** (ID: 64) is scheduled for **Day-2** at **03:00 PM**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Bhadradri kothagudem**.
+- **Match Unknown** (ID: 65) is scheduled for **Day-2** at **04:00 PM**. Venue: Unknown. Teams: **Medak** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 66) is scheduled for **Day-2** at **04:00 PM**. Venue: Unknown. Teams: **Wanaparthy** vs **Kamareddy**.
+- **Match Unknown** (ID: 67) is scheduled for **Day-2** at **04:00 PM**. Venue: Unknown. Teams: **Jangaon** vs **Rajanna sircilla**.
+- **Match Unknown** (ID: 68) is scheduled for **Day-2** at **04:00 PM**. Venue: Unknown. Teams: **Narayanpet** vs **Mancherial**.
+- **Match Unknown** (ID: 69) is scheduled for **Day-2** at **05:00 PM**. Venue: Unknown. Teams: **Warangal** vs **Peddapalli**.
+- **Match Unknown** (ID: 70) is scheduled for **Day-2** at **05:00 PM**. Venue: Unknown. Teams: **Vikarabad** vs **Wanaparthy**.
+- **Match Unknown** (ID: 71) is scheduled for **Day-2** at **05:00 PM**. Venue: Unknown. Teams: **Nalgonda** vs **Mahabubabad**.
+- **Match Unknown** (ID: 72) is scheduled for **Day-2** at **05:00 PM**. Venue: Unknown. Teams: **Ranga reddy** vs **Mahabubnagar**.
+- **Match Unknown** (ID: 73) is scheduled for **Day-3** at **08:00 AM**. Venue: Unknown. Teams: **Khammam** vs **Mahabubabad**.
+- **Match Unknown** (ID: 74) is scheduled for **Day-3** at **08:00 AM**. Venue: Unknown. Teams: **Nalgonda** vs **Jogulamba gadwal**.
+- **Match Unknown** (ID: 75) is scheduled for **Day-3** at **08:00 AM**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Mulugu**.
+- **Match Unknown** (ID: 76) is scheduled for **Day-3** at **08:00 AM**. Venue: Unknown. Teams: **Peddapalli** vs **Siddipet**.
+- **Match Unknown** (ID: 77) is scheduled for **Day-3** at **09:00 AM**. Venue: Unknown. Teams: **Nirmal** vs **Jogulamba gadwal**.
+- **Match Unknown** (ID: 78) is scheduled for **Day-3** at **09:00 AM**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Narayanpet**.
+- **Match Unknown** (ID: 79) is scheduled for **Day-3** at **09:00 AM**. Venue: Unknown. Teams: **Jangaon** vs **Jagithyal**.
+- **Match Unknown** (ID: 80) is scheduled for **Day-3** at **09:00 AM**. Venue: Unknown. Teams: **Mulugu** vs **Sangareddy**.
+- **Match Unknown** (ID: 81) is scheduled for **Day-3** at **10:00 AM**. Venue: Unknown. Teams: **Medak** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 82) is scheduled for **Day-3** at **10:00 AM**. Venue: Unknown. Teams: **Nirmal** vs **Kamareddy**.
+- **Match Unknown** (ID: 83) is scheduled for **Day-3** at **10:00 AM**. Venue: Unknown. Teams: **Vikarabad** vs **Rajanna sircilla**.
+- **Match Unknown** (ID: 84) is scheduled for **Day-3** at **10:00 AM**. Venue: Unknown. Teams: **Nagarkurnool** vs **Mancherial**.
+- **Match Unknown** (ID: 85) is scheduled for **Day-3** at **11:00 AM**. Venue: Unknown. Teams: **Peddapalli** vs **Narayanpet**.
+- **Match Unknown** (ID: 86) is scheduled for **Day-3** at **11:00 AM**. Venue: Unknown. Teams: **Wanaparthy** vs **Suryapet**.
+- **Match Unknown** (ID: 87) is scheduled for **Day-3** at **11:00 AM**. Venue: Unknown. Teams: **Karimnagar** vs **Mahabubabad**.
+- **Match Unknown** (ID: 88) is scheduled for **Day-3** at **11:00 AM**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Mahabubnagar**.
+- **Match Unknown** (ID: 89) is scheduled for **Day-3** at **12:00 PM**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Suryapet**.
+- **Match Unknown** (ID: 90) is scheduled for **Day-3** at **12:00 PM**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 91) is scheduled for **Day-3** at **12:00 PM**. Venue: Unknown. Teams: **Mulugu** vs **Medak**.
+- **Match Unknown** (ID: 92) is scheduled for **Day-3** at **12:00 PM**. Venue: Unknown. Teams: **Sangareddy** vs **Bhadradri kothagudem**.
+- **Match Unknown** (ID: 93) is scheduled for **Day-3** at **03:00 PM**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 94) is scheduled for **Day-3** at **03:00 PM**. Venue: Unknown. Teams: **Suryapet** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 95) is scheduled for **Day-3** at **03:00 PM**. Venue: Unknown. Teams: **Mulugu** vs **Bhadradri kothagudem**.
+- **Match Unknown** (ID: 96) is scheduled for **Day-3** at **03:00 PM**. Venue: Unknown. Teams: **Sangareddy** vs **Medak**.
+- **Match 1** (ID: 102) is scheduled for **Day-1** at **07:00**. Venue: Venue 1. Teams: **Hyderabad** vs **Hanumakonda**.
+- **Match 2** (ID: 103) is scheduled for **Day 1** at **08:20**. Venue: Venue 1. Teams: **Jagithyal** vs **Bhadradri kothagudem**.
+- **Match 1** (ID: 104) is scheduled for **Day- 1** at **07:00**. Venue: Venue- 1. Teams: **Khammam** vs **Vikarabad**.
+- **Match 2** (ID: 105) is scheduled for **Day- 1** at **08:10**. Venue: Venue- 1. Teams: **Jogulamba gadwal** vs **Peddapalli**.
+- **Match 4** (ID: 106) is scheduled for **Day-1** at **11:00**. Venue: Venue 1. Teams: **Ranga reddy** vs **Jayashankar bhupalpally**.
+- **Match 5** (ID: 107) is scheduled for **Day 1** at **12:20**. Venue: Venue. Teams: **Wanaparthy** vs **Mahabubabad**.
+- **Match 4** (ID: 108) is scheduled for **Day- 1** at **10:30**. Venue: Venue- 1. Teams: **Hanumakonda** vs **Rajanna sircilla**.
+- **Match 6** (ID: 109) is scheduled for **Day 1** at **01:40**. Venue: Venue 1. Teams: **Nalgonda** vs **Mancherial**.
+- **Match 5** (ID: 110) is scheduled for **Day- 1** at **11:40**. Venue: Venue- 1. Teams: **Kumuram bheem (asifabad)** vs **Mahabubnagar**.
+- **Match 7** (ID: 111) is scheduled for **Day 1** at **03:00**. Venue: Venue 1. Teams: **Mulugu** vs **Peddapalli**.
+- **Match 8** (ID: 112) is scheduled for **Day 1** at **09:40**. Venue: Venue 1. Teams: **Sangareddy** vs **Jangaon**.
+- **Match 6** (ID: 113) is scheduled for **Day- 1** at **12:50**. Venue: Venue- 1. Teams: **Nalgonda** vs **Jagithyal**.
+- **Match 9** (ID: 114) is scheduled for **Day 1** at **05:30**. Venue: Venue 1. Teams: **Nagarkurnool** vs **Jogulamba gadwal**.
+- **Match 7** (ID: 115) is scheduled for **Day- 1** at **14:00**. Venue: Venue- 1. Teams: **Mulugu** vs **Nagarkurnool**.
+- **Match 8** (ID: 116) is scheduled for **Day- 1** at **09:20**. Venue: Venue- 1. Teams: **Siddipet** vs **Jangaon**.
+- **Match 1** (ID: 117) is scheduled for **Day 1** at **07:00**. Venue: Venue 2. Teams: **Kamareddy** vs **Vikarabad**.
+- **Match 2** (ID: 118) is scheduled for **Day 1** at **08:20**. Venue: Venue 2. Teams: **Yadadri bhuvanagiri** vs **Adilabad**.
+- **Match 9** (ID: 119) is scheduled for **Day- 1** at **16:20**. Venue: Venue- 1. Teams: **Medak** vs **Karimnagar**.
+- **Match 3** (ID: 120) is scheduled for **Day 1** at **09:40**. Venue: Venue 2. Teams: **Karimnagar** vs **Suryapet**.
+- **Match 1** (ID: 121) is scheduled for **Day- 1** at **07:00**. Venue: Venue- 2. Teams: **Kamareddy** vs **Bhadradri kothagudem**.
+- **Match 4** (ID: 122) is scheduled for **Day 1** at **11:00**. Venue: Venue 2. Teams: **Siddipet** vs **Nizamabad**.
+- **Match 2** (ID: 123) is scheduled for **Day- 1** at **08:10**. Venue: Venue- 2. Teams: **Jayashankar bhupalpally** vs **Medchal-malkajgiri**.
+- **Match 5** (ID: 124) is scheduled for **Day 1** at **12:20**. Venue: Venue 2. Teams: **Mahabubnagar** vs **Warangal**.
+- **Match 6** (ID: 125) is scheduled for **Day 1** at **01:40**. Venue: Venue 6. Teams: **Kumuram bheem (asifabad)** vs **Khammam**.
+- **Match 3** (ID: 126) is scheduled for **Day- 1** at **09:20**. Venue: Venue- 2. Teams: **Sangareddy** vs **Mancherial**.
+- **Match 7** (ID: 127) is scheduled for **Day 1** at **03:00**. Venue: Venue 2. Teams: **Medak** vs **Narayanpet**.
+- **Match 4** (ID: 128) is scheduled for **Day- 1** at **10:30**. Venue: Venue- 2. Teams: **Adilabad** vs **Suryapet**.
+- **Match 8** (ID: 129) is scheduled for **Day 1** at **04:20**. Venue: Venue 2. Teams: **Nirmal** vs **Medchal-malkajgiri**.
+- **Match 5** (ID: 130) is scheduled for **Day- 1** at **11:40**. Venue: Venue-2. Teams: **Nizamabad** vs **Mahabubabad**.
+- **Match 6** (ID: 131) is scheduled for **Day- 1** at **12:50**. Venue: Venue- 2. Teams: **Nirmal** vs **Ranga reddy**.
+- **Match 7** (ID: 132) is scheduled for **Day- 1** at **14:00**. Venue: Venue- 2. Teams: **Wanaparthy** vs **Warangal**.
+- **Match 8** (ID: 133) is scheduled for **Day- 1** at **15:10**. Venue: Venue- 2. Teams: **Yadadri bhuvanagiri** vs **Hyderabad**.
+- **Match Unknown** (ID: 135) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Karimnagar**.
+- **Match Unknown** (ID: 136) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Mulugu**.
+- **Match Unknown** (ID: 137) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Hyderabad**.
+- **Match Unknown** (ID: 138) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Kamareddy**.
+- **Match Unknown** (ID: 139) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Wanaparthy**.
+- **Match Unknown** (ID: 140) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Wanaparthy**.
+- **Match Unknown** (ID: 141) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Warangal**.
+- **Match Unknown** (ID: 142) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Hanumakonda**.
+- **Match Unknown** (ID: 143) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Hanumakonda**.
+- **Match Unknown** (ID: 144) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 145) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 146) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Jangaon**.
+- **Match Unknown** (ID: 147) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Mulugu**.
+- **Match Unknown** (ID: 148) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Mahabubabad**.
+- **Match Unknown** (ID: 149) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Nagarkurnool**.
+- **Match Unknown** (ID: 150) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Hyderabad**.
+- **Match Unknown** (ID: 151) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Khammam**.
+- **Match Unknown** (ID: 152) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Hyderabad**.
+- **Match Unknown** (ID: 153) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Kamareddy**.
+- **Match Unknown** (ID: 154) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 155) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Nizamabad**.
+- **Match Unknown** (ID: 156) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Ranga reddy**.
+- **Match Unknown** (ID: 157) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Nizamabad**.
+- **Match Unknown** (ID: 158) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 159) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Wanaparthy**.
+- **Match Unknown** (ID: 160) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Warangal**.
+- **Match Unknown** (ID: 161) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Nalgonda**.
+- **Match Unknown** (ID: 162) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Siddipet**.
+- **Match Unknown** (ID: 163) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Hanumakonda**.
+- **Match Unknown** (ID: 164) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Karimnagar**.
+- **Match Unknown** (ID: 165) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Medchal-malkajgiri**.
+- **Match Unknown** (ID: 166) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Mulugu**.
+- **Match Unknown** (ID: 167) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Karimnagar**.
+- **Match Unknown** (ID: 168) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Jangaon**.
+- **Match Unknown** (ID: 169) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Siddipet**.
+- **Match Unknown** (ID: 170) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 171) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Peddapalli**.
+- **Match Unknown** (ID: 172) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Mahabubabad**.
+- **Match Unknown** (ID: 173) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Hyderabad**.
+- **Match Unknown** (ID: 174) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Kumuram bheem (asifabad)**.
+- **Match Unknown** (ID: 175) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Ranga reddy**.
+- **Match Unknown** (ID: 176) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Nizamabad**.
+- **Match Unknown** (ID: 177) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Nalgonda**.
+- **Match Unknown** (ID: 178) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Peddapalli**.
+- **Match Unknown** (ID: 179) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Kamareddy**.
+- **Match Unknown** (ID: 180) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Medak**.
+- **Match Unknown** (ID: 181) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Karimnagar**.
+- **Match Unknown** (ID: 182) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Siddipet**.
+- **Match Unknown** (ID: 183) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Jayashankar bhupalpally**.
+- **Match Unknown** (ID: 184) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Mahabubabad**.
+- **Match Unknown** (ID: 185) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Jangaon**.
+- **Match Unknown** (ID: 186) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Mulugu**.
+- **Match Unknown** (ID: 187) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nagarkurnool**.
+- **Match Unknown** (ID: 188) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Khammam**.
+- **Match Unknown** (ID: 189) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Nalgonda**.
+- **Match Unknown** (ID: 190) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Peddapalli**.
+- **Match Unknown** (ID: 191) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Kamareddy**.
+- **Match Unknown** (ID: 192) is scheduled for **Unknown** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Medak**.
+- **Match W-1** (ID: 193) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Kumuram bheem (asifabad)**.
+- **Match W-2** (ID: 194) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Jayashankar bhupalpally**.
+- **Match M-1** (ID: 195) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Wanaparthy**.
+- **Match W-3** (ID: 196) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Suryapet**.
+- **Match M-2** (ID: 197) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Kumuram bheem (asifabad)**.
+- **Match W-4** (ID: 198) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Hanumakonda**.
+- **Match M-3** (ID: 199) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Jayashankar bhupalpally**.
+- **Match M-4** (ID: 200) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Yadadri bhuvanagiri**.
+- **Match W-5** (ID: 201) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Mahabubabad**.
+- **Match M-5** (ID: 202) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Vikarabad**.
+- **Match W-6** (ID: 203) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Jogulamba gadwal**.
+- **Match M-6** (ID: 204) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Nagarkurnool**.
+- **Match M-7** (ID: 205) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Hanumakonda**.
+- **Match W-7** (ID: 206) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Nirmal**.
+- **Match M-8** (ID: 207) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Narayanpet**.
+- **Match M-9** (ID: 208) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Nirmal**.
+- **Match W-8** (ID: 209) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Yadadri bhuvanagiri**.
+- **Match M-10** (ID: 210) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Kamareddy**.
+- **Match W-9** (ID: 211) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Narayanpet**.
+- **Match M-11** (ID: 212) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Mahabubabad**.
+- **Match M-12** (ID: 213) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Bhadradri kothagudem**.
+- **Match M-13** (ID: 214) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Mulugu**.
+- **Match M-14** (ID: 215) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Suryapet**.
+- **Match M-15** (ID: 216) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Mancherial**.
+- **Match M-16** (ID: 217) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Adilabad**.
+- **Match M-17** (ID: 218) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Kamareddy**.
+- **Match W-10** (ID: 219) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Peddapalli**.
+- **Match M-18** (ID: 220) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nirmal**.
+- **Match M-19** (ID: 221) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Mahabubabad**.
+- **Match W-11** (ID: 222) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Vikarabad**.
+- **Match M-20** (ID: 223) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Bhadradri kothagudem**.
+- **Match W-12** (ID: 224) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mancherial** vs **Medak**.
+- **Match M-21** (ID: 225) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Mulugu**.
+- **Match W-13** (ID: 226) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Wanaparthy**.
+- **Match M-22** (ID: 227) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Suryapet**.
+- **Match W-14** (ID: 228) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Medchal-malkajgiri**.
+- **Match W-15** (ID: 229) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Jangaon**.
+- **Match M-23** (ID: 230) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Narayanpet**.
+- **Match M-24** (ID: 231) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Mancherial**.
+- **Match W-16** (ID: 232) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Mulugu**.
+- **Match M-25** (ID: 233) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Adilabad**.
+- **Match M-26** (ID: 234) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Kamareddy**.
+- **Match M-27** (ID: 235) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Wanaparthy**.
+- **Match W-17** (ID: 236) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Nirmal**.
+- **Match M-28** (ID: 237) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Kumuram bheem (asifabad)**.
+- **Match M-29** (ID: 238) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Jayashankar bhupalpally**.
+- **Match W-18** (ID: 239) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Peddapalli**.
+- **Match M-30** (ID: 240) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Yadadri bhuvanagiri**.
+- **Match M-31** (ID: 241) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Vikarabad**.
+- **Match W-19** (ID: 242) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Vikarabad**.
+- **Match M-32** (ID: 243) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Narayanpet**.
+- **Match M-33** (ID: 244) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Nagarkurnool**.
+- **Match W-20** (ID: 245) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Medak**.
+- **Match M-34** (ID: 246) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Hanumakonda**.
+- **Match W-21** (ID: 247) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Wanaparthy**.
+- **Match W-22** (ID: 248) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Medchal-malkajgiri**.
+- **Match W-23** (ID: 249) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Narayanpet**.
+- **Match M-35** (ID: 250) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Nalgonda**.
+- **Match W-24** (ID: 251) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Narayanpet**.
+- **Match M-36** (ID: 252) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Wanaparthy**.
+- **Match M-37** (ID: 253) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Kumuram bheem (asifabad)**.
+- **Match W-25** (ID: 254) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Jangaon**.
+- **Match M-38** (ID: 255) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Jayashankar bhupalpally**.
+- **Match W-26** (ID: 256) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Mulugu**.
+- **Match M-39** (ID: 257) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Yadadri bhuvanagiri**.
+- **Match M-40** (ID: 258) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Suryapet** vs **Vikarabad**.
+- **Match W-27** (ID: 259) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nirmal**.
+- **Match M-41** (ID: 260) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mancherial** vs **Nagarkurnool**.
+- **Match M-42** (ID: 261) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Hanumakonda**.
+- **Match W-28** (ID: 262) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Kumuram bheem (asifabad)**.
+- **Match M-43** (ID: 263) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Nalgonda**.
+- **Match W-29** (ID: 264) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Jayashankar bhupalpally**.
+- **Match M-44** (ID: 265) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Rajanna sircilla**.
+- **Match W-30** (ID: 266) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mancherial** vs **Suryapet**.
+- **Match M-45** (ID: 267) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Jangaon**.
+- **Match M-46** (ID: 268) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Sangareddy**.
+- **Match W-31** (ID: 269) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Hanumakonda**.
+- **Match M-47** (ID: 270) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Medchal-malkajgiri**.
+- **Match M-48** (ID: 271) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Jogulamba gadwal**.
+- **Match W-32** (ID: 272) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Mahabubabad**.
+- **Match M-49** (ID: 273) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Jagithyal**.
+- **Match W-33** (ID: 274) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Jogulamba gadwal**.
+- **Match M-50** (ID: 275) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Peddapalli**.
+- **Match W-34** (ID: 276) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Yadadri bhuvanagiri**.
+- **Match M-51** (ID: 277) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Narayanpet**.
+- **Match M-52** (ID: 278) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Karimnagar**.
+- **Match W-35** (ID: 279) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Rajanna sircilla**.
+- **Match W-36** (ID: 280) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Kumuram bheem (asifabad)**.
+- **Match W-37** (ID: 281) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Vikarabad** vs **Jayashankar bhupalpally**.
+- **Match W-38** (ID: 282) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Suryapet**.
+- **Match W-39** (ID: 283) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Hanumakonda**.
+- **Match W-40** (ID: 284) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Mahabubabad**.
+- **Match W-41** (ID: 285) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Jogulamba gadwal**.
+- **Match W-42** (ID: 286) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Yadadri bhuvanagiri**.
+- **Match W-43** (ID: 287) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Rajanna sircilla**.
+- **Match W-44** (ID: 288) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Sangareddy**.
+- **Match W-45** (ID: 289) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Siddipet**.
+- **Match W-46** (ID: 290) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Mancherial**.
+- **Match W-47** (ID: 291) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Bhadradri kothagudem**.
+- **Match W-48** (ID: 292) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Mahabubnagar**.
+- **Match W-49** (ID: 293) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Jagithyal**.
+- **Match W-50** (ID: 294) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Nagarkurnool**.
+- **Match W-51** (ID: 295) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Narayanpet**.
+- **Match W-52** (ID: 296) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Kamareddy**.
+- **Match M-1** (ID: 297) is scheduled for **DAY-1** at **8:00**. Venue: Unknown. Teams: **Khammam** vs **Nalgonda**.
+- **Match M-2** (ID: 298) is scheduled for **DAY-1** at **9:30**. Venue: Unknown. Teams: **Karimnagar** vs **Ranga reddy**.
+- **Match M-3** (ID: 299) is scheduled for **DAY-1** at **11:00**. Venue: Unknown. Teams: **Warangal** vs **Mahabubnagar**.
+- **Match M-4** (ID: 300) is scheduled for **DAY-1** at **13:00**. Venue: Unknown. Teams: **Nizamabad** vs **Adilabad**.
+- **Match M-5** (ID: 301) is scheduled for **DAY-1** at **14:30**. Venue: Unknown. Teams: **Hyderabad** vs **Nalgonda**.
+- **Match M-6** (ID: 302) is scheduled for **DAY-1** at **16:00**. Venue: Unknown. Teams: **Medak** vs **Ranga reddy**.
+- **Match M-1** (ID: 303) is scheduled for **DAY-2** at **7:00**. Venue: Unknown. Teams: **Khammam** vs **Warangal**.
+- **Match M-2** (ID: 304) is scheduled for **DAY-2** at **8:30**. Venue: Unknown. Teams: **Karimnagar** vs **Adilabad**.
+- **Match M-3** (ID: 305) is scheduled for **DAY-2** at **10:00**. Venue: Unknown. Teams: **Hyderabad** vs **Mahabubnagar**.
+- **Match M-4** (ID: 306) is scheduled for **DAY-2** at **11:30**. Venue: Unknown. Teams: **Medak** vs **Nizamabad**.
+- **Match M-5** (ID: 307) is scheduled for **DAY-2** at **13:00**. Venue: Unknown. Teams: **Nalgonda** vs **Warangal**.
+- **Match M-6** (ID: 308) is scheduled for **DAY-2** at **14:30**. Venue: Unknown. Teams: **Ranga reddy** vs **Adilabad**.
+- **Match Court-1** (ID: 309) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Mancherial**.
+- **Match M-7** (ID: 310) is scheduled for **DAY-2** at **16:00**. Venue: Unknown. Teams: **Mahabubnagar** vs **Khammam**.
+- **Match Court-1** (ID: 311) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Vikarabad**.
+- **Match Court-1** (ID: 312) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Nagarkurnool**.
+- **Match Court-1** (ID: 313) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Yadadri bhuvanagiri**.
+- **Match M-1** (ID: 314) is scheduled for **DAY-3** at **7:00**. Venue: Unknown. Teams: **Karimnagar** vs **Medak**.
+- **Match M-2** (ID: 315) is scheduled for **DAY-3** at **8:30**. Venue: Unknown. Teams: **Hyderabad** vs **Warangal**.
+- **Match M-3** (ID: 316) is scheduled for **DAY-3** at **10:00**. Venue: Unknown. Teams: **Ranga reddy** vs **Nizamabad**.
+- **Match M-4** (ID: 317) is scheduled for **DAY-3** at **11:30**. Venue: Unknown. Teams: **Nalgonda** vs **Mahabubnagar**.
+- **Match Court-1** (ID: 318) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nirmal**.
+- **Match Court-1** (ID: 319) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Suryapet**.
+- **Match M-5** (ID: 320) is scheduled for **DAY-3** at **13:00**. Venue: Unknown. Teams: **Medak** vs **Adilabad**.
+- **Match M-6** (ID: 321) is scheduled for **DAY-3** at **14:30**. Venue: Unknown. Teams: **Hyderabad** vs **Khammam**.
+- **Match Court-1** (ID: 322) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Yadadri bhuvanagiri**.
+- **Match M-7** (ID: 323) is scheduled for **DAY-3** at **16:00**. Venue: Unknown. Teams: **Karimnagar** vs **Nizamabad**.
+- **Match Court-1** (ID: 324) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Jangaon**.
+- **Match Court-1** (ID: 325) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Narayanpet**.
+- **Match Court-1** (ID: 326) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Sangareddy**.
+- **Match Court-1** (ID: 327) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Bhadradri kothagudem**.
+- **Match Court-1** (ID: 328) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Kamareddy**.
+- **Match Court-1** (ID: 329) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Karimnagar**.
+- **Match Court-1** (ID: 330) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Peddapalli**.
+- **Match Court-1** (ID: 331) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Jangaon**.
+- **Match Court-1** (ID: 332) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Karimnagar**.
+- **Match Court-1** (ID: 333) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Jogulamba gadwal**.
+- **Match M-1** (ID: 334) is scheduled for **DAY-1** at **7:00**. Venue: Unknown. Teams: **Medak** vs **Nalgonda**.
+- **Match Court-1** (ID: 335) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Kamareddy**.
+- **Match Court-1** (ID: 336) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Nagarkurnool**.
+- **Match M-2** (ID: 337) is scheduled for **DAY-1** at **8:00**. Venue: Unknown. Teams: **Karimnagar** vs **Ranga reddy**.
+- **Match Court-1** (ID: 338) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Wanaparthy**.
+- **Match M-3** (ID: 339) is scheduled for **DAY-1** at **9:00**. Venue: Unknown. Teams: **Warangal** vs **Mahabubnagar**.
+- **Match M-4** (ID: 340) is scheduled for **DAY-1** at **10:00**. Venue: Unknown. Teams: **Nizamabad** vs **Adilabad**.
+- **Match M-5** (ID: 341) is scheduled for **DAY-1** at **11:00**. Venue: Unknown. Teams: **Hyderabad** vs **Nalgonda**.
+- **Match Court-2** (ID: 342) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Suryapet**.
+- **Match M-6** (ID: 343) is scheduled for **DAY-1** at **12:00**. Venue: Unknown. Teams: **Khammam** vs **Ranga reddy**.
+- **Match Court-2** (ID: 344) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Nirmal**.
+- **Match Court-2** (ID: 345) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Vikarabad**.
+- **Match M-7** (ID: 346) is scheduled for **DAY-1** at **1:00**. Venue: Unknown. Teams: **Medak** vs **Warangal**.
+- **Match Court-2** (ID: 347) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Mancherial**.
+- **Match Court-2** (ID: 348) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Medak**.
+- **Match M-8** (ID: 349) is scheduled for **DAY-1** at **2:00**. Venue: Unknown. Teams: **Karimnagar** vs **Adilabad**.
+- **Match Court-2** (ID: 350) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Jagithyal**.
+- **Match Court-2** (ID: 351) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Wanaparthy**.
+- **Match M-9** (ID: 352) is scheduled for **DAY-1** at **3:00**. Venue: Unknown. Teams: **Hyderabad** vs **Mahabubnagar**.
+- **Match Court-2** (ID: 353) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Narayanpet**.
+- **Match M-10** (ID: 354) is scheduled for **DAY-1** at **4:00**. Venue: Unknown. Teams: **Khammam** vs **Nizamabad**.
+- **Match Court-2** (ID: 355) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Nizamabad**.
+- **Match Court-2** (ID: 356) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Jogulamba gadwal**.
+- **Match M-1** (ID: 357) is scheduled for **DAY-2** at **7:00**. Venue: Unknown. Teams: **Nalgonda** vs **Warangal**.
+- **Match Court-2** (ID: 358) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Jayashankar bhupalpally**.
+- **Match M-12** (ID: 359) is scheduled for **DAY-2** at **8:00**. Venue: Unknown. Teams: **Ranga reddy** vs **Adilabad**.
+- **Match Court-2** (ID: 360) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Adilabad**.
+- **Match M-13** (ID: 361) is scheduled for **DAY-2** at **9:00**. Venue: Unknown. Teams: **Mahabubnagar** vs **Medak**.
+- **Match Court-2** (ID: 362) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Khammam**.
+- **Match Court-2** (ID: 363) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Jayashankar bhupalpally**.
+- **Match M-14** (ID: 364) is scheduled for **DAY-2** at **10:00**. Venue: Unknown. Teams: **Karimnagar** vs **Khammam**.
+- **Match Court-2** (ID: 365) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Mancherial**.
+- **Match M-15** (ID: 366) is scheduled for **DAY-2** at **11:00**. Venue: Unknown. Teams: **Hyderabad** vs **Warangal**.
+- **Match Court-2** (ID: 367) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Kamareddy**.
+- **Match Court-2** (ID: 368) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Nagarkurnool**.
+- **Match M-16** (ID: 369) is scheduled for **DAY-2** at **12:00**. Venue: Unknown. Teams: **Ranga reddy** vs **Nizamabad**.
+- **Match Court-2** (ID: 370) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Vikarabad** vs **Wanaparthy**.
+- **Match M-17** (ID: 371) is scheduled for **DAY-2** at **1:00**. Venue: Unknown. Teams: **Nalgonda** vs **Mahabubnagar**.
+- **Match Court-2** (ID: 372) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Jagithyal**.
+- **Match Court-2** (ID: 373) is scheduled for **Day-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Bhadradri kothagudem**.
+- **Match M-18** (ID: 374) is scheduled for **DAY-2** at **2:00**. Venue: Unknown. Teams: **Khammam** vs **Adilabad**.
+- **Match Court-1** (ID: 375) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Sangareddy**.
+- **Match M-19** (ID: 376) is scheduled for **DAY-2** at **3:00**. Venue: Unknown. Teams: **Hyderabad** vs **Medak**.
+- **Match Court-1** (ID: 377) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Siddipet**.
+- **Match Court-1** (ID: 378) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Kumuram bheem (asifabad)**.
+- **Match M-20** (ID: 379) is scheduled for **DAY-2** at **4:00**. Venue: Unknown. Teams: **Karimnagar** vs **Nizamabad**.
+- **Match Court-1** (ID: 380) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Kumuram bheem (asifabad)**.
+- **Match Court-1** (ID: 381) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Adilabad**.
+- **Match Court-1** (ID: 382) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Hanumakonda**.
+- **Match Court-1** (ID: 383) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Rajanna sircilla**.
+- **Match Court-1** (ID: 384) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Rajanna sircilla**.
+- **Match Court-1** (ID: 385) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Jayashankar bhupalpally**.
+- **Match Court-1** (ID: 386) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Medak**.
+- **Match Court-1** (ID: 387) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Mahabubnagar**.
+- **Match Court-1** (ID: 388) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Khammam**.
+- **Match Court-1** (ID: 389) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Mulugu**.
+- **Match Court-1** (ID: 390) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Jogulamba gadwal**.
+- **Match Court-1** (ID: 391) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Vikarabad** vs **Nalgonda**.
+- **Match Court-1** (ID: 392) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Wanaparthy**.
+- **Match Court-1** (ID: 393) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Suryapet**.
+- **Match Court-1** (ID: 394) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Nirmal**.
+- **Match Court-1** (ID: 395) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Vikarabad**.
+- **Match Court-1** (ID: 396) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Suryapet** vs **Mancherial**.
+- **Match Court-2** (ID: 397) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Medak**.
+- **Match Court-2** (ID: 398) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Jagithyal**.
+- **Match Court-2** (ID: 399) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Narayanpet** vs **Wanaparthy**.
+- **Match Court-2** (ID: 400) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Narayanpet**.
+- **Match Court-2** (ID: 401) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Nizamabad**.
+- **Match Court-2** (ID: 402) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Jogulamba gadwal**.
+- **Match Court-2** (ID: 403) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Siddipet**.
+- **Match Court-2** (ID: 404) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Adilabad**.
+- **Match Court-2** (ID: 405) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Khammam**.
+- **Match Court-2** (ID: 406) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Jayashankar bhupalpally**.
+- **Match Court-2** (ID: 407) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Jogulamba gadwal**.
+- **Match Court-2** (ID: 408) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Mancherial**.
+- **Match Court-2** (ID: 409) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Nalgonda**.
+- **Match Court-2** (ID: 410) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Wanaparthy** vs **Nagarkurnool**.
+- **Match Court-2** (ID: 411) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Jagithyal**.
+- **Match Court-2** (ID: 412) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nirmal**.
+- **Match Court-2** (ID: 413) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Vikarabad**.
+- **Match Court-2** (ID: 414) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Mancherial**.
+- **Match Court-2** (ID: 415) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Kumuram bheem (asifabad)**.
+- **Match Court-2** (ID: 416) is scheduled for **Day-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Jagithyal**.
+- **Match Court-1** (ID: 417) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Narayanpet** vs **Adilabad**.
+- **Match Court-1** (ID: 418) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Narayanpet**.
+- **Match Court-1** (ID: 419) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Rajanna sircilla**.
+- **Match Court-1** (ID: 420) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Jogulamba gadwal**.
+- **Match Court-1** (ID: 421) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Siddipet**.
+- **Match Court-1** (ID: 422) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Adilabad**.
+- **Match Court-1** (ID: 423) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Khammam**.
+- **Match Court-1** (ID: 424) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Khammam** vs **Jayashankar bhupalpally**.
+- **Match Court-1** (ID: 425) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mulugu** vs **Mancherial**.
+- **Match Court-1** (ID: 426) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Vikarabad** vs **Nagarkurnool**.
+- **Match Court-1** (ID: 427) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nagarkurnool** vs **Suryapet**.
+- **Match Court-1** (ID: 428) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Bhadradri kothagudem**.
+- **Match Court-2** (ID: 429) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Sangareddy**.
+- **Match Court-2** (ID: 430) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Suryapet** vs **Siddipet**.
+- **Match Court-2** (ID: 431) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Medak**.
+- **Match Court-2** (ID: 432) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Kumuram bheem (asifabad)**.
+- **Match Court-2** (ID: 433) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Wanaparthy**.
+- **Match Court-2** (ID: 434) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Hanumakonda**.
+- **Match Court-2** (ID: 435) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Nizamabad**.
+- **Match Court-2** (ID: 436) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Kamareddy** vs **Rajanna sircilla**.
+- **Match Court-2** (ID: 437) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Jayashankar bhupalpally**.
+- **Match Court-2** (ID: 438) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Medak**.
+- **Match Court-2** (ID: 439) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **Mahabubnagar**.
+- **Match Court-2** (ID: 440) is scheduled for **Day-3** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Jayashankar bhupalpally**.
+- **Match M-1** (ID: 446) is scheduled for **Day-1** at **07:00**. Venue: Unknown. Teams: **Nalgonda** vs **Siddipet**.
+- **Match M-2** (ID: 447) is scheduled for **Day-1** at **07:00**. Venue: Unknown. Teams: **Khammam** vs **Suryapet**.
+- **Match M-3** (ID: 449) is scheduled for **Day-1** at **07:00**. Venue: Unknown. Teams: **Narayanpet** vs **Peddapalli**.
+- **Match M-4** (ID: 450) is scheduled for **Day-1** at **07:00**. Venue: Unknown. Teams: **Ranga reddy** vs **Rajanna sircilla**.
+- **Match M-5** (ID: 452) is scheduled for **Day-1** at **07:50**. Venue: Unknown. Teams: **Kamareddy** vs **Mulugu**.
+- **Match M-15** (ID: 453) is scheduled for **Day-1** at **15:30**. Venue: Unknown. Teams: **Nagarkurnool** vs **Jogulamba gadwal**.
+- **Match M-16** (ID: 454) is scheduled for **Day-1** at **15:30**. Venue: Unknown. Teams: **Nirmal** vs **Wanaparthy**.
+- **Match M-17** (ID: 455) is scheduled for **Day-1** at **16:20**. Venue: Unknown. Teams: **Sangareddy** vs **Karimnagar**.
+- **Match M-18** (ID: 456) is scheduled for **Day-1** at **16:20**. Venue: Unknown. Teams: **Jagithyal** vs **Nizamabad**.
+- **Match M-19** (ID: 457) is scheduled for **Day-1** at **16:20**. Venue: Unknown. Teams: **Hyderabad** vs **Siddipet**.
+- **Match M-21** (ID: 458) is scheduled for **Day-1** at **17:10**. Venue: Unknown. Teams: **Kamareddy** vs **Nalgonda**.
+- **Match M-22** (ID: 459) is scheduled for **Day-1** at **17:10**. Venue: Unknown. Teams: **Khammam** vs **Kumuram bheem (asifabad)**.
+- **Match M-23** (ID: 460) is scheduled for **Day-1** at **17:10**. Venue: Unknown. Teams: **Narayanpet** vs **Yadadri bhuvanagiri**.
+- **Match M-24** (ID: 461) is scheduled for **Day-1** at **17:10**. Venue: Unknown. Teams: **Ranga reddy** vs **Mancherial**.
+- **Match M-29** (ID: 462) is scheduled for **Day-1** at **18:50**. Venue: Unknown. Teams: **Nagarkurnool** vs **Jangaon**.
+- **Match M-30** (ID: 463) is scheduled for **Day-1** at **18:50**. Venue: Unknown. Teams: **Nirmal** vs **Medak**.
+- **Match M-31** (ID: 464) is scheduled for **Day-1** at **18:50**. Venue: Unknown. Teams: **Sangareddy** vs **Mahabubnagar**.
+- **Match M-32** (ID: 465) is scheduled for **Day-1** at **18:50**. Venue: Unknown. Teams: **Jagithyal** vs **Hanumakonda**.
+- **Match M-37** (ID: 466) is scheduled for **Day-1** at **20:30**. Venue: Unknown. Teams: **Hyderabad** vs **Mulugu**.
+- **Match M-38** (ID: 467) is scheduled for **Day-1** at **20:30**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Suryapet**.
+- **Match M-39** (ID: 468) is scheduled for **Day-1** at **20:30**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Peddapalli**.
+- **Match M-40** (ID: 469) is scheduled for **Day-1** at **20:30**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Rajanna sircilla**.
+- **Match M-6** (ID: 470) is scheduled for **DAY-1** at **07:50**. Venue: Unknown. Teams: **Sangareddy** vs **Hanumakonda**.
+- **Match M-45** (ID: 472) is scheduled for **Day-2** at **08:50**. Venue: Unknown. Teams: **Adilabad** vs **Jogulamba gadwal**.
+- **Match M-46** (ID: 474) is scheduled for **Day-2** at **08:50**. Venue: Unknown. Teams: **Vikarabad** vs **Wanaparthy**.
+- **Match M-9** (ID: 475) is scheduled for **DAY-1** at **08:40**. Venue: Unknown. Teams: **Jagithyal** vs **Siddipet**.
+- **Match M-47** (ID: 476) is scheduled for **Day-2** at **08:50**. Venue: Unknown. Teams: **Warangal** vs **Karimnagar**.
+- **Match M-48** (ID: 477) is scheduled for **Day-2** at **08:50**. Venue: Unknown. Teams: **Mahabubabad** vs **Nizamabad**.
+- **Match M-7** (ID: 478) is scheduled for **DAY-1** at **07:50**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Karimnagar**.
+- **Match M-54** (ID: 479) is scheduled for **Day-2** at **10:20**. Venue: Unknown. Teams: **Kamareddy** vs **Siddipet**.
+- **Match M-8** (ID: 480) is scheduled for **DAY-1** at **07:50**. Venue: Unknown. Teams: **Nalgonda** vs **Khammam**.
+- **Match M-55** (ID: 481) is scheduled for **Day-2** at **10:20**. Venue: Unknown. Teams: **Suryapet** vs **Kumuram bheem (asifabad)**.
+- **Match M-10** (ID: 482) is scheduled for **DAY-1** at **08:40**. Venue: Unknown. Teams: **Kamareddy** vs **Jangaon**.
+- **Match M-11** (ID: 483) is scheduled for **DAY-1** at **08:40**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Mahabubabad**.
+- **Match M-12** (ID: 484) is scheduled for **DAY-1** at **08:40**. Venue: Unknown. Teams: **Nagarkurnool** vs **Kumuram bheem (asifabad)**.
+- **Match M-56** (ID: 485) is scheduled for **Day-2** at **10:20**. Venue: Unknown. Teams: **Peddapalli** vs **Yadadri bhuvanagiri**.
+- **Match M-13** (ID: 486) is scheduled for **DAY-1** at **15:30**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Mulugu**.
+- **Match M-57** (ID: 487) is scheduled for **Day-2** at **11:10**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Mancherial**.
+- **Match M-14** (ID: 488) is scheduled for **DAY-1** at **15:30**. Venue: Unknown. Teams: **Nirmal** vs **Peddapalli**.
+- **Match M-58** (ID: 489) is scheduled for **Day-2** at **11:10**. Venue: Unknown. Teams: **Mulugu** vs **Nalgonda**.
+- **Match M-20** (ID: 490) is scheduled for **DAY-1** at **16:20**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Hanumakonda**.
+- **Match M-63** (ID: 491) is scheduled for **Day-2** at **15:30**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Jangaon**.
+- **Match M-25** (ID: 492) is scheduled for **DAY-1** at **18:00**. Venue: Unknown. Teams: **Kamareddy** vs **Sangareddy**.
+- **Match M-64** (ID: 493) is scheduled for **Day-2** at **15:30**. Venue: Unknown. Teams: **Wanaparthy** vs **Medak**.
+- **Match M-26** (ID: 494) is scheduled for **DAY-1** at **18:00**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Suryapet**.
+- **Match M-65** (ID: 495) is scheduled for **Day-2** at **16:20**. Venue: Unknown. Teams: **Karimnagar** vs **Mahabubnagar**.
+- **Match M-27** (ID: 496) is scheduled for **DAY-1** at **18:00**. Venue: Unknown. Teams: **Nalgonda** vs **Medak**.
+- **Match M-66** (ID: 497) is scheduled for **Day-2** at **16:20**. Venue: Unknown. Teams: **Nizamabad** vs **Hanumakonda**.
+- **Match M-28** (ID: 498) is scheduled for **DAY-1** at **06:00**. Venue: Unknown. Teams: **Jagithyal** vs **Bhadradri kothagudem**.
+- **Match M-71** (ID: 499) is scheduled for **Day-2** at **17:10**. Venue: Unknown. Teams: **Hyderabad** vs **Kamareddy**.
+- **Match M-72** (ID: 500) is scheduled for **Day-2** at **17:10**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Khammam**.
+- **Match M-73** (ID: 501) is scheduled for **Day-2** at **18:00**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Narayanpet**.
+- **Match M-74** (ID: 502) is scheduled for **Day-2** at **18:00**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Ranga reddy**.
+- **Match M-83** (ID: 503) is scheduled for **Day-2** at **19:40**. Venue: Unknown. Teams: **Adilabad** vs **Nagarkurnool**.
+- **Match M-84** (ID: 504) is scheduled for **Day-2** at **19:40**. Venue: Unknown. Teams: **Vikarabad** vs **Nirmal**.
+- **Match M-85** (ID: 505) is scheduled for **Day-2** at **08:30**. Venue: Unknown. Teams: **Warangal** vs **Sangareddy**.
+- **Match M-86** (ID: 506) is scheduled for **Day-2** at **08:30**. Venue: Unknown. Teams: **Mahabubabad** vs **Jagithyal**.
+- **Match M-87** (ID: 507) is scheduled for **Day-2** at **08:30**. Venue: Unknown. Teams: **Mulugu** vs **Siddipet**.
+- **Match M-89** (ID: 508) is scheduled for **Day-3** at **07:30**. Venue: Unknown. Teams: **Adilabad** vs **Jangaon**.
+- **Match M-90** (ID: 509) is scheduled for **Day-3** at **07:30**. Venue: Unknown. Teams: **Vikarabad** vs **Medak**.
+- **Match M-91** (ID: 510) is scheduled for **Day-3** at **07:30**. Venue: Unknown. Teams: **Warangal** vs **Mahabubnagar**.
+- **Match M-92** (ID: 511) is scheduled for **Day-3** at **07:30**. Venue: Unknown. Teams: **Mahabubabad** vs **Hanumakonda**.
+- **Match M-101** (ID: 512) is scheduled for **Day-3** at **10:20**. Venue: Unknown. Teams: **Hyderabad** vs **Nalgonda**.
+- **Match M-102** (ID: 513) is scheduled for **Day-3** at **10:20**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Kumuram bheem (asifabad)**.
+- **Match M-103** (ID: 514) is scheduled for **Day-3** at **10:20**. Venue: Unknown. Teams: **Bhadradri kothagudem** vs **Yadadri bhuvanagiri**.
+- **Match M-104** (ID: 515) is scheduled for **Day-3** at **10:20**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Mancherial**.
+- **Match M-33** (ID: 516) is scheduled for **Day-1** at **19:40**. Venue: Unknown. Teams: **Jogulamba gadwal** vs **Vikarabad**.
+- **Match M-34** (ID: 517) is scheduled for **Day-1** at **19:40**. Venue: Unknown. Teams: **Nagarkurnool** vs **Warangal**.
+- **Match M-35** (ID: 518) is scheduled for **Day-1** at **19:40**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Mahabubnagar**.
+- **Match M-36** (ID: 519) is scheduled for **Day-1** at **19:40**. Venue: Unknown. Teams: **Nirmal** vs **Jayashankar bhupalpally**.
+- **Match M-41** (ID: 520) is scheduled for **DAY-2** at **07:30**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Jangaon**.
+- **Match M-42** (ID: 521) is scheduled for **DAY-2** at **07:30**. Venue: Unknown. Teams: **Hyderabad** vs **Karimnagar**.
+- **Match M-43** (ID: 522) is scheduled for **DAY-2** at **07:30**. Venue: Unknown. Teams: **Nizamabad** vs **Khammam**.
+- **Match M-44** (ID: 523) is scheduled for **DAY-2** at **07:30**. Venue: Unknown. Teams: **Adilabad** vs **Siddipet**.
+- **Match M-49** (ID: 524) is scheduled for **DAY-2** at **09:40**. Venue: Unknown. Teams: **Mancherial** vs **Mahabubabad**.
+- **Match M-50** (ID: 525) is scheduled for **DAY-2** at **09:40**. Venue: Unknown. Teams: **Wanaparthy** vs **Kumuram bheem (asifabad)**.
+- **Match M-51** (ID: 526) is scheduled for **DAY-2** at **09:40**. Venue: Unknown. Teams: **Ranga reddy** vs **Mulugu**.
+- **Match M-52** (ID: 527) is scheduled for **DAY-2** at **09:40**. Venue: Unknown. Teams: **Narayanpet** vs **Peddapalli**.
+- **Match M-53** (ID: 528) is scheduled for **DAY-2** at **10:20**. Venue: Unknown. Teams: **Kamareddy** vs **Hanumakonda**.
+- **Match M-59** (ID: 529) is scheduled for **DAY-2** at **11:10**. Venue: Unknown. Teams: **Karimnagar** vs **Suryapet**.
+- **Match M-60** (ID: 530) is scheduled for **DAY-2** at **11:10**. Venue: Unknown. Teams: **Khammam** vs **Medak**.
+- **Match M-61** (ID: 531) is scheduled for **DAY-2** at **15:30**. Venue: Unknown. Teams: **Siddipet** vs **Bhadradri kothagudem**.
+- **Match M-62** (ID: 532) is scheduled for **DAY-2** at **15:30**. Venue: Unknown. Teams: **Jangaon** vs **Sangareddy**.
+- **Match M-67** (ID: 533) is scheduled for **DAY-2** at **16:20**. Venue: Unknown. Teams: **Mahabubabad** vs **Vikarabad**.
+- **Match M-68** (ID: 534) is scheduled for **DAY-2** at **16:20**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Warangal**.
+- **Match M-69** (ID: 535) is scheduled for **DAY-2** at **17:10**. Venue: Unknown. Teams: **Mulugu** vs **Mahabubnagar**.
+- **Match M-70** (ID: 536) is scheduled for **DAY-2** at **17:10**. Venue: Unknown. Teams: **Peddapalli** vs **Jayashankar bhupalpally**.
+- **Match M-75** (ID: 537) is scheduled for **DAY-2** at **18:00**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Kamareddy**.
+- **Match M-76** (ID: 538) is scheduled for **DAY-2** at **18:00**. Venue: Unknown. Teams: **Hyderabad** vs **Rajanna sircilla**.
+- **Match M-77** (ID: 539) is scheduled for **DAY-2** at **18:50**. Venue: Unknown. Teams: **Nizamabad** vs **Nalgonda**.
+- **Match M-78** (ID: 540) is scheduled for **DAY-2** at **06:50**. Venue: Unknown. Teams: **Adilabad** vs **Jagithyal**.
+- **Match M-79** (ID: 541) is scheduled for **DAY-2** at **18:50**. Venue: Unknown. Teams: **Mancherial** vs **Jogulamba gadwal**.
+- **Match M-80** (ID: 542) is scheduled for **DAY-2** at **18:50**. Venue: Unknown. Teams: **Wanaparthy** vs **Nagarkurnool**.
+- **Match M-81** (ID: 543) is scheduled for **DAY-2** at **19:40**. Venue: Unknown. Teams: **Ranga reddy** vs **Medchal-malkajgiri**.
+- **Match M-82** (ID: 544) is scheduled for **DAY-2** at **19:40**. Venue: Unknown. Teams: **Narayanpet** vs **Nirmal**.
+- **Match M-88** (ID: 545) is scheduled for **DAY-2** at **08:30**. Venue: Unknown. Teams: **Jangaon** vs **Hanumakonda**.
+- **Match M-93** (ID: 546) is scheduled for **DAY-3** at **08:50**. Venue: Unknown. Teams: **Mancherial** vs **Vikarabad**.
+- **Match M-94** (ID: 547) is scheduled for **DAY-3** at **08:50**. Venue: Unknown. Teams: **Wanaparthy** vs **Warangal**.
+- **Match M-95** (ID: 548) is scheduled for **DAY-3** at **08:50**. Venue: Unknown. Teams: **Ranga reddy** vs **Mahabubnagar**.
+- **Match M-96** (ID: 549) is scheduled for **DAY-3** at **08:50**. Venue: Unknown. Teams: **Narayanpet** vs **Jayashankar bhupalpally**.
+- **Match M-97** (ID: 550) is scheduled for **DAY-3** at **09:40**. Venue: Unknown. Teams: **Yadadri bhuvanagiri** vs **Sangareddy**.
+- **Match M-98** (ID: 551) is scheduled for **DAY-3** at **09:40**. Venue: Unknown. Teams: **Hyderabad** vs **Suryapet**.
+- **Match M-99** (ID: 552) is scheduled for **DAY-3** at **09:40**. Venue: Unknown. Teams: **Nizamabad** vs **Medak**.
+- **Match M-100** (ID: 553) is scheduled for **DAY-3** at **09:40**. Venue: Unknown. Teams: **Adilabad** vs **Bhadradri kothagudem**.
+- **Match M-1** (ID: 554) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Siddipet**.
+- **Match M-2** (ID: 555) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Nirmal**.
+- **Match M-3** (ID: 556) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Jayashankar bhupalpally**.
+- **Match M-4** (ID: 557) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Medchal-malkajgiri**.
+- **Match M-5** (ID: 558) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Peddapalli**.
+- **Match M-6** (ID: 559) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Nalgonda**.
+- **Match M-7** (ID: 560) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Rajanna sircilla**.
+- **Match M-8** (ID: 561) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Karimnagar**.
+- **Match M-9** (ID: 562) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **BYE**.
+- **Match M-10** (ID: 563) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Jangaon**.
+- **Match M-11** (ID: 564) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Bhadradri kothagudem**.
+- **Match M-12** (ID: 565) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Jagithyal**.
+- **Match M-13** (ID: 566) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Kumuram bheem (asifabad)**.
+- **Match M-14** (ID: 567) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Mahabubabad**.
+- **Match M-15** (ID: 568) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Mancherial**.
+- **Match M-16** (ID: 569) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **BYE**.
+- **Match M-17** (ID: 570) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **BYE**.
+- **Match M-18** (ID: 571) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Jangaon**.
+- **Match M-19** (ID: 572) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Bhadradri kothagudem**.
+- **Match M-20** (ID: 573) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Jagithyal**.
+- **Match M-21** (ID: 574) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Kumuram bheem (asifabad)**.
+- **Match M-22** (ID: 575) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Mahabubabad**.
+- **Match M-23** (ID: 576) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Mancherial**.
+- **Match 1** (ID: 577) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Siddipet**.
+- **Match M-24** (ID: 578) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **BYE**.
+- **Match M-2** (ID: 579) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Sangareddy**.
+- **Match M-3** (ID: 580) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Mahabubabad**.
+- **Match M-4** (ID: 581) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Kumuram bheem (asifabad)**.
+- **Match M-5** (ID: 582) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Suryapet**.
+- **Match M-6** (ID: 583) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Jayashankar bhupalpally**.
+- **Match M- 7** (ID: 584) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Nirmal**.
+- **Match M-8** (ID: 585) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Peddapalli**.
+- **Match M-9** (ID: 586) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Medak**.
+- **Match M-10** (ID: 587) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Warangal**.
+- **Match M-11** (ID: 588) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Bhadradri kothagudem**.
+- **Match M-12** (ID: 589) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Jangaon**.
+- **Match M-13** (ID: 590) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Medchal-malkajgiri**.
+- **Match M-14** (ID: 591) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Mancherial**.
+- **Match M-15** (ID: 592) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Kamareddy**.
+- **Match M-16** (ID: 593) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Narayanpet**.
+- **Match M-17** (ID: 594) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Medak**.
+- **Match M- 18** (ID: 595) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Sangareddy** vs **Warangal**.
+- **Match M-19** (ID: 596) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Bhadradri kothagudem**.
+- **Match M-20** (ID: 597) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Jangaon**.
+- **Match M-21** (ID: 598) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Suryapet** vs **Medchal-malkajgiri**.
+- **Match M- 22** (ID: 599) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Jayashankar bhupalpally** vs **Mancherial**.
+- **Match M-23** (ID: 600) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Kamareddy**.
+- **Match M-24** (ID: 601) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Narayanpet**.
+- **Match M-1** (ID: 602) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Mahabubabad**.
+- **Match M-2** (ID: 603) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Medchal-malkajgiri**.
+- **Match M-3** (ID: 604) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Rajanna sircilla**.
+- **Match M-4** (ID: 605) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Mancherial**.
+- **Match M-5** (ID: 606) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Karimnagar**.
+- **Match M-6** (ID: 607) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Adilabad**.
+- **Match M-7** (ID: 608) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Nirmal**.
+- **Match M-8** (ID: 609) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Jangaon**.
+- **Match M-9** (ID: 610) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **BYE**.
+- **Match M-1** (ID: 611) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Nirmal**.
+- **Match M-2** (ID: 612) is scheduled for **Day 2** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Karimnagar**.
+- **Match M-10** (ID: 613) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Jayashankar bhupalpally**.
+- **Match M-3** (ID: 614) is scheduled for **Day 3** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Mahabubnagar**.
+- **Match M-4** (ID: 615) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Jagithyal**.
+- **Match M-11** (ID: 616) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Bhadradri kothagudem**.
+- **Match M-12** (ID: 617) is scheduled for **DAY-1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Nalgonda**.
+- **Match M-5** (ID: 618) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Kumuram bheem (asifabad)**.
+- **Match M-6** (ID: 619) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Peddapalli**.
+- **Match M-7** (ID: 620) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Nalgonda**.
+- **Match M-13** (ID: 621) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Kumuram bheem (asifabad)**.
+- **Match M-8** (ID: 622) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Suryapet**.
+- **Match M-14** (ID: 623) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Peddapalli**.
+- **Match M-9** (ID: 624) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hyderabad** vs **Mancherial**.
+- **Match M-10** (ID: 625) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Hanumakonda** vs **Bhadradri kothagudem**.
+- **Match M-11** (ID: 626) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nizamabad** vs **Jangaon**.
+- **Match M-14** (ID: 627) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Peddapalli**.
+- **Match M-12** (ID: 628) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **Kamareddy**.
+- **Match M-13** (ID: 629) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Narayanpet**.
+- **Match M-15** (ID: 630) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Warangal** vs **Ranga reddy**.
+- **Match M-14** (ID: 631) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Medak** vs **Adilabad**.
+- **Match M-16** (ID: 632) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **BYE**.
+- **Match M-17** (ID: 633) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Mahabubabad** vs **BYE**.
+- **Match M-15** (ID: 634) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Siddipet** vs **Jayashankar bhupalpally**.
+- **Match M-18** (ID: 635) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Medchal-malkajgiri** vs **Jayashankar bhupalpally**.
+- **Match M-16** (ID: 636) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Ranga reddy** vs **Sangareddy**.
+- **Match M-17** (ID: 637) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Mancherial**.
+- **Match M-19** (ID: 638) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Rajanna sircilla** vs **Bhadradri kothagudem**.
+- **Match M-18** (ID: 639) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Bhadradri kothagudem**.
+- **Match M-20** (ID: 640) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Mancherial** vs **Nalgonda**.
+- **Match M- 20** (ID: 641) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Mahabubnagar** vs **Jangaon**.
+- **Match M-21** (ID: 642) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Karimnagar** vs **Kumuram bheem (asifabad)**.
+- **Match M-20** (ID: 643) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Jagithyal** vs **Kamareddy**.
+- **Match M-22** (ID: 644) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Adilabad** vs **Peddapalli**.
+- **Match M-21** (ID: 645) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Kumuram bheem (asifabad)** vs **Narayanpet**.
+- **Match M-22** (ID: 646) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Peddapalli** vs **Kumuram bheem (asifabad)**.
+- **Match M-23** (ID: 647) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Nirmal** vs **Ranga reddy**.
+- **Match M-23** (ID: 648) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Nalgonda** vs **Jayashankar bhupalpally**.
+- **Match M-24** (ID: 649) is scheduled for **Day 1** at **Unknown**. Venue: Unknown. Teams: **Suryapet** vs **Sangareddy**.
+- **Match M-24** (ID: 650) is scheduled for **DAY-2** at **Unknown**. Venue: Unknown. Teams: **Jangaon** vs **BYE**.

@@ -1,0 +1,13 @@
+CM Cup 2025 Disciplines by Level:
+
+GP Level Disciplines included are: Athletics
+(100M ,200M,400M walk and run & Other events enabled by IT Team ), Kabaddi, Kho-Kho, Volleyball, Yoga.
+
+Mandal Level Disciplines included are: Athletics, Football, Kabaddi, Kho-Kho, Volleyball, Yoga.
+
+Assembly Consituency Level Disciplines included are: Athletics, Basketball, Chess, Cycling, Football, Handball, Kabaddi, Kho-Kho, Volleyball, Yoga.
+
+District Level Disciplines included are: Archery, Athletics, Atyapatya, Badminton, Ball Badminton, Baseball, Basketball, Boxing, Chess, Cycling, Football, Gymnastics, Handball, Hockey, Judo, Kabaddi, Karate, Kho-Kho, Kickboxing, Netball, Para Games (Athletics Volleyball), Power Lifting, Sepak Takraw, Skating, Softball, Swimming, Table tennis, Taekwondo, Volleyball, Weight lifting, Wrestling, Wushu, Yoga.
+
+State Level Disciplines included are: Archery, Athletics, Atyapatya, Badminton, Ball Badminton, Baseball, Basketball, Billiard & snooker, Boxing, Canoeing & Kayaking, Chess, Cycling, Fencing, Football, Gymnastics, Handball, Hockey, Judo, Kabaddi, Karate, Kho-Kho, Kickboxing, Lawn tennis, Mallakhamb, Netball, Para Games, Pickle Ball, Power Lifting, Recreational(Children/Others), Rowing, Sailing, Sepak Takraw, Shooting, Skating, Softball, Squash, Swimming, Table tennis, Taekwondo, Volleyball, Weight lifting, Wrestling, Wushu, Yoga.
+
