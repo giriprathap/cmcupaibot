@@ -246,7 +246,7 @@ def create_response(content, source, model=None):
         return {
             "text": content["text"],
             "menus": content["menus"],
-            "response": content["text"], # Legacy
+            "isMenusAvailable": True if content["menus"] else False,
             "source": source
         }
     
@@ -255,6 +255,7 @@ def create_response(content, source, model=None):
     base = {
         "text": resp_text,
         "menus": [],
+        "isMenusAvailable": False,
         "response": resp_text,
         "source": source
     }
