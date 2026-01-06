@@ -256,7 +256,6 @@ def create_response(content, source, model=None):
         "text": resp_text,
         "menus": [],
         "isMenusAvailable": False,
-        "response": resp_text,
         "source": source
     }
     if model:
@@ -813,11 +812,14 @@ async def process_user_query(raw_query: str, session_id: str = None):
                             SESSION_STATE[session_id] = MENU_SELECT_SPORT
                             SESSION_DATA[session_id] = {"sports": games, "level_title": display_title}
 
-                        txt = f"### 🏅 Sports at {display_title}\n\n"
+                        menu_list = []
                         for i, g in enumerate(games, 1):
-                            txt += f"{i}. {g}\n"
-                        txt += "\nℹ️ *Select a number to view details (Age, Events, Rules)*"
-                        return create_response(txt, "sql_database")
+                            menu_list.append({"name": g, "value": str(i)})
+                        
+                        return create_response({
+                            "text": f"### 🏅 Sports at {display_title}",
+                            "menus": menu_list
+                        }, "sql_database")
                     else:
                          return create_response(f"ℹ️ No sports found specifically for **{display_title}** in the database.", "sql_database")
                 except Exception as e:
@@ -838,29 +840,15 @@ async def process_user_query(raw_query: str, session_id: str = None):
                      SESSION_STATE[session_id] = MENU_GAME_OPTIONS
                      SESSION_DATA[session_id]["selected_sport"] = selected_sport
                 
-                return {
-                    "response": (
-                        f"🏅 **{selected_sport}** - Options\n\n"
-                        "1️⃣ Age Criteria\n"
-                        "2️⃣ Events of the Game\n"
-                        "3️⃣ Rules of Game\n\n"
-                        "🔙 *Type 'Back' to list sports again*"
-                    ),
-                    "text": (
-                        f"🏅 **{selected_sport}** - Options\n\n"
-                        "1️⃣ Age Criteria\n"
-                        "2️⃣ Events of the Game\n"
-                        "3️⃣ Rules of Game\n\n"
-                        "🔙 *Type 'Back' to list sports again*"
-                    ),
+                return create_response({
+                    "text": f"🏅 **{selected_sport}** - Options",
                     "menus": [
                         {"name": "Age Criteria", "value": "1"},
                         {"name": "Events of the Game", "value": "2"},
                         {"name": "Rules of Game", "value": "3"},
                         {"name": "Back", "value": "Back"}
-                    ],
-                    "source": "menu_system"
-                }
+                    ]
+                }, "menu_system")
             else:
                  return create_response("❌ Invalid Option. Please select a number from the list above.", "validation_error")
 
@@ -894,20 +882,14 @@ async def process_user_query(raw_query: str, session_id: str = None):
                      return create_response("ℹ️ Link not available.", "error")
                 
                 url = f"https://satg.telangana.gov.in/cmcup/showDisciplineEvents/{game_id}"
-                return {
-                    "response": (
+                return create_response({
+                    "text": (
                         f"🏆 **Events for {selected_sport}**\n\n"
                         f"Please visit the official link below to view all events:\n"
                         f"👉 [View Events for {selected_sport}]({url})"
                     ),
-                   "text": (
-                        f"🏆 **Events for {selected_sport}**\n\n"
-                        f"Please visit the official link below to view all events:\n"
-                        f"👉 [View Events for {selected_sport}]({url})"
-                    ),
-                    "menus": [],
-                    "source": "static_link"
-                }
+                    "menus": []
+                }, "static_link")
 
             elif choice == 3: # Rules
                  return create_response("📜 **Rules of Game**\n\nThe rulebook is currently being updated. Please check back later!", "static_placeholder")
@@ -925,22 +907,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
                 if session_id: SESSION_STATE[session_id] = STATE_WAIT_ACK
                 return create_response("🔢 **Search by Acknowledgment No**\n\nPlease enter your **Acknowledgment Number** (e.g., SATGCMC-...).", "menu_system")
 
-        # --- SUB MENU: DISCIPLINES ---
-        elif current_state == MENU_DISCIPLINES:
-            level_map = {1: "cluster", 2: "mandal", 3: "assembly", 4: "district", 5: "state"}
-            if choice in level_map:
-                from rag.sql_queries import get_disciplines_by_level
-                lvl_name = level_map[choice]
-                discs = get_disciplines_by_level(lvl_name)
-                
-                txt = f"🏆 **Disciplines at {lvl_name.title()} Level:**\n\n"
-                if discs:
-                    for d in discs:
-                        txt += f"• {d.get('dist_game_nm')}\n"
-                    txt += "\nType a **Sport Name** for rules or schedule."
-                else:
-                    txt += "ℹ️ No specific disciplines listed for this level yet."
-                return create_response(txt, "sql_database")
+
         
         # --- SUB MENU: REG FAQ ---
         elif current_state == MENU_REG_FAQ:
@@ -976,16 +943,7 @@ async def process_user_query(raw_query: str, session_id: str = None):
         elif current_state == MENU_SCHEDULE:
             if choice == 1:
                 # Tournament Schedule (Static)
-                return {
-                    "response": (
-                        "🗓️ **Tournament Schedule**\n\n"
-                        "🔸 **Gram Panchayat / Cluster:** 17 Jan - 22 Jan 2026\n"
-                        "🔸 **Mandal Level:** 28 Jan - 31 Jan 2026\n"
-                        "🔸 **Assembly Constituency:** 03 Feb - 07 Feb 2026\n"
-                        "🔸 **District Level:** 10 Feb - 14 Feb 2026\n"
-                        "🔸 **State Level:** 19 Feb - 26 Feb 2026\n\n"
-                        "🔙 *Type 'Back' to return to Main Menu*"
-                    ),
+                return create_response({
                     "text": (
                         "🗓️ **Tournament Schedule**\n\n"
                         "🔸 **Gram Panchayat / Cluster:** 17 Jan - 22 Jan 2026\n"
@@ -995,9 +953,8 @@ async def process_user_query(raw_query: str, session_id: str = None):
                         "🔸 **State Level:** 19 Feb - 26 Feb 2026\n\n"
                         "🔙 *Type 'Back' to return to Main Menu*"
                     ),
-                    "menus": [],
-                    "source": "static_data"
-                }
+                    "menus": [{"name": "Main Menu", "value": "Back"}]
+                }, "static_data")
             elif choice == 2:
                 # Games Schedule (Game Search)
                 if session_id: SESSION_STATE[session_id] = MENU_SCHEDULE_GAME_SEARCH
